@@ -1,3 +1,6 @@
 Republic,,,The Republic,,,https://github.com/codalnest/files/blob/master/republic.md?raw=true,,,SECTION 
-TestRepublic,,,Test Republic,,,https://github.com/codalnest/files/blob/master/republic.md?raw=true,,,SECTION 
-MoreRepublic,,,More Republic,,,https://github.com/codalnest/files/blob/master/republic.md?raw=true,,,SECTION 
+LaborCode,,,Labor Code (Renumbered),,,https://github.com/codalnest/files/blob/master/labor-code-full.md?raw=true,,,ART 
+RevisedCorporationCode,,,RevisedCorporationCode,,,https://github.com/codalnest/files/blob/master/rev-corp-code-full.md?raw=true,,,SECTION 
+RevisedPenalCode,,,Revised Penal Code,,,https://github.com/codalnest/files/blob/master/rpc-full.md?raw=true,,,SECTION 
+RulesOfCourt,,,Rules of Court,,,https://github.com/codalnest/files/blob/master/roc-full.md?raw=true,,,Section 
+TaxCode,,,Tax Code (NIRC),,,https://github.com/codalnest/files/blob/master/tax-code.md?raw=true,,,SEC  Meditations,,,Meditations,,,https://github.com/codalnest/files/blob/master/meditations.md?raw=true,,,SECTION 
