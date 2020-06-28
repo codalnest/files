@@ -2,7 +2,7 @@
 
 @TAB I. ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE
 
-# NATIONAL INTERNAL REVENUE COD
+# NATIONAL INTERNAL REVENUE CODE
 
 ## TITLE I
 
@@ -229,8 +229,6 @@ The following taxes, fees and charges are deemed to be national internal revenue
 ## TITLE II
 
 ## TAX ON INCOME
-
-@TAB > I. DEFINITIONS
 
 ### CHAPTER I
 ### DEFINITIONS
