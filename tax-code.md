@@ -228,8 +228,6 @@ The following taxes, fees and charges are deemed to be national internal revenue
 
 ## TAX ON INCOME
 
-(As Last Amended by RA No. 10653)
-
 @TAB > I. DEFINITIONS
 
 ### CHAPTER I
