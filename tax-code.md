@@ -6,8 +6,6 @@
 
 ## ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE
 
-###### (As last amended by R.A. No. 10963) 
-
 SEC. 1. ``Title of the Code. -``
 
 This Code shall be known as the National Internal Revenue Code of 1997.
