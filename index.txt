@@ -8,7 +8,7 @@ RevisedPenalCode,,,Revised Penal Code,,,https://github.com/codalnest/files/blob/
 
 RulesOfCourt,,,Rules of Court,,,https://github.com/codalnest/files/blob/master/roc-full.md?raw=true,,,Section 
 
-TaxCode,,,Tax Code (NIRC),,,https://github.com/codalnest/files/blob/master/tax-code.md?raw=true,,,SEC. 
+TaxCode,,,Tax Code (NIRC),,,https://github.com/codalnest/files/blob/master/tax-code.md?raw=true,,,SEC
 
 Meditations,,,Meditations,,,https://github.com/codalnest/files/blob/master/meditations.md?raw=true,,,SECTION 
 
