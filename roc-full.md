@@ -496,7 +496,7 @@ Section 3. ``Default; declaration of. —``
 
 If the defending party fails to answer within the time allowed therefor, the court shall, upon motion of the claiming party with notice to the defending party, and proof of such failure, declare the defending party in default. Thereupon, the court shall proceed to render judgment granting the claimant such relief as his __or her__ pleading may warrant, unless the court in its discretion requires the claimant to submit evidence. Such reception of evidence may be delegated to the clerk of court.
 
-(a) ``Effect of order of default.`` — A party in default shall be entitled to notice of subsequent proceedings but __shall__ not to take part in the trial.
+(a) ``Effect of order of default.`` — A party in default shall be entitled to notice of subsequent proceedings but __shall__ not take part in the trial.
 
 (b) ``Relief from order of default.`` — A party declared in default may at any time after notice thereof and before judgment file a motion under oath to set aside the order of default upon proper showing that his __or her__ failure to answer was due to fraud, accident, mistake or excusable negligence and that he __or she__ has a meritorious defense. In such case, the order of default may be set aside on such terms and conditions as the judge may impose in the interest of justice.
 
