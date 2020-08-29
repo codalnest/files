@@ -1,14 +1,14 @@
-Republic,,,The Republic,,,https://github.com/codalnest/files/blob/master/republic.md?raw=true,,,SECTION,,,0,,,1
+republic,,,The Republic,,,https://github.com/codalnest/files/blob/master/republic.md?raw=true,,,SECTION,,,0,,,1
 
-LaborCode,,,Labor Code (Renumbered),,,https://github.com/codalnest/files/blob/master/labor-code-full.md?raw=true,,,ART,,,250.00,,,1
+laborcode,,,Labor Code (Renumbered),,,https://github.com/codalnest/files/blob/master/labor-code-full.md?raw=true,,,ART,,,250.00,,,1
 
-RevisedCorporationCode,,,Revised Corporation Code,,,https://github.com/codalnest/files/blob/master/rev-corp-code-full.md?raw=true,,,SECTION,,,150.00,,,1
+revisedcorporationcode,,,Revised Corporation Code,,,https://github.com/codalnest/files/blob/master/rev-corp-code-full.md?raw=true,,,SECTION,,,150.00,,,1
 
-RevisedPenalCode,,,Revised Penal Code,,,https://github.com/codalnest/files/blob/master/rpc-full.md?raw=true,,,ART.,,,250.00,,,4
+revisedpenalcode,,,Revised Penal Code,,,https://github.com/codalnest/files/blob/master/rpc-full.md?raw=true,,,ART.,,,250.00,,,4
 
-RulesOfCourt,,,Rules of Court,,,https://github.com/codalnest/files/blob/master/roc-full.md?raw=true,,,Section,,,300.00,,,1
+rulesofcourt,,,Rules of Court,,,https://github.com/codalnest/files/blob/master/roc-full.md?raw=true,,,Section,,,300.00,,,1
 
-TaxCode,,,Tax Code (NIRC),,,https://github.com/codalnest/files/blob/master/tax-code.md?raw=true,,,SEC,,,250.00,,,1
+taxcode,,,Tax Code (NIRC),,,https://github.com/codalnest/files/blob/master/tax-code.md?raw=true,,,SEC,,,250.00,,,1
 
-Meditations,,,Meditations,,,https://github.com/codalnest/files/blob/master/meditations.md?raw=true,,,SECTION,,,0,,,1
+meditations,,,Meditations,,,https://github.com/codalnest/files/blob/master/meditations.md?raw=true,,,SECTION,,,0,,,1
 
