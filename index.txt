@@ -1,5 +1,7 @@
 civilcode,,,New Civil Code,,,https://github.com/codalnest/files/blob/master/civil-code-full.md?raw=true,,,ARTICLE,,,0,,,1
 
+familycode,,,Family Code,,,https://github.com/codalnest/files/blob/master/family-code-full.md?raw=true,,,Art.,,,0,,,1
+
 laborcode,,,Labor Code (Renumbered),,,https://github.com/codalnest/files/blob/master/labor-code-full.md?raw=true,,,ART,,,250.00,,,1
 
 revisedcorporationcode,,,Revised Corporation Code,,,https://github.com/codalnest/files/blob/master/rev-corp-code-full.md?raw=true,,,SECTION,,,150.00,,,1
