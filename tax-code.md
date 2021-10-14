@@ -481,11 +481,11 @@ Any income of nonresidents, whether individuals or corporations, from transactio
 
 (4) ``Intercorporate Dividends. -`` Dividends received by a domestic corporation shall not be subject to tax under this Title: Provided, That for foreign-sourced dividends to be exempt, the funds from such dividends actually received or remitted into the Philippines are reinvested in the business operations of the domestic corporation in the Philippines within the next taxable year from the time the foreign-sourced dividends were received and shall be limited to funding the working capital requirements, capital expenditures, dividend payments, investment in domestic subsidiaries, and infrastructure project: Provided, further, That the domestic corporation holds directly at least twenty percent (20%) of the outstanding shares of the foreign corporation and has held the shareholdings for a minimum of two (2) years at the time of the dividends distribution. (``as amended by the RA 11534 - CREATE Act.``)
 
-(5) ``Capital Gains Realized from the Sale, Exchange or Disposition of Lands and/or Buildings. -`` A final tax of six percent (6%) is hereby imposed on the gain presumed to have been realized on the sale, exchange or disposition of lands and/or buildings which are not actually used in the business of a corporation and are treated as capital assets, based on the gross selling price of fair market value as determined in accordance with Section 6(E) of this Code, whichever is higher, of such lands and/or buildings.
+(5) ``Capital Gains Realized from the Sale, Exchange or Disposition of Lands and/or Buildings. -`` (``deleted by RA 11534 - CREATE Act.``)
 
 (E) ``Minimum Corporate Income Tax on Domestic Corporations. -``
 
-(1) ``Imposition of Tax. -`` A minimum corporate income tax of two percent (2%) of the gross income as of the end of the taxable year, as defined herein, is hereby imposed on a corporation taxable under this Title, beginning on the fourth taxable year immediately following the year in which such corporation commenced its business operations, when the minimum income tax is greater than the tax computed under Subsection (A) of this Section for the taxable year.
+(1) ``Imposition of Tax. -`` A minimum corporate income tax of two percent (2%) of the gross income as of the end of the taxable year, as defined herein, is hereby imposed on a corporation taxable under this Title, beginning on the fourth taxable year immediately following the year in which such corporation commenced its business operations, when the minimum income tax is greater than the tax computed under Subsection (A) of this Section for the taxable year: ``Provided``, That effective July 1, 2020 until June 30, 2023, the rate shall be one percent (1%). (``as amended by the RA 11534 - CREATE Act.``)
 
 (2) ``Carry Forward of Excess Minimum Tax. -`` Any excess of the minimum corporate income tax over the normal income tax as computed under Subsection (A) of this Section shall be carried forward and credited against the normal income tax for the three (3) immediately succeeding taxable years.
 
@@ -505,15 +505,13 @@ SEC. 28. ``Rates of Income Tax on Foreign Corporations. -``
 
 (A) ``Tax on Resident Foreign Corporations. -`` 
 
-(1)  ``In General. -`` Except as otherwise provided in this Code, a corporation organized, authorized, or existing under the laws of any foreign country, engaged in trade or business within the Philippines, shall be subject to an income tax equivalent to thirty-five percent (35%) of the taxable income derived in the preceding taxable year from all sources within the Philippines: ``Provided``, That effective January 1, 2009, the rate of income tax shall be thirty percent (30%).
+(1)  ``In General. -`` Except as otherwise provided in this Code, a corporation organized, authorized, or existing under the laws of any foreign country, engaged in trade or business within the Philippines, shall be subject to an income tax equivalent to twenty-five percent (25%) of the taxable income derived in the preceding taxable year from all sources within the Philippines effective July 1, 2020.
 
-In the case of corporations adopting the fiscal-year accounting period, the taxable income shall be computed without regard to the specific date when sales, purchases and other transactions occur. Their income and expenses for the fiscal year shall be deemed to have been earned and spent equally for each month of the period.
+In the case of corporations adopting the fiscal-year accounting period, the taxable income shall be computed without regard to the specific date when sales, purchases and other transactions occur.  Their income and expenses for the fiscal year shall be deemed to have been earned and spent equally for each month of the period.
 
-The corporate income tax rate shall be applied on the amount computed by multiplying the number of months covered by the new rate within the fiscal year by the taxable income of the corporation for the period, divided by twelve.
+The corporate income tax rate shall be applied on the amount computed by multiplying the number of months covered by the new rate within the fiscal year by the taxable income of the corporation for the period, divided by twelve. (``as amended by the RA 11534 - CREATE Act.``)
 
-Provided, however, That a resident foreign corporation shall be granted the option to be taxed at fifteen percent (15%) on gross income under the same conditions, as provided in Section 27 (A).
-
-(2)  ``Minimum Corporate Income Tax on Resident Foreign Corporations. -`` A minimum corporate income tax of two percent (2%) of gross income, as prescribed under Section 27 (E) of this Code, shall be imposed, under the same conditions, on a resident foreign corporation taxable under paragraph (1) of this Subsection.
+(2)  ``Minimum Corporate Income Tax on Resident Foreign Corporations. -`` A minimum corporate income tax of two percent (2%) of gross income, as prescribed under Section 27(E) of this Code, shall be imposed, under the same conditions, on a resident foreign corporation taxable under paragraph (1) of this Subsection: Provided, That effective July 1, 2020 until June 30, 2023, the rate shall be one percent (1%). (``as amended by the RA 11534 - CREATE Act.``)
 
 (3)  ``International Carrier. -`` An international carrier doing business in the Philippines shall pay a tax of two and one-half percent (2 1/2 %) on its 'Gross Philippine Billings' as defined hereunder:
 
@@ -523,37 +521,29 @@ Provided, however, That a resident foreign corporation shall be granted the opti
 
 Provided, That international carriers doing business in the Philippines may avail of a preferential rate or exemption from the tax herein imposed on their gross revenue derived from the carriage of persons and their excess baggage on the basis of an applicable tax treaty or international agreement to which the Philippines is a signatory or on the basis of reciprocity such that an international carrier, whose home country grants income tax exemption to Philippine carriers, shall likewise be exempt from the tax imposed under this provision.
 
-(4)  ``Offshore Banking Units. -`` The provisions of any law to the contrary notwithstanding, income derived by offshore banking units authorized by the Bangko Sentral ng Pilipinas (BSP), from foreign currency transactions with nonresidents, other offshore banking units, local commercial banks, including branches of foreign banks that may be authorized by the Bangko Sentral ng Pilipinas (BSP) to transact business with offshore banking units shall be exempt from all taxes except net income from such transactions as may be specified by the Secretary of Finance, upon recommendation of the Monetary Board which shall be subject to the regular income tax payable by banks: ``Provided, however``, That any interest income derived from foreign currency loans granted to residents other than offshore banking units or local commercial banks, including local, branches of foreign banks that may be authorized by the BSP to transact business with offshore banking units, shall be subject only to a final tax at the rate of ten percent (10%).
+(4)  ``Tax on Branch Profits Remittances. -`` Any profit remitted by a branch to its head office shall be subject to a tax of fifteen (15%) which shall be based on the total profits applied or earmarked for remittance without any deduction for the tax component thereof (except those activities which are registered with the Philippine Economic Zone Authority). The tax shall be collected and paid in the same manner as provided in Sections 57 and 58 of this Code: ``Provided``, that interests, dividends, rents, royalties, including remuneration for technical services, salaries, wages premiums, annuities, emoluments or other fixed or determinable annual, periodic or casual gains, profits, income and capital gains received by a foreign corporation during each taxable year from all sources within the Philippines shall not be treated as branch profits unless the same are effectively connected with the conduct of its trade or business in the Philippines.
 
-Any income of nonresidents, whether individuals or corporations, from transactions with said offshore banking units shall be exempt from income tax.
-
-(5)  ``Tax on Branch Profits Remittances. -`` Any profit remitted by a branch to its head office shall be subject to a tax of fifteen (15%) which shall be based on the total profits applied or earmarked for remittance without any deduction for the tax component thereof (except those activities which are registered with the Philippine Economic Zone Authority). The tax shall be collected and paid in the same manner as provided in Sections 57 and 58 of this Code: ``Provided``, that interests, dividends, rents, royalties, including remuneration for technical services, salaries, wages premiums, annuities, emoluments or other fixed or determinable annual, periodic or casual gains, profits, income and capital gains received by a foreign corporation during each taxable year from all sources within the Philippines shall not be treated as branch profits unless the same are effectively connected with the conduct of its trade or business in the Philippines.
-
-(6) Regional or Area Headquarters and Regional Operating Headquarters of Multinational Companies. -
+(5) ``Regional or Area Headquarters and Regional Operating Headquarters of Multinational Companies.`` -
 
 (a) Regional or area headquarters as defined in Section 22(DD) shall not be subject to income tax.
 
-(b) Regional operating headquarters as defined in Section 22(EE) shall pay a tax of ten percent (10%) of their taxable income.
+(b) Regional operating headquarters as defined in Section 22(EE) shall pay a tax of ten percent (10%) of their taxable income: Provided, That effective January 1, 2022, regional operating headquarters shall be subject to the regular corporate income tax. (``as amended by the RA 11534 - CREATE Act.``)
 
-(7) ``Tax on Certain Incomes Received by a Resident Foreign Corporation. -`` 
+(6) ``Tax on Certain Incomes Received by a Resident Foreign Corporation. -`` 
 
-(a)  ``Interest from Deposits and Yield or any other Monetary Benefit from Deposit Substitutes, Trust Funds and Similar Arrangements and Royalties. -`` Interest from any currency bank deposit and yield or any other monetary benefit from deposit substitutes and from trust funds and similar arrangements and royalties derived from sources within the Philippines shall be subject to a final income tax at the rate of twenty percent (20%) of such interest: ``Provided, however``, That interest income derived by a resident foreign corporation from a depository bank under the expanded foreign currency deposit system shall be subject to a final income tax at the rate of seven and one-half percent (7 1/2%) of such interest income.
+(a)  ``Interest from Deposits and Yield or Any Other Monetary Benefit from Deposit Substitutes, Trust Funds and Similar Arrangements and Royalties. -`` Interest from any currency bank deposit and yield or any other monetary benefit from deposit substitutes and from trust funds and similar arrangements and royalties derived from sources within the Philippines shall be subject to a final income tax at the rate of twenty percent (20%) of such interest: Provided, however , That interest income derived by a resident foreign corporation from a depository bank under the expanded foreign currency deposit system shall be subject to a final income tax at the rate of fifteen percent (15%) of such interest income. (``as amended by the RA 11534 - CREATE Act.``)
 
 (b)  ``Income Derived under the Expanded Foreign Currency Deposit System. -`` Income derived by a depository bank under the expanded foreign currency deposit system from foreign currency transactions with nonresidents, offshore banking units in the Philippines, local commercial banks including branches of foreign banks that may be authorized by the Bangko Sentral ng Pilipinas (BSP) to transact business with foreign currency deposit system units, and other depository banks under the expanded foreign currency deposit system shall be exempt from all taxes, except net income from such transactions as may be specified by the Secretary of Finance, upon recommendation by the Monetary Board to be subject to the regular income tax payable by banks: ``Provided, however``, That interest income from foreign currency loans granted by such depository banks under said expanded system to residents other than offshore banking units in the Philippines or other depository banks under the expanded system shall be subject to a final tax at the rate of ten percent (10%).
 
 Any income of nonresidents, whether individuals or corporations, from transactions with depository banks under the expanded system shall be exempt from income tax.
 
-(c)  ``Capital Gains from Sale of Shares of Stock Not Traded in the Stock Exchange. -`` A final tax at the rates prescribed below is hereby imposed upon the net capital gains realized during the taxable year from the sale, barter, exchange or other disposition of shares of stock in a domestic corporation except shares sold or disposed of through the stock exchange:
-
-Not over P 100,000 ......... 5%
-
-On any amount in excess of P 100,000 .......... 10%
+(c)  ``Capital Gains from Sale of Shares of Stock Not Traded in the Stock Exchange. -`` A final tax at the rate of fifteen percent (15%) is hereby imposed upon the net capital gains realized during the taxable year from the sale, barter, exchange or other disposition of shares of stock in a domestic corporation except shares sold or disposed of through the stock exchange. (``as amended by the RA 11534 - CREATE Act.``)
 
 (d)  ``Intercorporate Dividends. -`` Dividends received by a resident foreign corporation from a domestic corporation liable to tax under this Code shall not be subject to tax under this Title.
 
 (B) ``Tax on Nonresident Foreign Corporation. -`` 
 
-(1)  ``In General. -`` Except as otherwise provided in this Code, a foreign corporation not engaged in trade or business in the Philippines shall pay a tax equal to thirty-five percent (35%) of the gross income received during each taxable year from all sources within the Philippines, such as interests, dividends, rents, royalties, salaries, premiums (except reinsurance premiums), annuities, emoluments or other fixed or determinable annual, periodic or casual gains, profits and income, and capital gains, except capital gains subject to tax under subparagraph 5 ( c ): ``Provided``, That effective January 1, 2009, the rate of income tax shall be thirty percent (30%).
+(1)  ``In General. -`` Except as otherwise provided in this Code, a foreign corporation not engaged in trade or business in the Philippines, effective January 1, 2021, shall pay a tax equal to twentyfive percent (25%) of the gross income received during each taxable year from all sources within the Philippines, such as interests, dividends, rents, royalties, salaries, premiums (except reinsurance premiums), annuities, emoluments or other fixed or determinable annual, periodic or casual gains, profits and income, and capital gains, except capital gains subject to tax under subparagraph 5(c). (``as amended by the RA 11534 - CREATE Act.``)
 
 (2)  ``Nonresident Cinematographic Film Owner, Lessor or Distributor. -`` A cinematographic film owner, lessor, or distributor shall pay a tax of twenty-five percent (25%) of its gross income from all sources within the Philippines.
 
@@ -565,55 +555,11 @@ On any amount in excess of P 100,000 .......... 10%
 
 (a)  ``Interest on Foreign Loans. -`` A final withholding tax at the rate of twenty percent (20%) is hereby imposed on the amount of interest on foreign loans contracted on or after August 1, 1986;
 
-(b)  ``Intercorporate Dividends. -`` A final withholding tax at the rate of fifteen percent (15%) is hereby imposed on the amount of cash and/or property dividends received from a domestic corporation, which shall be collected and paid as provided in Section 57 (A) of this Code, subject to the condition that the country in which the nonresident foreign corporation is domiciled, shall allow a credit against the tax due from the nonresident foreign corporation taxes deemed to have been paid in the Philippines equivalent to twenty percent (20%), which represents the difference between the regular income tax of thirty-five percent (35%) and the fifteen percent (15%) tax on dividends as provided in this subparagraph: ``Provided``, that effective January 1, 2009, the credit against the tax due shall be equivalent to fifteen percent (15%), which represents the difference between the regular income tax of thirty percent (30%) and the fifteen percent (15%) tax on dividends;
+(b)  ``Intercorporate Dividends. -`` A final withholding tax at the rate of fifteen percent (15%) is hereby imposed on the amount of cash and/or property dividends received from a domestic corporation, which shall be collected and paid as provided in Section 57(A) of this Code, subject to the condition that the country in which the nonresident foreign corporation is domiciled, shall allow a credit against the tax due from the nonresident foreign corporation taxes deemed to have been paid in the Philippines equivalent to fifteen percent (15%), which represents the difference between the regular income tax and the fifteen percent (15%) tax on dividends as provided in this subparagraph: ``Provided``, That effective July 1, 2020, the credit against the tax due shall be equivalent to the difference between the regular income tax rate provided in Section 28(B)(1) of this Code and the fifteen percent (15%) tax on dividends; (``as amended by the RA 11534 - CREATE Act.``)
 
-(c)  ``Capital Gains from Sale of Shares of Stock not Traded in the Stock Exchange. -`` A final tax at the rates prescribed below is hereby imposed upon the net capital gains realized during the taxable year from the sale, barter, exchange or other disposition of shares of stock in a domestic corporation, except shares sold, or disposed of through the stock exchange:
+(c)  ``Capital Gains from Sale of Shares of Stock not Traded in the Stock Exchange. -`` A final tax at the rate of fifteen percent (15%) is hereby imposed upon the net capital gains realized during the taxable year from the sale, barter, exchange or other disposition of shares of stock in a domestic corporation, except shares sold, or disposed of through the stock exchange. (``as amended by the RA 11534 - CREATE Act.``)
 
-Not over P 100,000 .......... 5%
-
-On any amount in excess of P 100,000 .......... 10%
-
-SEC. 29. ``Imposition of Improperly Accumulated Earnings Tax. -``
-
-(A)  ``In General. -`` In addition to other taxes imposed by this Title, there is hereby imposed for each taxable year on the improperly accumulated taxable income of each corporation described in Subsection B hereof, an improperly accumulated earnings tax equal to ten percent (10%) of the improperly accumulated taxable income.
-
-(B) ``Tax on Corporations Subject to Improperly Accumulated Earnings Tax. -`` 
-
-(1)  ``In General. -`` The improperly accumulated earnings tax imposed in the preceding Section shall apply to every corporation formed or availed for the purpose of avoiding the income tax with respect to its shareholders or the shareholders of any other corporation, by permitting earnings and profits to accumulate instead of being divided or distributed.
-
-(2)  ``Exceptions. -`` The improperly accumulated earnings tax as provided for under this Section shall not apply to:
-
-(a) Publicly-held corporations;
-
-(b) Banks and other nonbank financial intermediaries; and
-
-(c) Insurance companies.
-
-(C) ``Evidence of Purpose to Avoid Income Tax. -`` 
-
-(1) ``Prima Facie Evidence. -`` The fact that any corporation is a mere holding company or investment company shall be ``prima facie`` evidence of a purpose to avoid the tax upon its shareholders or members.
-
-(2)  ``Evidence Determinative of Purpose. -`` The fact that the earnings or profits of a corporation are permitted to accumulate beyond the reasonable needs of the business shall be determinative of the purpose to avoid the tax upon its shareholders or members unless the corporation, by the clear preponderance of evidence, shall prove to the contrary.
-
-(D)  ``Improperly Accumulated Taxable Income. -`` For purposes of this Section, the term 'improperly accumulated taxable income' means taxable income adjusted by:
-
-(a) Income exempt from tax;
-
-(b) Income excluded from gross income;
-
-(c) Income subject to final tax; and
-
-(d) The amount of net operating loss carry-over deducted;
-
-And reduced by the sum of:
-
-(a) Dividends actually or constructively paid; and
-
-(b) Income tax paid for the taxable year.
-
-``Provided, however``, That for corporations using the calendar year basis, the accumulated earnings tax shall not apply on improperly accumulated income as of December 31, 1997. In the case of corporations adopting the fiscal year accounting period, the improperly accumulated income not subject to this tax, shall be reckoned, as of the end of the month comprising the twelve (12)-month period of fiscal year 1997-1998.
-
-(E)  ``Reasonable Needs of the Business. -`` For purposes of this Section, the term 'reasonable needs of the business' includes the reasonably anticipated needs of the business.
+SEC. 29. ``Imposition of Improperly Accumulated Earnings Tax. -`` (``repealed by RA 11534 - CREATE Act.``) 
 
 SEC. 30. ``Exemptions from Tax on Corporations. -``
 
