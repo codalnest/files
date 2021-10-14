@@ -456,39 +456,18 @@ Each partner shall report as gross income his distributive share, actually or co
 
 SEC. 27. ``Rates of Income Tax on Domestic Corporations. -``
 
-(A) ``In General. -`` Except as otherwise provided in this Code, an income tax of thirty-five percent (35%) is hereby imposed upon the taxable income derived during each taxable year from all sources within and without the Philippines by every corporation, as defined in Section 22(B) of this Code and taxable under this Title as a corporation, organized in, or existing under the laws of the Philippines: ``Provided``, That effective January 1, 2009, the rate of income tax shall be thirty percent (30%).
+(A) In General . — Except as otherwise provided in this Code, an income tax rate of twenty-five percent (25%) effective July 1, 2020, is hereby imposed upon the taxable income derived during each taxable year from all sources within and without the Philippines by every corporation, as defined in Section 22(B) of this Code and taxable under this Title as a corporation, organized in, or existing under the laws of the Philippines. 
 
-In the case of corporations adopting the fiscal-year accounting period, the taxable income shall be computed without regard to the specific date when specific sales, purchases and other transactions occur. Their income and expenses for the fiscal year shall be deemed to have been earned and spent equally for each month of the period.
+``Provided,`` That corporations with net taxable income not exceeding Five million pesos (P5,000,000.00) and with total assets not exceeding One hundred million pesos (P100,000,000.00), excluding land on which the particular business entity's office, plant, and equipment are situated during the taxable year for which the tax is imposed, shall be taxed at twenty percent (20%). 
 
-The corporate income tax rate shall be applied on the amount computed by multiplying the number of months covered by the new rate within the fiscal year by the taxable income of the corporation for the period, divided by twelve.
+In the case of corporations adopting the fiscal-year accounting period, the taxable income shall be computed without regard to the specific date when specific sales, purchases and other transactions occur. Their income and expenses for the fiscal year shall be deemed to have been earned and spent equally for each month of the period. 
 
-Provided, further, That the President, upon the recommendation of the Secretary of Finance, may effective January 1, 2000, allow corporations the option to be taxed at fifteen percent (15%) of gross income as defined herein, after the following conditions have been satisfied:
+The corporate income tax rate shall be applied on the amount computed by multiplying the number of months covered by the new rate within the fiscal year by the taxable income of the corporation
+for the period, divided by twelve. (``as amended by the RA 11534 - CREATE Act.``)
 
-(1) A tax effort ratio of twenty percent (20%) of Gross National Product (GNP);
+(B) ``Proprietary Educational Institutions and Hospitals. -`` Proprietary educational institutions and hospitals which are nonprofit shall pay a tax of ten percent (10%) on their taxable income except those covered by Subsection (D) hereof: Provided, That beginning July 1, 2020 until June 30, 2023, the tax rate herein imposed shall be one percent (1%): Provided, further, That if the gross income from 'unrelated trade, business or other activity' exceeds fifty percent (50%) of the total gross income derived by such educational institutions or hospitals from all sources, the tax prescribed in Subsection (A) hereof shall be imposed on the entire taxable income.  For purposes of this Subsection, the term 'unrelated trade, business or other activity' means any trade, business or other activity, the conduct of which is not substantially related to the exercise or performance by such educational institution or hospital of its primary purpose or function. 'Proprietary' means a private hospital, or any private school maintained and administered by private individuals or groups with an issued permit to operate from the Department of Education (DepEd), or the Commission on Higher Education (CHED), or the Technical Education and Skills Development Authority (TESDA), as the case may be, in accordance with existing laws and regulations. (``as amended by the RA 11534 - CREATE Act.``)
 
-(2) A ratio of forty percent (40%) of income tax collection to total tax revenues;
-
-(3) A VAT tax effort of four percent (4%) of GNP; and
-
-(4) A 0.9 percent (0.9%) ratio of the Consolidated Public Sector Financial Position (CPSFP) to GNP.
-
-The option to be taxed based on gross income shall be available only to firms whose ratio of cost of sales to gross sales or receipts from all sources does not exceed fifty-five percent (55%).
-
-The election of the gross income tax option by the corporation shall be irrevocable for three (3) consecutive taxable years during which the corporation is qualified under the scheme.
-
-For purposes of this Section, the term 'gross income' derived from business shall be equivalent to gross sales less sales returns, discounts and allowances and cost of goods sold. 'Cost of goods sold' shall include all business expenses directly incurred to produce the merchandise to bring them to their present location and use.
-
-For a trading or merchandising concern, 'cost of goods sold' shall include the invoice cost of the goods sold, plus import duties, freight in transporting the goods to the place where the goods are actually sold, including insurance while the goods are in transit.
-
-For a manufacturing concern, 'cost of goods manufactured and sold' shall include all costs of production of finished goods, such as raw materials used, direct labor and manufacturing overhead, freight cost, insurance premiums and other costs incurred to bring the raw materials to the factory or warehouse.
-
-In the case of taxpayers engaged in the sale of service, 'gross income' means gross receipts less sales returns, allowances and discounts.
-
-(B) ``Proprietary Educational Institutions and Hospitals. -``
-
-Proprietary educational institutions and hospitals which are nonprofit shall pay a tax of ten percent (10%) on their taxable income except those covered by Subsection (D) hereof: ``Provided``, that if the gross income from 'unrelated trade, business or other activity' exceeds fifty percent (50%) of the total gross income derived by such educational institutions or hospitals from all sources, the tax prescribed in Subsection (A) hereof shall be imposed on the entire taxable income. For purposes of this Subsection, the term 'unrelated trade, business or other activity' means any trade, business or other activity, the conduct of which is not substantially related to the exercise or performance by such educational institution or hospital of its primary purpose or function. A 'proprietary educational institution' is any private school maintained and administered by private individuals or groups with an issued permit to operate from the Department of Education, Culture and Sports (DECS), or the Commission on Higher Education (CHED), or the Technical Education and Skills Development Authority (TESDA), as the case may be, in accordance with existing laws and regulations.
-
-(C) ``Government-owned or -Controlled Corporations, Agencies or Instrumentalities.`` - The provisions of existing special or general laws to the contrary notwithstanding, all corporations, agencies, or instrumentalities owned or controlled by the Government, except the Government Service Insurance System (GSIS), the Social Security System (SSS), the Philippine Health Insurance Corporation (PHIC), and the local water districts shall pay such rate of tax upon their taxable income as are imposed by this Section upon corporations or associations engaged in similar business, industry, or activity.
+(C) ``Government-owned or -Controlled Corporations, Agencies or Instrumentalities.`` - The provisions of existing special or general laws to the contrary notwithstanding, all corporations, agencies, or instrumentalities owned or controlled by the Government, except the Government Service Insurance System (GSIS), the Social Security System (SSS), the Home Development Mutual Fund (HDMF), the Philippine Health Insurance Corporation (PHIC), and the local water districts shall pay such rate of tax upon their taxable income as are imposed by this Section upon corporations or associations engaged in a similar business, industry, or activity. (``as amended by the RA 11534 - CREATE Act.``)
 
 (D) ``Rates of Tax on Certain Passive Incomes. -``
 
@@ -500,7 +479,7 @@ Proprietary educational institutions and hospitals which are nonprofit shall pay
 
 Any income of nonresidents, whether individuals or corporations, from transactions with depository banks under the expanded system shall be exempt from income tax.
 
-(4) ``Intercorporate Dividends. -`` Dividends received by a domestic corporation from another domestic corporation shall not be subject to tax.
+(4) ``Intercorporate Dividends. -`` Dividends received by a domestic corporation shall not be subject to tax under this Title: Provided, That for foreign-sourced dividends to be exempt, the funds from such dividends actually received or remitted into the Philippines are reinvested in the business operations of the domestic corporation in the Philippines within the next taxable year from the time the foreign-sourced dividends were received and shall be limited to funding the working capital requirements, capital expenditures, dividend payments, investment in domestic subsidiaries, and infrastructure project: Provided, further, That the domestic corporation holds directly at least twenty percent (20%) of the outstanding shares of the foreign corporation and has held the shareholdings for a minimum of two (2) years at the time of the dividends distribution. (``as amended by the RA 11534 - CREATE Act.``)
 
 (5) ``Capital Gains Realized from the Sale, Exchange or Disposition of Lands and/or Buildings. -`` A final tax of six percent (6%) is hereby imposed on the gain presumed to have been realized on the sale, exchange or disposition of lands and/or buildings which are not actually used in the business of a corporation and are treated as capital assets, based on the gross selling price of fair market value as determined in accordance with Section 6(E) of this Code, whichever is higher, of such lands and/or buildings.
 
