@@ -2841,7 +2841,7 @@ An employer may terminate an employment for any of the following causes:
 
 (b) Gross and habitual neglect by the employee of his duties;
 
-(c) Fraud or willful breach by the employee of the trust reposed 1n him by his employer or duly authorized representative;
+(c) Fraud or willful breach by the employee of the trust reposed in him by his employer or duly authorized representative;
 
 (d) Commission of a crime or offense by the employee against the person of his employer or any immediate member of his family or his duly authorized representatives; and
 
