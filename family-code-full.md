@@ -1339,7 +1339,7 @@ The filiation of legitimate children is established by any of the following:
 
 (2) An admission of legitimate filiation in a public document or a private handwritten instrument and signed by the parent concerned.
 
-In the absence of the foregoing evidence, the legitimate filiation shall be roved by:
+In the absence of the foregoing evidence, the legitimate filiation shall be proved by:
 
 (1) The open and continuous possession of the status of a legitimate child; or
 
