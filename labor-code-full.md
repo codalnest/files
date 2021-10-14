@@ -591,7 +591,7 @@ No person shall institute any action for the enforcement of any apprenticeship a
 
 ART. 68. **Aptitude Testing of Applicants.—**
 
-Consonant with the m1n1mum qualifications of apprentice-applicants required under this Chapter, employers or entities with duly recognized apprenticeship programs shall have primary responsibility for providing appropriate aptitude tests in the selection of apprentices. If they do not have adequate facilities for the purpose, the Department of Labor and Employment shall perform the service free of charge.
+Consonant with the minimum qualifications of apprentice-applicants required under this Chapter, employers or entities with duly recognized apprenticeship programs shall have primary responsibility for providing appropriate aptitude tests in the selection of apprentices. If they do not have adequate facilities for the purpose, the Department of Labor and Employment shall perform the service free of charge.
 
 ART. 69. **Responsibility for Theoretical Instruction.—**
 
@@ -1017,7 +1017,7 @@ ART. 122. **Creation of Regional Tripartite Wages and Productivity Boards.—**
 
 There is hereby created Regional Tripartite Wages and Productivity Boards, hereinafter referred to as Regional Boards, in all regions, including autonomous regions as may be established by law. The Commission shall determine the offices/headquarters of the respective Regional Boards.
 
-The Regional Boards shall have the following powers and functions 1n their respective territorial jurisdictions:
+The Regional Boards shall have the following powers and functions in their respective territorial jurisdictions:
 
 (a) To develop plans, programs and projects relative to wages, incomes and productivity improvement for their respective regions;
 
@@ -1027,7 +1027,7 @@ The Regional Boards shall have the following powers and functions 1n their respe
 
 (d) To coordinate with the other Regional Boards as may be necessary to attain the policy and intention of this Code;
 
-(e) To receive, process and act on applications for exemption from prescribed wage rates as may be provided by law or any Wage Order;94 and
+(e) To receive, process and act on applications for exemption from prescribed wage rates as may be provided by law or any Wage Order; and
 
 (f) To exercise such other powers and functions as may be necessary to carry out their mandate under this Code.
 
@@ -1149,7 +1149,7 @@ The Secretary of Labor and Employment shall establish standards that will ensure
 
 (c) To establish a nursery in a workplace for the benefit of the women employees therein; and
 
-(d) To determine appropriate m1n1mum age and other standards for retirement or termination in special occupations such as those of flight attendants and the like.
+(d) To determine appropriate minimum age and other standards for retirement or termination in special occupations such as those of flight attendants and the like.
 
 ART. 131. [133) **Maternity Leave Benefits.—**
 
@@ -1207,7 +1207,7 @@ ART. 137. [139] **Minimum Employable Age.—**
 
 (b) Any person between fifteen (15) and eighteen (18) years of age may be employed for such number of hours and such periods of the day as determined by the Secretary of Labor and Employment in appropriate regulations.
 
-(c) The foregoing provisions shall in no case allow the employment of a person below eighteen (18) years of age in an undertaking which is hazardous or deleterious 1n nature as determined by the Secretary of Labor and Employment.
+(c) The foregoing provisions shall in no case allow the employment of a person below eighteen (18) years of age in an undertaking which is hazardous or deleterious in nature as determined by the Secretary of Labor and Employment.
 
 ART. 138. [140] **Prohibition Against Child Discrimination.—**
 
@@ -1534,7 +1534,7 @@ The average monthly salary credit multiplied by the replacement ratio; and
 
 One and a half percent of the average monthly salary credit for each credited year of service in excess of ten years;
 
-Provided, That the monthly income benefit shall 1n no case be less than Two Hundred Fifty Pesos (P250.00).
+Provided, That the monthly income benefit shall in no case be less than Two Hundred Fifty Pesos (P250.00).
 
 @TAB Coverage and liability
 
