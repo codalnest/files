@@ -1073,15 +1073,23 @@ SEC. 40. ``Determination of Amount and Recognition of Gain or Loss. -``
 
 (1) ``General Rule. -`` Except as herein provided, upon the sale or exchange or property, the entire amount of the gain or loss, as the case may be, shall be recognized.
 
-(2) ``Exception. -`` No gain or loss shall be recognized if in pursuance of a plan of merger or consolidation -
+(2) ``Exception. -`` No gain or loss shall be recognized on a corporation or on its stock or securities if such corporation is a party to a reorganization and exchanges property in pursuance of a plan of reorganization solely for stock or securities in another corporation that is a party to the reorganization. A reorganization is defined as: 
 
 (a) A corporation, which is a party to a merger or consolidation, exchanges property solely for stock in a corporation, which is a party to the merger or consolidation; or
 
-(b) A shareholder exchanges stock in a corporation, which is a party to the merger or consolidation, solely for the stock of another corporation also a party to the merger or consolidation; or
+(b) The acquisition by one corporation, in exchange solely for all or a part of its voting stock, or in exchange solely for all or part of the voting stock of a corporation which is in control of the acquiring corporation, of stock of another corporation if, immediately after the acquisition, the acquiring corporation has control of such other corporation whether or not such acquiring corporation had control immediately before the acquisition; or
 
-(c) A security holder of a corporation, which is a party to the merger or consolidation, exchanges his securities in such corporation, solely for stock or securities in such corporation, a party to the merger or consolidation.
+(c) The acquisition by one corporation, in exchange solely for all or a part of its voting stock or in exchange solely for all or part of the voting stock of a corporation which is in control of the acquiring corporation, of substantially all of the properties of another corporation. In determining whether the exchange is solely for stock, the assumption by the acquiring corporation of a liability of the others shall be disregarded; or
 
-No gain or loss shall also be recognized if property is transferred to a corporation by a person in exchange for stock or unit of participation in such a corporation of which as a result of such exchange said person, alone or together with others, not exceeding four (4) persons, gains control of said corporation: ``Provided``, That stocks issued for services shall not be considered as issued in return for property.
+(d) A recapitalization, which shall mean an arrangement whereby the stock and bonds of a corporation are readjusted as to amount, income, or priority or an agreement of all stockholders and creditors to change and increase or decrease the capitalization or debts of the corporation or both; or
+
+(e) A reincorporation, which shall mean the formation of the same corporate business with the same assets and the same stockholders surviving under a new charter.
+
+No gain or loss shall also be recognized if property is transferred to a corporation by a person, alone or together with others, not exceeding four (4) persons, in exchange for stock or unit of participation in such a corporation of which as a result of such exchange the transferor or transferors, collectively, gains or maintains control of said corporation: Provided, That stocks issued for services shall not be considered as issued in return for property.
+
+Sale or exchanges of property used for business for shares of stock covered under this Subsection shall not be subject to value-added tax.
+
+In all of the foregoing instances of exchange of property, prior Bureau of Internal Revenue confirmation or tax ruling shall not be required for purposes of availing the tax exemption. (``as amended by the RA 11534 - CREATE Act.``)
 
 (3) ``Exchange Not Solely in Kind. -`` 
 
@@ -1107,7 +1115,8 @@ No gain or loss shall also be recognized if property is transferred to a corpora
 
 (b) The term "merger" or "consolidation", when used in this Section, shall be understood to mean: (i) the ordinary merger or consolidation, or (ii) the acquisition by one corporation of all or substantially all the properties of another corporation solely for stock: ``Provided``, That for a transaction to be regarded as a merger or consolidation within the purview of this Section, it must be undertaken for a bona fide business purpose and not solely for the purpose of escaping the burden of taxation: ``Provided, further``, That in determining whether a bona fide business purpose exists, each and every step of the transaction shall be considered and the whole transaction or series of transaction shall be treated as a single unit: ``Provided``, finally, That in determining whether the property transferred constitutes a substantial portion of the property of the transferor, the term "property" shall be taken to include the cash assets of the transferor.
 
-(c) The term "control", when used in this Section, shall mean ownership of stocks in a corporation possessing at least fifty-one percent (51%) of the total voting power of all classes of stocks entitled to vote.
+(c) The term "control," when used in this Section, shall mean ownership of stocks in a corporation after the transfer of property possessing at least fifty-one percent (51%) of the total voting power of all classes of stocks entitled to vote: Provided, That the collective and not the individual ownership of all classes of stocks entitled to vote of the transferor or transferors under this Section shall be used in determining the presence of control. (``as amended by the RA 11534 - CREATE Act.``)
+
 
 (d) The Secretary of Finance, upon recommendation of the Commissioner, is hereby authorized to issue rules and regulations for the purpose "substantially all" and for the proper implementation of this Section.
 
