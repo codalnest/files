@@ -2128,11 +2128,11 @@ Products classified under this paragraph shall be considered in their original s
 
 (O) Export sales by persons who are not VAT-registered;
 
-(P) Sale of real properties not primarily held for sale to customers or held for lease in the ordinary course of trade or business or real property utilized for low-cost and socialized housing as defined by Republic Act No. 7279, otherwise known as the Urban Development and Housing Act of 1992, and other related laws, residential lot valued at One million five hundred thousand pesos (₱1,500,000) and below, house and lot, and other residential dwellings valued at Two million five hundred thousand pesos (₱2,500,000) and below: Provided, That beginning January 1, 2021, the VAT exemption shall only apply to sale of real properties not primarily held for sale to customers or held for lease in the ordinary course of trade or business, sale of real property utilized for socialized housing as defined by Republic Act No. 7279, sale of house and lot, and other residential dwellings with selling price of not more than Two million pesos (₱2,000,000): Provided, further, That every three (3) years thereafter, the amount herein stated shall be adjusted to its present value using the Consumer Price Index, as published by the Philippine Statistics Authority (PSA);
+(P) (``deleted by the RA 11534 - CREATE Act.``)
 
 (Q) Lease of a residential unit with a monthly rental not exceeding Fifteen thousand pesos (₱15,000);
 
-(R) Sale, importation, printing or publication of books and any newspaper, magazine, review or bulletin which appears at regular intervals with fixed prices or subscription and sale and which is not devoted principally to the publication of paid advertisements;
+(R) Sale, importation, printing or publication of books, and any newspaper, magazine, journal, review bulletin, or any such educational reading material covered by the UNESCO Agreement on the Importation of Educational, Scientific and Cultural Materials, including the digital or electronic format thereof: Provided, That the materials enumerated herein are not devoted principally to the publication of paid advertisements; (``as amended by the RA 11534 - CREATE Act.``)
 
 (S) Transport of passengers by international carriers;
 
@@ -2150,9 +2150,23 @@ Products classified under this paragraph shall be considered in their original s
 
 (Z) Sale of gold to the Bangko Sentral ng Pilipinas (BSP);
 
-(AA) Sale of drugs and medicines prescribed for diabetes, high cholesterol, and hypertension beginning January 1, 2019; and
+(AA) Sale of or importation of prescription drugs and medicines for:
 
-(BB) Sale or lease of goods or properties or the performance of services other than the transactions mentioned in the preceding paragraphs, the gross annual sales and/or receipts do not exceed the amount of Three million pesos (₱3,000,000). (``As amended by R.A. No. 10963.``)
+(i) Diabetes, high cholesterol, and hypertension beginning January 1, 2020; and
+
+(ii) Cancer, mental illness, tuberculosis, and kidney diseases beginning January 1, 2021:
+
+Provided, That the DOH shall issue a list of approved drugs and medicines for this purpose within sixty (60) days from the effectivity of this Act; and
+
+(BB) Sale or importation of the following beginning January 1, 2021 to December 31, 2023:
+
+(i) Capital equipment, its spare parts and raw materials, necessary for the production of personal protective equipment components such as coveralls, gown, surgical cap, surgical mask, N-95 mask, scrub suits, goggles and face shield, double or surgical gloves, dedicated shoes, and shoe covers, for COVID-19 prevention;
+
+(ii) All drugs, vaccines and medical devices specifically prescribed and directly used for the treatment of COVID-19; and 
+
+(iii) Drugs for the treatment of COVID-19 approved by the Food and Drug Administration (FDA) for use in clinical trials, including raw materials directly necessary for the production of such drugs: ``Provided``, That the Department of Trade and Industry (DTI) shall certify that such equipment, spare parts or raw materials for importation are not locally available or insufficient in quantity, or not in accordance with the quality or specification required: ``Provided, further``, That for item (ii), within sixty (60) days from the effectivity of this Act, and every three (3) months thereafter, the Department of Health (DOH) shall issue a list of prescription drugs and medical devices covered by this provision: ``Provided, finally``, That the exemption claimed under this subsection shall be subject to post audit by the Bureau of Internal Revenue or the Bureau of Customs as may be applicable.
+
+(CC) Sale or lease of goods or properties or the performance of services other than the transactions mentioned in the preceding paragraphs, the gross annual sales and/or receipts do not exceed the amount of Three million pesos (P3,000,000.00)." (``as amended by the RA 11534 - CREATE Act.``)
 
 SEC. 110. ``Tax Credits. -``
 
