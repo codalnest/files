@@ -2316,7 +2316,8 @@ The temporary closure of the establishment shall be for the duration of not less
 
 SEC. 116. ``Tax on Persons Exempt from Value-Added Tax (VAT). -``
 
-Any person whose sales or receipts are exempt under Section 109(BB) of this Code from the payment of value-added tax and who is not a VAT-registered person shall pay a tax equivalent to three percent (3%) of his gross quarterly sales or receipts: Provided, That cooperatives, and beginning January 1, 2019, self-employed and professionals with total annual gross sales and/or gross receipts not exceeding Five hundred thousand pesos (₱500,000) shall be exempt from the three percent (3%) gross receipts tax herein imposed. (``As amended by R.A. No. 10963.``)
+Any person whose sales or receipts are exempt under Section 109(CC) of this Code from the payment of value-added tax and who is not a VAT-registered person shall pay a tax equivalent to three percent (3%) of his gross quarterly sales or receipts: Provided, That cooperatives, shall be exempt from the three percent (3%) gross receipts tax herein imposed: Provided, further, That effective July 1,
+2020 until June 30, 2023, the rate shall be one percent (1%). (``as amended by the RA 11534 - CREATE Act.``)
 
 SEC. 117. ``Percentage Tax on Domestic Carriers and Keepers of Garages. -``
 
