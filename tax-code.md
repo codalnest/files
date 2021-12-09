@@ -4644,7 +4644,7 @@ All water districts, through the Local Water Utilities Administration, shall fur
 
 SEC. 290. ``Congressional Oversight Committee. -``
 
-A Congressional Oversight Committee, hereinafter referred to as the Committee, is hereby constituted in accordance with the provisions of this Code. The Committee shall be composed of the Chairmen of the Committee on Ways and Means of the Senate and House of Representatives and four (4) additional members from each house, to be designated by the Speaker of the House of Representatives and the Senate President, respectively.
+A Congressional Oversight Committee, hereinafter referred to as the Committee, is hereby constituted in accordance with the provisions of this Code. The Committee shall be composed of the Chairpersons of the Committee on Ways and Means of the Senate and House of Representatives and four (4) additional members from each House, to be designated by the Speaker of the House of Representatives and the Senate President, respectively.  
 
 The Committee shall, among others, in aid of legislation:
 
@@ -4655,6 +4655,8 @@ The Committee shall, among others, in aid of legislation:
 (3) Review the collection performance of the Bureau of Internal Revenue; and
 
 (4) Review the implementation of the programs of the Bureau of Internal Revenue.
+
+(5) Review the performance of the Fiscal Incentives Review Board. (``as amended by the RA 11534 - CREATE Act.``)
 
 In furtherance of the hereinabove cited objectives, the Committee is empowered to require of the Bureau of Internal Revenue, submission of all pertinent information, including but not limited to: industry audits; collection performance data; status report on criminal actions initiated against persons; and submission of taxpayer returns: ``Provided``, however, That any return or return information which can be associated with, or otherwise identify, directly or indirectly, a particular taxpayer shall be furnished the Committee only when sitting in Executive Session unless such taxpayer otherwise consents in writing to such disclosure.
 
