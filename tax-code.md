@@ -204,7 +204,10 @@ SEC. 20. ``Submission of Report and Pertinent Information by the Commissioner. -
 
 (A) Submission of Pertinent Information to Congress. - The provision of Section 270 of this Code to the contrary notwithstanding, the Commissioner shall, upon request of Congress and in aid of legislation, furnish its appropriate Committee pertinent information including but not limited to: industry audits, collection performance data, status reports in criminal actions initiated against persons and taxpayer's returns: ``Provided, however``, That any return or return information which can be associated with, or otherwise identify, directly or indirectly, a particular taxpayer shall be furnished the appropriate Committee of Congress only when sitting in Executive Session Unless such taxpayer otherwise consents in writing to such disclosure.
 
-(B) Report to Oversight Committee. - The Commissioner shall, with reference to Section 204 of this Code, submit to the Oversight Committee referred to in Section 290 hereof, through the Chairmen of the Committee on Ways and Means of the Senate and House of Representatives, a report on the exercise of his powers pursuant to the said section, every six (6) months of each calendar year.
+(B) Submission of Tax-Related Information to the Department of Finance . — The Commissioner shall, upon the order of the Secretary of Finance specifically identifying the needed information and justification for such order in relation to the grant of incentives under Title XIII, furnish the Secretary pertinent information on the entities receiving incentives under this Code: ``Provided, however`` , That the Secretary and the relevant officers handling such specific information shall be covered by the provisions of Section 270 unless the taxpayer consents in writing to such disclosure. 
+
+
+(C) Report to Oversight Committee . — The Commissioner shall, with reference to Section 204 of this Code, submit to the Oversight Committee referred to in Section 290 hereof, through the Chairpersons of the Committees on Ways and Means of the Senate and House of Representatives, a report on the exercise of his powers pursuant to the said Section, every six (6) months of each calendar year. (``as amended by the RA 11534 - CREATE Act.``)
 
 SEC. 21. ``Sources of Revenue. -``
 
@@ -239,7 +242,7 @@ When used in this Title:
 
 (A) The term 'person' means an individual, a trust, estate or corporation.
 
-(B) The term 'corporation' shall include partnerships, no matter how created or organized, joint-stock companies, joint accounts (cuentas en participacion), association, or insurance companies, but does not include general professional partnerships and a joint venture or consortium formed for the purpose of undertaking construction projects or engaging in petroleum, coal, geothermal and other energy operations pursuant to an operating consortium agreement under a service contract with the Government. 'General professional partnerships' are partnerships formed by persons for the sole purpose of exercising their common profession, no part of the income of which is derived from engaging in any trade or business.
+(B) The term 'corporation' shall include one person corporations, partnerships, no matter how created or organized, jointstock companies, joint accounts ``(cuentas en participacion)`` , associations, or insurance companies, but does not include general professional partnerships and a joint venture or consortium formed for the purpose of undertaking construction projects or engaging in petroleum, coal, geothermal and other energy operations pursuant to an operating consortium agreement under a service contract with the Government. 'General professional partnerships' are partnerships formed by persons for the sole purpose of exercising their common profession, no part of the income of which is derived from engaging in any trade or business. (``as amended by the RA 11534 - CREATE Act.``)
 
 (C) The term 'domestic', when applied to a corporation, means created or organized in the Philippines or under its laws.
 
@@ -415,13 +418,13 @@ SEC. 25. ``Tax on Nonresident Alien Individual. -``
 
 (1)  ``In General. -`` A nonresident alien individual engaged in trade or business in the Philippines shall be subject to an income tax in the same manner as an individual citizen and a resident alien individual, on taxable income received from all sources within the Philippines. A nonresident alien individual who shall come to the Philippines and stay therein for an aggregate period of more than one hundred eighty (180) days during any calendar year shall be deemed a 'nonresident alien doing business in the Philippines'. Section 22 (G) of this Code notwithstanding.
 
-(2)  ``Cash and/or Property Dividends from a Domestic Corporation or Joint Stock Company, or Insurance or Mutual Fund Company or Regional Operating Headquarter or Multinational Company, or Share in the Distributable Net Income of a Partnership (Except a General Professional Partnership), Joint Account, Joint Venture Taxable as a Corporation or Association., Interests, Royalties, Prizes, and Other Winnings. -`` Cash and/or property dividends from a domestic corporation, or from a joint stock company, or from an insurance or mutual fund company or from a regional operating headquarter of multinational company, or the share of a nonresident alien individual in the distributable net income after tax of a partnership (except a general professional partnership) of which he is a partner, or the share of a nonresident alien individual in the net income after tax of an association, a joint account, or a joint venture taxable as a corporation of which he is a member or a co-venturer; interests; royalties (in any form); and prizes (except prizes amounting to Ten thousand pesos (P10,000) or less which shall be subject to tax under Subsection (B)(1) of Section 24) and other winnings (except Philippine Charity Sweepstakes and Lotto winnings); shall be subject to an income tax of twenty percent (20%) on the total amount thereof: ``Provided, however``, that royalties on books as well as other literary works, and royalties on musical compositions shall be subject to a final tax of ten percent (10%) on the total amount thereof: ``Provided, further``, That cinematographic films and similar works shall be subject to the tax provided under Section 28 of this Code: ``Provided, further``more, That interest income from long-term deposit or investment in the form of savings, common or individual trust funds, deposit substitutes, investment management accounts and other investments evidenced by certificates in such form prescribed by the Bangko Sentral ng Pilipinas (BSP) shall be exempt from the tax imposed under this Subsection: ``Provided``, finally, that should the holder of the certificate pre-terminate the deposit or investment before the fifth (5th) year, a final tax shall be imposed on the entire income and shall be deducted and withheld by the depository bank from the proceeds of the long-term deposit or investment certificate based on the remaining maturity thereof:
+(2) ``Cash and/or Property Dividends from a Domestic Corporation or Joint Stock Company, or Insurance or Mutual Fund Company or Regional Operating Headquarter or Multinational Company, or Share in the Distributable Net Income of a Partnership (Except a General Professional Partnership), Joint Account, Joint Venture Taxable as a Corporation or Association, Interests, Royalties, Prizes, and Other Winnings`` . — Cash and/or property dividends from a domestic corporation, or from a joint stock company, or from an insurance or mutual fund company or from a regional operating headquarter of multinational company, or the share of a nonresident alien individual in the distributable net income after tax of a partnership (except a general professional partnership) of which he is a partner, or the share of a nonresident alien individual in the net income after tax of an association, a joint account, or a joint venture taxable as a corporation of which he is a member or a co-venturer; interests; royalties (in any form); and prizes (except prizes amounting to Ten thousand pesos (P10,000.00) or less which shall be subject to tax under Subsection (B)(1) of Section 24) and other winnings (except winnings amounting to Ten thousand pesos (P10,000.00) or less from Philippine Charity Sweepstakes Office (PCSO) games which shall be exempt); shall be subject to an income tax of twenty percent (20%) on the total amount thereof: ``Provided, however,``, That royalties on books as well as other literary works, and royalties on musical compositions shall be subject to a final tax of ten percent (10%) on the total amount thereof: ``Provided, further,`` That cinematographic films and similar works shall be subject to the tax provided under Section 28 of this Code: ``Provided, furthermore,`` That interest income from long-term deposit or investment in the form of savings, common or individual trust funds, deposit substitutes, investment management accounts and other investments evidenced by certificates in such form prescribed by the Bangko Sentral ng Pilipinas (BSP) shall be exempt from the tax imposed under this Subsection: ``Provided, finally,`` That should the holder of the certificate preterminate the deposit or investment before the fifth (5th) year, a final tax shall be imposed on the entire income and shall be deducted and withheld by the depository bank from the proceeds of the long-term deposit or investment certificate based on the remaining maturity thereof:
 
-Four (4) years to less than five (5) years - 5%;
+ Four (4) years to less than five (5) years — 5%; 
 
-Three (3) years to less than four (4) years - 12%; and
+ Three (3) years to less than four (4) years — 12%; and 
 
-Less than three (3) years - 20%.
+ Less than three (3) years — 20%. (``as amended by the RA 11534 - CREATE Act.``)
 
 (3)  ``Capital Gains. -`` Capital gains realized from sale, barter or exchange of shares of stock in domestic corporations not traded through the local stock exchange, and real properties shall be subject to the tax prescribed under Subsections (C) and (D) of Section 24.
 
@@ -453,39 +456,18 @@ Each partner shall report as gross income his distributive share, actually or co
 
 SEC. 27. ``Rates of Income Tax on Domestic Corporations. -``
 
-(A) ``In General. -`` Except as otherwise provided in this Code, an income tax of thirty-five percent (35%) is hereby imposed upon the taxable income derived during each taxable year from all sources within and without the Philippines by every corporation, as defined in Section 22(B) of this Code and taxable under this Title as a corporation, organized in, or existing under the laws of the Philippines: ``Provided``, That effective January 1, 2009, the rate of income tax shall be thirty percent (30%).
+(A) In General . — Except as otherwise provided in this Code, an income tax rate of twenty-five percent (25%) effective July 1, 2020, is hereby imposed upon the taxable income derived during each taxable year from all sources within and without the Philippines by every corporation, as defined in Section 22(B) of this Code and taxable under this Title as a corporation, organized in, or existing under the laws of the Philippines. 
 
-In the case of corporations adopting the fiscal-year accounting period, the taxable income shall be computed without regard to the specific date when specific sales, purchases and other transactions occur. Their income and expenses for the fiscal year shall be deemed to have been earned and spent equally for each month of the period.
+``Provided,`` That corporations with net taxable income not exceeding Five million pesos (P5,000,000.00) and with total assets not exceeding One hundred million pesos (P100,000,000.00), excluding land on which the particular business entity's office, plant, and equipment are situated during the taxable year for which the tax is imposed, shall be taxed at twenty percent (20%). 
 
-The corporate income tax rate shall be applied on the amount computed by multiplying the number of months covered by the new rate within the fiscal year by the taxable income of the corporation for the period, divided by twelve.
+In the case of corporations adopting the fiscal-year accounting period, the taxable income shall be computed without regard to the specific date when specific sales, purchases and other transactions occur. Their income and expenses for the fiscal year shall be deemed to have been earned and spent equally for each month of the period. 
 
-Provided, further, That the President, upon the recommendation of the Secretary of Finance, may effective January 1, 2000, allow corporations the option to be taxed at fifteen percent (15%) of gross income as defined herein, after the following conditions have been satisfied:
+The corporate income tax rate shall be applied on the amount computed by multiplying the number of months covered by the new rate within the fiscal year by the taxable income of the corporation
+for the period, divided by twelve. (``as amended by the RA 11534 - CREATE Act.``)
 
-(1) A tax effort ratio of twenty percent (20%) of Gross National Product (GNP);
+(B) ``Proprietary Educational Institutions and Hospitals. -`` Proprietary educational institutions and hospitals which are nonprofit shall pay a tax of ten percent (10%) on their taxable income except those covered by Subsection (D) hereof: Provided, That beginning July 1, 2020 until June 30, 2023, the tax rate herein imposed shall be one percent (1%): Provided, further, That if the gross income from 'unrelated trade, business or other activity' exceeds fifty percent (50%) of the total gross income derived by such educational institutions or hospitals from all sources, the tax prescribed in Subsection (A) hereof shall be imposed on the entire taxable income.  For purposes of this Subsection, the term 'unrelated trade, business or other activity' means any trade, business or other activity, the conduct of which is not substantially related to the exercise or performance by such educational institution or hospital of its primary purpose or function. 'Proprietary' means a private hospital, or any private school maintained and administered by private individuals or groups with an issued permit to operate from the Department of Education (DepEd), or the Commission on Higher Education (CHED), or the Technical Education and Skills Development Authority (TESDA), as the case may be, in accordance with existing laws and regulations. (``as amended by the RA 11534 - CREATE Act.``)
 
-(2) A ratio of forty percent (40%) of income tax collection to total tax revenues;
-
-(3) A VAT tax effort of four percent (4%) of GNP; and
-
-(4) A 0.9 percent (0.9%) ratio of the Consolidated Public Sector Financial Position (CPSFP) to GNP.
-
-The option to be taxed based on gross income shall be available only to firms whose ratio of cost of sales to gross sales or receipts from all sources does not exceed fifty-five percent (55%).
-
-The election of the gross income tax option by the corporation shall be irrevocable for three (3) consecutive taxable years during which the corporation is qualified under the scheme.
-
-For purposes of this Section, the term 'gross income' derived from business shall be equivalent to gross sales less sales returns, discounts and allowances and cost of goods sold. 'Cost of goods sold' shall include all business expenses directly incurred to produce the merchandise to bring them to their present location and use.
-
-For a trading or merchandising concern, 'cost of goods sold' shall include the invoice cost of the goods sold, plus import duties, freight in transporting the goods to the place where the goods are actually sold, including insurance while the goods are in transit.
-
-For a manufacturing concern, 'cost of goods manufactured and sold' shall include all costs of production of finished goods, such as raw materials used, direct labor and manufacturing overhead, freight cost, insurance premiums and other costs incurred to bring the raw materials to the factory or warehouse.
-
-In the case of taxpayers engaged in the sale of service, 'gross income' means gross receipts less sales returns, allowances and discounts.
-
-(B) ``Proprietary Educational Institutions and Hospitals. -``
-
-Proprietary educational institutions and hospitals which are nonprofit shall pay a tax of ten percent (10%) on their taxable income except those covered by Subsection (D) hereof: ``Provided``, that if the gross income from 'unrelated trade, business or other activity' exceeds fifty percent (50%) of the total gross income derived by such educational institutions or hospitals from all sources, the tax prescribed in Subsection (A) hereof shall be imposed on the entire taxable income. For purposes of this Subsection, the term 'unrelated trade, business or other activity' means any trade, business or other activity, the conduct of which is not substantially related to the exercise or performance by such educational institution or hospital of its primary purpose or function. A 'proprietary educational institution' is any private school maintained and administered by private individuals or groups with an issued permit to operate from the Department of Education, Culture and Sports (DECS), or the Commission on Higher Education (CHED), or the Technical Education and Skills Development Authority (TESDA), as the case may be, in accordance with existing laws and regulations.
-
-(C) ``Government-owned or -Controlled Corporations, Agencies or Instrumentalities.`` - The provisions of existing special or general laws to the contrary notwithstanding, all corporations, agencies, or instrumentalities owned or controlled by the Government, except the Government Service Insurance System (GSIS), the Social Security System (SSS), the Philippine Health Insurance Corporation (PHIC), and the local water districts shall pay such rate of tax upon their taxable income as are imposed by this Section upon corporations or associations engaged in similar business, industry, or activity.
+(C) ``Government-owned or -Controlled Corporations, Agencies or Instrumentalities.`` - The provisions of existing special or general laws to the contrary notwithstanding, all corporations, agencies, or instrumentalities owned or controlled by the Government, except the Government Service Insurance System (GSIS), the Social Security System (SSS), the Home Development Mutual Fund (HDMF), the Philippine Health Insurance Corporation (PHIC), and the local water districts shall pay such rate of tax upon their taxable income as are imposed by this Section upon corporations or associations engaged in a similar business, industry, or activity. (``as amended by the RA 11534 - CREATE Act.``)
 
 (D) ``Rates of Tax on Certain Passive Incomes. -``
 
@@ -497,13 +479,13 @@ Proprietary educational institutions and hospitals which are nonprofit shall pay
 
 Any income of nonresidents, whether individuals or corporations, from transactions with depository banks under the expanded system shall be exempt from income tax.
 
-(4) ``Intercorporate Dividends. -`` Dividends received by a domestic corporation from another domestic corporation shall not be subject to tax.
+(4) ``Intercorporate Dividends. -`` Dividends received by a domestic corporation shall not be subject to tax under this Title: Provided, That for foreign-sourced dividends to be exempt, the funds from such dividends actually received or remitted into the Philippines are reinvested in the business operations of the domestic corporation in the Philippines within the next taxable year from the time the foreign-sourced dividends were received and shall be limited to funding the working capital requirements, capital expenditures, dividend payments, investment in domestic subsidiaries, and infrastructure project: Provided, further, That the domestic corporation holds directly at least twenty percent (20%) of the outstanding shares of the foreign corporation and has held the shareholdings for a minimum of two (2) years at the time of the dividends distribution. (``as amended by the RA 11534 - CREATE Act.``)
 
-(5) ``Capital Gains Realized from the Sale, Exchange or Disposition of Lands and/or Buildings. -`` A final tax of six percent (6%) is hereby imposed on the gain presumed to have been realized on the sale, exchange or disposition of lands and/or buildings which are not actually used in the business of a corporation and are treated as capital assets, based on the gross selling price of fair market value as determined in accordance with Section 6(E) of this Code, whichever is higher, of such lands and/or buildings.
+(5) ``Capital Gains Realized from the Sale, Exchange or Disposition of Lands and/or Buildings. -`` (``deleted by RA 11534 - CREATE Act.``)
 
 (E) ``Minimum Corporate Income Tax on Domestic Corporations. -``
 
-(1) ``Imposition of Tax. -`` A minimum corporate income tax of two percent (2%) of the gross income as of the end of the taxable year, as defined herein, is hereby imposed on a corporation taxable under this Title, beginning on the fourth taxable year immediately following the year in which such corporation commenced its business operations, when the minimum income tax is greater than the tax computed under Subsection (A) of this Section for the taxable year.
+(1) ``Imposition of Tax. -`` A minimum corporate income tax of two percent (2%) of the gross income as of the end of the taxable year, as defined herein, is hereby imposed on a corporation taxable under this Title, beginning on the fourth taxable year immediately following the year in which such corporation commenced its business operations, when the minimum income tax is greater than the tax computed under Subsection (A) of this Section for the taxable year: ``Provided``, That effective July 1, 2020 until June 30, 2023, the rate shall be one percent (1%). (``as amended by the RA 11534 - CREATE Act.``)
 
 (2) ``Carry Forward of Excess Minimum Tax. -`` Any excess of the minimum corporate income tax over the normal income tax as computed under Subsection (A) of this Section shall be carried forward and credited against the normal income tax for the three (3) immediately succeeding taxable years.
 
@@ -523,15 +505,13 @@ SEC. 28. ``Rates of Income Tax on Foreign Corporations. -``
 
 (A) ``Tax on Resident Foreign Corporations. -`` 
 
-(1)  ``In General. -`` Except as otherwise provided in this Code, a corporation organized, authorized, or existing under the laws of any foreign country, engaged in trade or business within the Philippines, shall be subject to an income tax equivalent to thirty-five percent (35%) of the taxable income derived in the preceding taxable year from all sources within the Philippines: ``Provided``, That effective January 1, 2009, the rate of income tax shall be thirty percent (30%).
+(1)  ``In General. -`` Except as otherwise provided in this Code, a corporation organized, authorized, or existing under the laws of any foreign country, engaged in trade or business within the Philippines, shall be subject to an income tax equivalent to twenty-five percent (25%) of the taxable income derived in the preceding taxable year from all sources within the Philippines effective July 1, 2020.
 
-In the case of corporations adopting the fiscal-year accounting period, the taxable income shall be computed without regard to the specific date when sales, purchases and other transactions occur. Their income and expenses for the fiscal year shall be deemed to have been earned and spent equally for each month of the period.
+In the case of corporations adopting the fiscal-year accounting period, the taxable income shall be computed without regard to the specific date when sales, purchases and other transactions occur.  Their income and expenses for the fiscal year shall be deemed to have been earned and spent equally for each month of the period.
 
-The corporate income tax rate shall be applied on the amount computed by multiplying the number of months covered by the new rate within the fiscal year by the taxable income of the corporation for the period, divided by twelve.
+The corporate income tax rate shall be applied on the amount computed by multiplying the number of months covered by the new rate within the fiscal year by the taxable income of the corporation for the period, divided by twelve. (``as amended by the RA 11534 - CREATE Act.``)
 
-Provided, however, That a resident foreign corporation shall be granted the option to be taxed at fifteen percent (15%) on gross income under the same conditions, as provided in Section 27 (A).
-
-(2)  ``Minimum Corporate Income Tax on Resident Foreign Corporations. -`` A minimum corporate income tax of two percent (2%) of gross income, as prescribed under Section 27 (E) of this Code, shall be imposed, under the same conditions, on a resident foreign corporation taxable under paragraph (1) of this Subsection.
+(2)  ``Minimum Corporate Income Tax on Resident Foreign Corporations. -`` A minimum corporate income tax of two percent (2%) of gross income, as prescribed under Section 27(E) of this Code, shall be imposed, under the same conditions, on a resident foreign corporation taxable under paragraph (1) of this Subsection: Provided, That effective July 1, 2020 until June 30, 2023, the rate shall be one percent (1%). (``as amended by the RA 11534 - CREATE Act.``)
 
 (3)  ``International Carrier. -`` An international carrier doing business in the Philippines shall pay a tax of two and one-half percent (2 1/2 %) on its 'Gross Philippine Billings' as defined hereunder:
 
@@ -541,37 +521,29 @@ Provided, however, That a resident foreign corporation shall be granted the opti
 
 Provided, That international carriers doing business in the Philippines may avail of a preferential rate or exemption from the tax herein imposed on their gross revenue derived from the carriage of persons and their excess baggage on the basis of an applicable tax treaty or international agreement to which the Philippines is a signatory or on the basis of reciprocity such that an international carrier, whose home country grants income tax exemption to Philippine carriers, shall likewise be exempt from the tax imposed under this provision.
 
-(4)  ``Offshore Banking Units. -`` The provisions of any law to the contrary notwithstanding, income derived by offshore banking units authorized by the Bangko Sentral ng Pilipinas (BSP), from foreign currency transactions with nonresidents, other offshore banking units, local commercial banks, including branches of foreign banks that may be authorized by the Bangko Sentral ng Pilipinas (BSP) to transact business with offshore banking units shall be exempt from all taxes except net income from such transactions as may be specified by the Secretary of Finance, upon recommendation of the Monetary Board which shall be subject to the regular income tax payable by banks: ``Provided, however``, That any interest income derived from foreign currency loans granted to residents other than offshore banking units or local commercial banks, including local, branches of foreign banks that may be authorized by the BSP to transact business with offshore banking units, shall be subject only to a final tax at the rate of ten percent (10%).
+(4)  ``Tax on Branch Profits Remittances. -`` Any profit remitted by a branch to its head office shall be subject to a tax of fifteen (15%) which shall be based on the total profits applied or earmarked for remittance without any deduction for the tax component thereof (except those activities which are registered with the Philippine Economic Zone Authority). The tax shall be collected and paid in the same manner as provided in Sections 57 and 58 of this Code: ``Provided``, that interests, dividends, rents, royalties, including remuneration for technical services, salaries, wages premiums, annuities, emoluments or other fixed or determinable annual, periodic or casual gains, profits, income and capital gains received by a foreign corporation during each taxable year from all sources within the Philippines shall not be treated as branch profits unless the same are effectively connected with the conduct of its trade or business in the Philippines.
 
-Any income of nonresidents, whether individuals or corporations, from transactions with said offshore banking units shall be exempt from income tax.
-
-(5)  ``Tax on Branch Profits Remittances. -`` Any profit remitted by a branch to its head office shall be subject to a tax of fifteen (15%) which shall be based on the total profits applied or earmarked for remittance without any deduction for the tax component thereof (except those activities which are registered with the Philippine Economic Zone Authority). The tax shall be collected and paid in the same manner as provided in Sections 57 and 58 of this Code: ``Provided``, that interests, dividends, rents, royalties, including remuneration for technical services, salaries, wages premiums, annuities, emoluments or other fixed or determinable annual, periodic or casual gains, profits, income and capital gains received by a foreign corporation during each taxable year from all sources within the Philippines shall not be treated as branch profits unless the same are effectively connected with the conduct of its trade or business in the Philippines.
-
-(6) Regional or Area Headquarters and Regional Operating Headquarters of Multinational Companies. -
+(5) ``Regional or Area Headquarters and Regional Operating Headquarters of Multinational Companies.`` -
 
 (a) Regional or area headquarters as defined in Section 22(DD) shall not be subject to income tax.
 
-(b) Regional operating headquarters as defined in Section 22(EE) shall pay a tax of ten percent (10%) of their taxable income.
+(b) Regional operating headquarters as defined in Section 22(EE) shall pay a tax of ten percent (10%) of their taxable income: Provided, That effective January 1, 2022, regional operating headquarters shall be subject to the regular corporate income tax. (``as amended by the RA 11534 - CREATE Act.``)
 
-(7) ``Tax on Certain Incomes Received by a Resident Foreign Corporation. -`` 
+(6) ``Tax on Certain Incomes Received by a Resident Foreign Corporation. -`` 
 
-(a)  ``Interest from Deposits and Yield or any other Monetary Benefit from Deposit Substitutes, Trust Funds and Similar Arrangements and Royalties. -`` Interest from any currency bank deposit and yield or any other monetary benefit from deposit substitutes and from trust funds and similar arrangements and royalties derived from sources within the Philippines shall be subject to a final income tax at the rate of twenty percent (20%) of such interest: ``Provided, however``, That interest income derived by a resident foreign corporation from a depository bank under the expanded foreign currency deposit system shall be subject to a final income tax at the rate of seven and one-half percent (7 1/2%) of such interest income.
+(a)  ``Interest from Deposits and Yield or Any Other Monetary Benefit from Deposit Substitutes, Trust Funds and Similar Arrangements and Royalties. -`` Interest from any currency bank deposit and yield or any other monetary benefit from deposit substitutes and from trust funds and similar arrangements and royalties derived from sources within the Philippines shall be subject to a final income tax at the rate of twenty percent (20%) of such interest: Provided, however , That interest income derived by a resident foreign corporation from a depository bank under the expanded foreign currency deposit system shall be subject to a final income tax at the rate of fifteen percent (15%) of such interest income. (``as amended by the RA 11534 - CREATE Act.``)
 
 (b)  ``Income Derived under the Expanded Foreign Currency Deposit System. -`` Income derived by a depository bank under the expanded foreign currency deposit system from foreign currency transactions with nonresidents, offshore banking units in the Philippines, local commercial banks including branches of foreign banks that may be authorized by the Bangko Sentral ng Pilipinas (BSP) to transact business with foreign currency deposit system units, and other depository banks under the expanded foreign currency deposit system shall be exempt from all taxes, except net income from such transactions as may be specified by the Secretary of Finance, upon recommendation by the Monetary Board to be subject to the regular income tax payable by banks: ``Provided, however``, That interest income from foreign currency loans granted by such depository banks under said expanded system to residents other than offshore banking units in the Philippines or other depository banks under the expanded system shall be subject to a final tax at the rate of ten percent (10%).
 
 Any income of nonresidents, whether individuals or corporations, from transactions with depository banks under the expanded system shall be exempt from income tax.
 
-(c)  ``Capital Gains from Sale of Shares of Stock Not Traded in the Stock Exchange. -`` A final tax at the rates prescribed below is hereby imposed upon the net capital gains realized during the taxable year from the sale, barter, exchange or other disposition of shares of stock in a domestic corporation except shares sold or disposed of through the stock exchange:
-
-Not over P 100,000 ......... 5%
-
-On any amount in excess of P 100,000 .......... 10%
+(c)  ``Capital Gains from Sale of Shares of Stock Not Traded in the Stock Exchange. -`` A final tax at the rate of fifteen percent (15%) is hereby imposed upon the net capital gains realized during the taxable year from the sale, barter, exchange or other disposition of shares of stock in a domestic corporation except shares sold or disposed of through the stock exchange. (``as amended by the RA 11534 - CREATE Act.``)
 
 (d)  ``Intercorporate Dividends. -`` Dividends received by a resident foreign corporation from a domestic corporation liable to tax under this Code shall not be subject to tax under this Title.
 
 (B) ``Tax on Nonresident Foreign Corporation. -`` 
 
-(1)  ``In General. -`` Except as otherwise provided in this Code, a foreign corporation not engaged in trade or business in the Philippines shall pay a tax equal to thirty-five percent (35%) of the gross income received during each taxable year from all sources within the Philippines, such as interests, dividends, rents, royalties, salaries, premiums (except reinsurance premiums), annuities, emoluments or other fixed or determinable annual, periodic or casual gains, profits and income, and capital gains, except capital gains subject to tax under subparagraph 5 ( c ): ``Provided``, That effective January 1, 2009, the rate of income tax shall be thirty percent (30%).
+(1)  ``In General. -`` Except as otherwise provided in this Code, a foreign corporation not engaged in trade or business in the Philippines, effective January 1, 2021, shall pay a tax equal to twentyfive percent (25%) of the gross income received during each taxable year from all sources within the Philippines, such as interests, dividends, rents, royalties, salaries, premiums (except reinsurance premiums), annuities, emoluments or other fixed or determinable annual, periodic or casual gains, profits and income, and capital gains, except capital gains subject to tax under subparagraph 5(c). (``as amended by the RA 11534 - CREATE Act.``)
 
 (2)  ``Nonresident Cinematographic Film Owner, Lessor or Distributor. -`` A cinematographic film owner, lessor, or distributor shall pay a tax of twenty-five percent (25%) of its gross income from all sources within the Philippines.
 
@@ -583,55 +555,11 @@ On any amount in excess of P 100,000 .......... 10%
 
 (a)  ``Interest on Foreign Loans. -`` A final withholding tax at the rate of twenty percent (20%) is hereby imposed on the amount of interest on foreign loans contracted on or after August 1, 1986;
 
-(b)  ``Intercorporate Dividends. -`` A final withholding tax at the rate of fifteen percent (15%) is hereby imposed on the amount of cash and/or property dividends received from a domestic corporation, which shall be collected and paid as provided in Section 57 (A) of this Code, subject to the condition that the country in which the nonresident foreign corporation is domiciled, shall allow a credit against the tax due from the nonresident foreign corporation taxes deemed to have been paid in the Philippines equivalent to twenty percent (20%), which represents the difference between the regular income tax of thirty-five percent (35%) and the fifteen percent (15%) tax on dividends as provided in this subparagraph: ``Provided``, that effective January 1, 2009, the credit against the tax due shall be equivalent to fifteen percent (15%), which represents the difference between the regular income tax of thirty percent (30%) and the fifteen percent (15%) tax on dividends;
+(b)  ``Intercorporate Dividends. -`` A final withholding tax at the rate of fifteen percent (15%) is hereby imposed on the amount of cash and/or property dividends received from a domestic corporation, which shall be collected and paid as provided in Section 57(A) of this Code, subject to the condition that the country in which the nonresident foreign corporation is domiciled, shall allow a credit against the tax due from the nonresident foreign corporation taxes deemed to have been paid in the Philippines equivalent to fifteen percent (15%), which represents the difference between the regular income tax and the fifteen percent (15%) tax on dividends as provided in this subparagraph: ``Provided``, That effective July 1, 2020, the credit against the tax due shall be equivalent to the difference between the regular income tax rate provided in Section 28(B)(1) of this Code and the fifteen percent (15%) tax on dividends; (``as amended by the RA 11534 - CREATE Act.``)
 
-(c)  ``Capital Gains from Sale of Shares of Stock not Traded in the Stock Exchange. -`` A final tax at the rates prescribed below is hereby imposed upon the net capital gains realized during the taxable year from the sale, barter, exchange or other disposition of shares of stock in a domestic corporation, except shares sold, or disposed of through the stock exchange:
+(c)  ``Capital Gains from Sale of Shares of Stock not Traded in the Stock Exchange. -`` A final tax at the rate of fifteen percent (15%) is hereby imposed upon the net capital gains realized during the taxable year from the sale, barter, exchange or other disposition of shares of stock in a domestic corporation, except shares sold, or disposed of through the stock exchange. (``as amended by the RA 11534 - CREATE Act.``)
 
-Not over P 100,000 .......... 5%
-
-On any amount in excess of P 100,000 .......... 10%
-
-SEC. 29. ``Imposition of Improperly Accumulated Earnings Tax. -``
-
-(A)  ``In General. -`` In addition to other taxes imposed by this Title, there is hereby imposed for each taxable year on the improperly accumulated taxable income of each corporation described in Subsection B hereof, an improperly accumulated earnings tax equal to ten percent (10%) of the improperly accumulated taxable income.
-
-(B) ``Tax on Corporations Subject to Improperly Accumulated Earnings Tax. -`` 
-
-(1)  ``In General. -`` The improperly accumulated earnings tax imposed in the preceding Section shall apply to every corporation formed or availed for the purpose of avoiding the income tax with respect to its shareholders or the shareholders of any other corporation, by permitting earnings and profits to accumulate instead of being divided or distributed.
-
-(2)  ``Exceptions. -`` The improperly accumulated earnings tax as provided for under this Section shall not apply to:
-
-(a) Publicly-held corporations;
-
-(b) Banks and other nonbank financial intermediaries; and
-
-(c) Insurance companies.
-
-(C) ``Evidence of Purpose to Avoid Income Tax. -`` 
-
-(1) ``Prima Facie Evidence. -`` The fact that any corporation is a mere holding company or investment company shall be ``prima facie`` evidence of a purpose to avoid the tax upon its shareholders or members.
-
-(2)  ``Evidence Determinative of Purpose. -`` The fact that the earnings or profits of a corporation are permitted to accumulate beyond the reasonable needs of the business shall be determinative of the purpose to avoid the tax upon its shareholders or members unless the corporation, by the clear preponderance of evidence, shall prove to the contrary.
-
-(D)  ``Improperly Accumulated Taxable Income. -`` For purposes of this Section, the term 'improperly accumulated taxable income' means taxable income adjusted by:
-
-(a) Income exempt from tax;
-
-(b) Income excluded from gross income;
-
-(c) Income subject to final tax; and
-
-(d) The amount of net operating loss carry-over deducted;
-
-And reduced by the sum of:
-
-(a) Dividends actually or constructively paid; and
-
-(b) Income tax paid for the taxable year.
-
-``Provided, however``, That for corporations using the calendar year basis, the accumulated earnings tax shall not apply on improperly accumulated income as of December 31, 1997. In the case of corporations adopting the fiscal year accounting period, the improperly accumulated income not subject to this tax, shall be reckoned, as of the end of the month comprising the twelve (12)-month period of fiscal year 1997-1998.
-
-(E)  ``Reasonable Needs of the Business. -`` For purposes of this Section, the term 'reasonable needs of the business' includes the reasonably anticipated needs of the business.
+SEC. 29. ``Imposition of Improperly Accumulated Earnings Tax. -`` (``repealed by RA 11534 - CREATE Act.``) 
 
 SEC. 30. ``Exemptions from Tax on Corporations. -``
 
@@ -821,6 +749,8 @@ Except for taxpayers earning compensation income arising from personal services 
 
 (iv) A reasonable allowance for entertainment, amusement and recreation expenses during the taxable year, that are directly connected to the development, management and operation of the trade, business or profession of the taxpayer, or that are directly related to or in furtherance of the conduct of his or its trade, business or exercise of a profession not to exceed such ceilings as the Secretary of Finance may, by rules and regulations prescribe, upon recommendation of the Commissioner, taking into account the needs as well as the special circumstances, nature and character of the industry, trade, business, or profession of the taxpayer: ``Provided``, That any expense incurred for entertainment, amusement or recreation that is contrary to law, morals public policy or public order shall in no case be allowed as a deduction.
 
+(v) An additional deduction from taxable income of one-half (1/2) of the value of labor training expenses incurred for skills development of enterprise-based trainees enrolled in public senior high schools, public higher education institutions, or public technical and vocational institutions and duly covered by an apprenticeship agreement under Presidential Decree No. 442, series of 1974, or the 'Labor Code of the Philippines,' as amended, shall be granted to enterprises: ``Provided, further``, That for the additional deduction for enterprise-based training of students from public educational institutions, the enterprise shall secure proper certification from the DepEd, TESDA, or CHED: ``Provided, finally``, That such deduction shall not exceed ten percent (10%) of direct labor wage. (``as amended by the RA 11534 - CREATE Act.``)
+
 (b) ``Substantiation Requirements. -`` No deduction from gross income shall be allowed under Subsection (A) hereof unless the taxpayer shall substantiate with sufficient evidence, such as official receipts or other adequate records: (i) the amount of the expense being deducted, and (ii) the direct connection or relation of the expense being deducted to the development, management, operation and/or conduct of the trade, business or profession of the taxpayer.
 
 (c) ``Bribes, Kickbacks and Other Similar Payments. -`` No deduction from gross income shall be allowed under Subsection (A) hereof for any payment made, directly or indirectly, to an official or employee of the national government, or to an official or employee of any local government unit, or to an official or employee of a government-owned or -controlled corporation, or to an official or employee or representative of a foreign government, or to a private corporation, general professional partnership, or a similar entity, if the payment constitutes a bribe or kickback.
@@ -829,7 +759,7 @@ Except for taxpayers earning compensation income arising from personal services 
 
 (B)``Interest. -`` 
 
-(1) ``In General. -`` The amount of interest paid or incurred within a taxable year on indebtedness in connection with the taxpayer's profession, trade or business shall be allowed as deduction from gross income: ``Provided, however``, That the taxpayer's otherwise allowable deduction for interest expense shall be reduced by forty-two percent (42%) of the interest income subjected to final tax: ``Provided``, That effective January 1, 2009, the percentage shall be thirty-three percent (33%). [29]
+(1) ``In General. -`` The amount of interest paid or incurred within a taxable year on indebtedness in connection with the taxpayer's profession, trade or business shall be allowed as deduction from gross income: Provided, however, That the taxpayer's otherwise allowable deduction for interest expense shall be reduced by twenty percent (20%) of the interest income subjected to final tax: Provided, finally, That if the interest income tax is adjusted in the future, the interest expense reduction rate shall be adjusted accordingly based on the prescribed standard formula as defined in the rules and regulations to be promulgated by the Secretary of Finance, upon the recommendation of the Commissioner of Internal Revenue. (``as amended by the RA 11534 - CREATE Act.``)
 
 (2) ``Exceptions. -`` No deduction shall be allowed in respect of interest under the succeeding subparagraphs:
 
@@ -1143,15 +1073,23 @@ SEC. 40. ``Determination of Amount and Recognition of Gain or Loss. -``
 
 (1) ``General Rule. -`` Except as herein provided, upon the sale or exchange or property, the entire amount of the gain or loss, as the case may be, shall be recognized.
 
-(2) ``Exception. -`` No gain or loss shall be recognized if in pursuance of a plan of merger or consolidation -
+(2) ``Exception. -`` No gain or loss shall be recognized on a corporation or on its stock or securities if such corporation is a party to a reorganization and exchanges property in pursuance of a plan of reorganization solely for stock or securities in another corporation that is a party to the reorganization. A reorganization is defined as: 
 
 (a) A corporation, which is a party to a merger or consolidation, exchanges property solely for stock in a corporation, which is a party to the merger or consolidation; or
 
-(b) A shareholder exchanges stock in a corporation, which is a party to the merger or consolidation, solely for the stock of another corporation also a party to the merger or consolidation; or
+(b) The acquisition by one corporation, in exchange solely for all or a part of its voting stock, or in exchange solely for all or part of the voting stock of a corporation which is in control of the acquiring corporation, of stock of another corporation if, immediately after the acquisition, the acquiring corporation has control of such other corporation whether or not such acquiring corporation had control immediately before the acquisition; or
 
-(c) A security holder of a corporation, which is a party to the merger or consolidation, exchanges his securities in such corporation, solely for stock or securities in such corporation, a party to the merger or consolidation.
+(c) The acquisition by one corporation, in exchange solely for all or a part of its voting stock or in exchange solely for all or part of the voting stock of a corporation which is in control of the acquiring corporation, of substantially all of the properties of another corporation. In determining whether the exchange is solely for stock, the assumption by the acquiring corporation of a liability of the others shall be disregarded; or
 
-No gain or loss shall also be recognized if property is transferred to a corporation by a person in exchange for stock or unit of participation in such a corporation of which as a result of such exchange said person, alone or together with others, not exceeding four (4) persons, gains control of said corporation: ``Provided``, That stocks issued for services shall not be considered as issued in return for property.
+(d) A recapitalization, which shall mean an arrangement whereby the stock and bonds of a corporation are readjusted as to amount, income, or priority or an agreement of all stockholders and creditors to change and increase or decrease the capitalization or debts of the corporation or both; or
+
+(e) A reincorporation, which shall mean the formation of the same corporate business with the same assets and the same stockholders surviving under a new charter.
+
+No gain or loss shall also be recognized if property is transferred to a corporation by a person, alone or together with others, not exceeding four (4) persons, in exchange for stock or unit of participation in such a corporation of which as a result of such exchange the transferor or transferors, collectively, gains or maintains control of said corporation: Provided, That stocks issued for services shall not be considered as issued in return for property.
+
+Sale or exchanges of property used for business for shares of stock covered under this Subsection shall not be subject to value-added tax.
+
+In all of the foregoing instances of exchange of property, prior Bureau of Internal Revenue confirmation or tax ruling shall not be required for purposes of availing the tax exemption. (``as amended by the RA 11534 - CREATE Act.``)
 
 (3) ``Exchange Not Solely in Kind. -`` 
 
@@ -1177,7 +1115,8 @@ No gain or loss shall also be recognized if property is transferred to a corpora
 
 (b) The term "merger" or "consolidation", when used in this Section, shall be understood to mean: (i) the ordinary merger or consolidation, or (ii) the acquisition by one corporation of all or substantially all the properties of another corporation solely for stock: ``Provided``, That for a transaction to be regarded as a merger or consolidation within the purview of this Section, it must be undertaken for a bona fide business purpose and not solely for the purpose of escaping the burden of taxation: ``Provided, further``, That in determining whether a bona fide business purpose exists, each and every step of the transaction shall be considered and the whole transaction or series of transaction shall be treated as a single unit: ``Provided``, finally, That in determining whether the property transferred constitutes a substantial portion of the property of the transferor, the term "property" shall be taken to include the cash assets of the transferor.
 
-(c) The term "control", when used in this Section, shall mean ownership of stocks in a corporation possessing at least fifty-one percent (51%) of the total voting power of all classes of stocks entitled to vote.
+(c) The term "control," when used in this Section, shall mean ownership of stocks in a corporation after the transfer of property possessing at least fifty-one percent (51%) of the total voting power of all classes of stocks entitled to vote: Provided, That the collective and not the individual ownership of all classes of stocks entitled to vote of the transferor or transferors under this Section shall be used in determining the presence of control. (``as amended by the RA 11534 - CREATE Act.``)
+
 
 (d) The Secretary of Finance, upon recommendation of the Commissioner, is hereby authorized to issue rules and regulations for the purpose "substantially all" and for the proper implementation of this Section.
 
@@ -1447,6 +1386,8 @@ SEC. 57. ``Withholding of Tax at Source. -``
 (B)  ``Withholding of Creditable Tax at Source. -`` The Secretary of Finance may, upon the recommendation of the Commissioner, require the withholding of a tax on the items of income payable to natural or juridical persons, residing in the Philippines, by payor-corporation/persons as provided for by law, at the rate of not less than one percent (1%) but not more than thirty-two percent (32%) thereof, which shall be credited against the income tax liability of the taxpayer for the taxable year: ``Provided``, That, beginning January 1, 2019, the rate of withholding shall not be less than one percent (1%) but not more than fifteen percent (15%) of the income payment. (``As amended by R.A. No. 10963.``)
 
 (C)  ``Tax-free Covenant Bonds. -`` In any case where bonds, mortgages, deeds of trust or other similar obligations of domestic or resident foreign corporations, contain a contract or provisions by which the obligor agrees to pay any portion of the tax imposed in this Title upon the obligee or to reimburse the obligee for any portion of the tax or to pay the interest without deduction for any tax which the obligor may be required or permitted to pay thereon or to retain therefrom under any law of the Philippines, or any state or country, the obligor shall deduct bonds, mortgages, deeds of trust or other obligations, whether the interest or other payments are payable annually or at shorter or longer periods, and whether the bonds, securities or obligations had been or will be issued or marketed, and the interest or other payment thereon paid, within or without the Philippines, if the interest or other payment is payable to a nonresident alien or to a citizen or resident of the Philippines.
+
+The Department of Finance shall review, at least once every three (3) years, regulations and processes for the withholding of creditable tax under this Code, and direct the Bureau of Internal Revenue to amend rules and regulations for the same, should it be found during the review that the existing rules, regulations, and processes for the withholding of creditable tax under this Code adversely and materially impact the taxpayer. (``as amended by the RA 11534 - CREATE Act.``)
 
 SEC. 58. ``Returns and Payment of Taxes Withheld at Source. -``
 
@@ -2187,11 +2128,11 @@ Products classified under this paragraph shall be considered in their original s
 
 (O) Export sales by persons who are not VAT-registered;
 
-(P) Sale of real properties not primarily held for sale to customers or held for lease in the ordinary course of trade or business or real property utilized for low-cost and socialized housing as defined by Republic Act No. 7279, otherwise known as the Urban Development and Housing Act of 1992, and other related laws, residential lot valued at One million five hundred thousand pesos (₱1,500,000) and below, house and lot, and other residential dwellings valued at Two million five hundred thousand pesos (₱2,500,000) and below: Provided, That beginning January 1, 2021, the VAT exemption shall only apply to sale of real properties not primarily held for sale to customers or held for lease in the ordinary course of trade or business, sale of real property utilized for socialized housing as defined by Republic Act No. 7279, sale of house and lot, and other residential dwellings with selling price of not more than Two million pesos (₱2,000,000): Provided, further, That every three (3) years thereafter, the amount herein stated shall be adjusted to its present value using the Consumer Price Index, as published by the Philippine Statistics Authority (PSA);
+(P) (``deleted by the RA 11534 - CREATE Act.``)
 
 (Q) Lease of a residential unit with a monthly rental not exceeding Fifteen thousand pesos (₱15,000);
 
-(R) Sale, importation, printing or publication of books and any newspaper, magazine, review or bulletin which appears at regular intervals with fixed prices or subscription and sale and which is not devoted principally to the publication of paid advertisements;
+(R) Sale, importation, printing or publication of books, and any newspaper, magazine, journal, review bulletin, or any such educational reading material covered by the UNESCO Agreement on the Importation of Educational, Scientific and Cultural Materials, including the digital or electronic format thereof: Provided, That the materials enumerated herein are not devoted principally to the publication of paid advertisements; (``as amended by the RA 11534 - CREATE Act.``)
 
 (S) Transport of passengers by international carriers;
 
@@ -2209,9 +2150,23 @@ Products classified under this paragraph shall be considered in their original s
 
 (Z) Sale of gold to the Bangko Sentral ng Pilipinas (BSP);
 
-(AA) Sale of drugs and medicines prescribed for diabetes, high cholesterol, and hypertension beginning January 1, 2019; and
+(AA) Sale of or importation of prescription drugs and medicines for:
 
-(BB) Sale or lease of goods or properties or the performance of services other than the transactions mentioned in the preceding paragraphs, the gross annual sales and/or receipts do not exceed the amount of Three million pesos (₱3,000,000). (``As amended by R.A. No. 10963.``)
+(i) Diabetes, high cholesterol, and hypertension beginning January 1, 2020; and
+
+(ii) Cancer, mental illness, tuberculosis, and kidney diseases beginning January 1, 2021:
+
+Provided, That the DOH shall issue a list of approved drugs and medicines for this purpose within sixty (60) days from the effectivity of this Act; and
+
+(BB) Sale or importation of the following beginning January 1, 2021 to December 31, 2023:
+
+(i) Capital equipment, its spare parts and raw materials, necessary for the production of personal protective equipment components such as coveralls, gown, surgical cap, surgical mask, N-95 mask, scrub suits, goggles and face shield, double or surgical gloves, dedicated shoes, and shoe covers, for COVID-19 prevention;
+
+(ii) All drugs, vaccines and medical devices specifically prescribed and directly used for the treatment of COVID-19; and 
+
+(iii) Drugs for the treatment of COVID-19 approved by the Food and Drug Administration (FDA) for use in clinical trials, including raw materials directly necessary for the production of such drugs: ``Provided``, That the Department of Trade and Industry (DTI) shall certify that such equipment, spare parts or raw materials for importation are not locally available or insufficient in quantity, or not in accordance with the quality or specification required: ``Provided, further``, That for item (ii), within sixty (60) days from the effectivity of this Act, and every three (3) months thereafter, the Department of Health (DOH) shall issue a list of prescription drugs and medical devices covered by this provision: ``Provided, finally``, That the exemption claimed under this subsection shall be subject to post audit by the Bureau of Internal Revenue or the Bureau of Customs as may be applicable.
+
+(CC) Sale or lease of goods or properties or the performance of services other than the transactions mentioned in the preceding paragraphs, the gross annual sales and/or receipts do not exceed the amount of Three million pesos (P3,000,000.00)." (``as amended by the RA 11534 - CREATE Act.``)
 
 SEC. 110. ``Tax Credits. -``
 
@@ -2361,7 +2316,8 @@ The temporary closure of the establishment shall be for the duration of not less
 
 SEC. 116. ``Tax on Persons Exempt from Value-Added Tax (VAT). -``
 
-Any person whose sales or receipts are exempt under Section 109(BB) of this Code from the payment of value-added tax and who is not a VAT-registered person shall pay a tax equivalent to three percent (3%) of his gross quarterly sales or receipts: Provided, That cooperatives, and beginning January 1, 2019, self-employed and professionals with total annual gross sales and/or gross receipts not exceeding Five hundred thousand pesos (₱500,000) shall be exempt from the three percent (3%) gross receipts tax herein imposed. (``As amended by R.A. No. 10963.``)
+Any person whose sales or receipts are exempt under Section 109(CC) of this Code from the payment of value-added tax and who is not a VAT-registered person shall pay a tax equivalent to three percent (3%) of his gross quarterly sales or receipts: Provided, That cooperatives, shall be exempt from the three percent (3%) gross receipts tax herein imposed: Provided, further, That effective July 1,
+2020 until June 30, 2023, the rate shall be one percent (1%). (``as amended by the RA 11534 - CREATE Act.``)
 
 SEC. 117. ``Percentage Tax on Domestic Carriers and Keepers of Garages. -``
 
@@ -2900,10 +2856,10 @@ Any violation of the foregoing provisions on health warnings shall be punishable
 
 Quantity .......... Excise Tax
 0.00 ml to 10.00 ml .......... Ten pesos (₱10.00)
-10.01 ml to 20.00 ml ..........	Twenty pesos (₱20.00)
-20.01 ml to 30.00 ml ..........	Thirty pesos (₱30.00)
-30.01 ml to 40.00 ml ..........	Forty pesos (₱40.00)
-10.01 ml to 50.00 ml ..........	Fifty pesos (₱50.00)
+10.01 ml to 20.00 ml .......... Twenty pesos (₱20.00)
+20.01 ml to 30.00 ml .......... Thirty pesos (₱30.00)
+30.01 ml to 40.00 ml .......... Forty pesos (₱40.00)
+10.01 ml to 50.00 ml .......... Fifty pesos (₱50.00)
 More than 50.00 ml .......... Fifty pesos (₱50.00) plus Ten pesos (₱10.00) for every additional 10.00 ml
 
 (2) The rates of tax imposed under this Subsection shall be increased by five percent (5%) every year effective on January 1, 2021, through revenue regulations issued by the Secretary of Finance.
@@ -4688,7 +4644,7 @@ All water districts, through the Local Water Utilities Administration, shall fur
 
 SEC. 290. ``Congressional Oversight Committee. -``
 
-A Congressional Oversight Committee, hereinafter referred to as the Committee, is hereby constituted in accordance with the provisions of this Code. The Committee shall be composed of the Chairmen of the Committee on Ways and Means of the Senate and House of Representatives and four (4) additional members from each house, to be designated by the Speaker of the House of Representatives and the Senate President, respectively.
+A Congressional Oversight Committee, hereinafter referred to as the Committee, is hereby constituted in accordance with the provisions of this Code. The Committee shall be composed of the Chairpersons of the Committee on Ways and Means of the Senate and House of Representatives and four (4) additional members from each House, to be designated by the Speaker of the House of Representatives and the Senate President, respectively.  
 
 The Committee shall, among others, in aid of legislation:
 
@@ -4700,25 +4656,449 @@ The Committee shall, among others, in aid of legislation:
 
 (4) Review the implementation of the programs of the Bureau of Internal Revenue.
 
+(5) Review the performance of the Fiscal Incentives Review Board. (``as amended by the RA 11534 - CREATE Act.``)
+
 In furtherance of the hereinabove cited objectives, the Committee is empowered to require of the Bureau of Internal Revenue, submission of all pertinent information, including but not limited to: industry audits; collection performance data; status report on criminal actions initiated against persons; and submission of taxpayer returns: ``Provided``, however, That any return or return information which can be associated with, or otherwise identify, directly or indirectly, a particular taxpayer shall be furnished the Committee only when sitting in Executive Session unless such taxpayer otherwise consents in writing to such disclosure.
 
-@TAB XIII. REPEALING PROVISIONS
+@TAB XIII. TAX INCENTIVES
 
-## TITLE XIII
+## TITLE XIII [234]
 
-## REPEALING PROVISIONS
+## TAX INCENTIVES
 
-SEC. 291. ``In General. -``
+### CHAPTER I
+### GENERAL PROVISIONS ON TAX INCENTIVES
 
-All laws, decrees, executive orders, rules and regulations or parts thereof which are contrary to or inconsistent with this Code are hereby repealed, amended or modified accordingly.
+SEC. 291. Scope and Coverage. - This Title shall cover all existing Investment Promotion Agencies as defined in this Code or related laws unless otherwise specifically exempted from the coverage of this Code.
 
-@TAB XIV. FINAL PROVISIONS
+The Investment Promotion Agencies shall maintain their functions and powers as provided under the special laws governing them except to the extent modified by the provisions of this Code: Notwithstanding the provisions of this Section, the Department of Finance, the Bureau of Internal Revenue, and the Bureau of Customs shall retain their respective mandates, powers and functions as provided for under this Act and related laws.
+
+SEC. 292. Extent of Authority to Grant Tax Incentives. - The Fiscal Incentives Review Board, or the Investment Promotion Agencies, under a delegated authority from the Fiscal Incentives Review Board, shall grant the appropriate tax incentives provided in this Title to be granted to registered business enterprises only to the extent of their approved registered project or activity under the Strategic Investment Priority Plan.
+
+SEC. 293. Definitions. - When used in this Title:
+
+(A) Capital equipment refers to machinery, equipment, major components thereof, tools, devices, applications or apparatus, which are directly or reasonably needed in the registered project or activity of the registered enterprise;
+
+(B) Direct local employment refers to the full and decent employment of Filipinos by registered business enterprises under an employer-employee relationship to perform functions that are directly related to the production of goods or performance of services under the registered project or activity;
+
+(C) Domestic input refers to purchases of locally manufactured goods or locally produced raw materials or domestically outsourced services known as services embedded in manufacturing that are used directly in the production of goods under the registered project or activity. In the case of locally manufactured goods, fifty percent (50%) of the value-added of the said good should likewise be locally produced or manufactured;
+
+(D) Domestic market enterprise refers to any enterprise registered with the Investment Promotion Agency other than export enterprise;
+
+(E) Export enterprise refers to any individual, partnership, corporation, Philippine branch of a foreign corporation, or other entity organized and existing under Philippine laws and registered with the Investment Promotion Agency to engage in manufacturing, assembling or processing activity, and services such as information technology (IT) activities and business process outsourcing (BPO), and resulting in the direct exportation, and/or sale of its manufactured, assembled or processed product or IT/BPO services to another registered export enterprise that will form part of the final export product or export service of the latter, of at least seventy percent (70%) of its total production or output;
+
+(F) Freeport zones refer to an isolated and policed area adjacent to a port of entry, which shall be operated and managed as a separate customs territory to ensure free flow or movement of goods, except those expressly prohibited by law, within, into, and exported out of the freeport zone where imported goods may be unloaded for immediate transshipment or stored, repacked, sorted, mixed, or otherwise manipulated without being subject to import duties. However, movement of these imported goods from the free-trade area to a non-free trade area in the country shall be subject to all applicable internal revenue taxes and duties: Provided, That for the freeport to qualify as a separate customs territory, a freeport shall have a permanent customs control or customs office at its perimeter;
+
+(G)[235]
+
+(H) Investment Promotion Agencies refer to government entities created by law, executive order, decree or other issuance, in charge of promoting investments, granting and administering tax and non-tax incentives, and overseeing the operations of the different economic zones and freeports in accordance with their respective special laws. These include the Board of Investments (BOI), Regional Board of Investments-Autonomous Region in Muslim Mindanao (RBOI-ARMM), Philippine Economic Zone Authority (PEZA), Bases Conversion and Development Authority (BCDA), Subic Bay Metropolitan Authority (SBMA), Clark Development Corporation (CDC), John Hay Management Corporation (JHMC), Poro Point Management Corporation (PPMC), Cagayan Economic Zone Authority (CEZA), Zamboanga City Special Economic Zone Authority (ZCSEZA), PHIVIDEC Industrial Authority (PIA), Aurora Pacific Economic Zone and Freeport Authority (APECO), Authority of the Freeport Area of Bataan (AFAB), Tourism Infrastructure and Enterprise Zone Authority (TIEZA), and all other similar existing authorities or that may be created by law unless otherwise specifically exempted from the coverage of this Code;
+
+(I) Metropolitan areas refer to Metro Cebu and Metro Davao or those local government units which are later qualified or grouped as such by the National Economic and Development Authority or through laws or executive issuances;
+
+(J) Other government agencies administering tax incentives refer to government agencies other than Investment Promotion Agencies which register or administer tax incentives of any kind to any specific entities and/or class of persons pursuant to any law;
+
+(K) Other registered entities refer to any individual, partnership, organization, corporation, Philippine branch of a foreign corporation, or other entity incorporated and/or organized and existing under Philippine laws, and registered with other government agencies administering tax incentives;
+
+(L) Qualified capital expenditure refers to purchases of capital goods with a useful life of more than one (1) year acquired for the entity's production of goods and services to be directly used in the project or activity of the registered business enterprise;
+
+(M) Registered business enterprise refers to any individual, partnership, corporation, Philippine branch of a foreign corporation, or other entity organized and existing under Philippine laws and registered with an Investment Promotion Agency excluding service enterprises such as those engaged in customs brokerage, trucking or forwarding services, janitorial services, security services, insurance, banking, and other financial services, consumers' cooperatives, credit unions, consultancy services, retail enterprises, restaurants, or such other similar services, as may be determined by the Fiscal Incentives Review Board, irrespective of location, whether inside or outside the zones, duly accredited or licensed by any of the Investment Promotion Agencies and whose income delivered within the economic zones shall be subject to taxes under the National Internal Revenue Code of 1997, as amended;
+
+(N) Research and development refers to experimental or other related projects or activities:
+
+(1) Whose outcome cannot be known or determined in advance on the basis of current knowledge, information or experience, but can only be determined by applying a systematic progression of work:
+
+(i) Based on principles of established science; and
+
+(ii) Proceeds from hypothesis to experiment, observation and evaluation, and leads to logical conclusions.
+
+(2) That are conducted for the purpose of generating new knowledge, including new knowledge in the form of new or improved materials, products, devices, processes or services;
+
+(O) Sophisticated refers to the state when a product or service requires a high level of technology, human capital, competencies or know-how, and infrastructure to be produced or offered;
+
+(P) Sophistication refers to the level of technology, human capital, competencies or know-how, and infrastructure required for a product or service to be offered by an economy like that of the Philippines;
+
+(Q) Source document refers to input materials and documents reasonably needed by information technology (IT) and IT-enabled industries such as books, directories, magazines, newspapers, brochures, pamphlets, medical records or files, legal records or files, instruction materials, and drawings, blueprints, or outlines;
+
+(R) Special economic zone or ecozone refers to a selected area, which shall be operated and managed as a separate customs territory that is highly developed or has the potential to be developed into an agro-industrial, industrial, information technology, or tourist/recreational area, whose metes and bounds are fixed or delimited by presidential proclamations and within a specific geographical area which includes industrial estates (IEs), export processing zones (EPZs), ICT parks and centers, and free trade zones: Provided, That for the ecozone to qualify as a separate customs territory, an ecozone shall have a permanent customs control or customs office at its perimeter: Provided, however, That areas where mining extraction is undertaken shall not be declared as an ecozone: Provided, further, That vertical economic zones, such as, but not limited to, buildings, selected floors within buildings, and selected areas on a floor, need to comply with the minimum contiguous land area as determined by the Fiscal Incentives Review Board; and
+
+(S) Training refers to courses, curricula, certifications or modules provided to Filipino employees that are directly related to the production of goods or performance of services under the registered project or activity and that are of a technical nature, which shall develop or improve the specific skills or practical knowledge of the employee especially in the mechanical, industrial art, scientific field or practical science of a particular position or job function in the registered project or activity, or in preparation for enhancing the value chain.
+
+### CHAPTER II
+### TAX AND DUTY INCENTIVES
+
+SEC. 294. Incentives. - Subject to the conditions and period of availment in Sections 295 and 296, respectively, the following types of tax incentives may be granted to registered projects or activities:
+
+(A) Income Tax Holiday (ITH);
+
+(B) Special Corporate Income Tax (SCIT) Rate - For export enterprise, [236] a tax rate equivalent to five percent (5%) effective July 1, 2020, based on the gross income earned, in lieu of all national and local taxes.[237]
+
+The period of availment of the Special Corporate Income Tax shall be subject to the conditions set under paragraphs (A) and (B) of Section 296 of this Act:
+
+Provided, That, if applicable, the shares of the local government units and the Investment Promotion Agencies under the special laws governing the latter shall be observed and shall not result in the diminution of their respective shares.[238]
+
+(C) Enhanced Deductions (ED) - For export enterprise and domestic market enterprise,[239] the following may be allowed as deductions:
+
+(1) Depreciation allowance of the assets acquired for the entity's production of goods and services (qualified capital expenditure) — additional ten percent (10%) for buildings; and additional twenty percent (20%) for machineries and equipment;
+
+(2) Fifty percent (50%) additional deduction on the labor expense incurred in the taxable year;
+
+(3) One hundred percent (100%) additional deduction on research and development expense incurred in the taxable year;
+
+(4) One hundred percent (100%) additional deduction on training expense incurred in the taxable year;
+
+(5) Fifty percent (50%) additional deduction on domestic input expense incurred in the taxable year;
+
+(6) Fifty percent (50%) additional deduction on power expense incurred in the taxable year;
+
+(7) Deduction for reinvestment allowance to manufacturing industry — When a manufacturing registered business enterprise reinvests its undistributed profit or surplus in any of the projects or activities listed in the Strategic Investment Priority Plan, the amount reinvested to a maximum of fifty percent (50%) shall be allowed as a deduction from its taxable income within a period of five (5) years from the time of such reinvestment; and
+
+(8) Enhanced Net Operating Loss Carry-Over (NOLCO). — The net operating loss of the registered project or activity during the first three (3) years from the start of commercial operation, which had not been previously offset as deduction from gross income, may be carried over as deduction from gross income within the next five (5) consecutive taxable years immediately following the year of such loss.
+
+(D)Duty exemption on importation of capital equipment, raw materials, spare parts, or accessories; and
+
+(E)Value-Added Tax (VAT) exemption on importation and VAT zero-rating on local purchases.
+
+SEC. 295. Conditions of Availment. - The tax incentives in the preceding Section shall be governed by the following rules:
+
+(A) The income tax holiday shall be followed by the Special Corporate Income Tax rate or Enhanced Deductions.
+
+(B) At the option of the export enterprise,[240] the Special Corporate Income Tax rate or enhanced deductions shall be granted: Provided, That in no case shall the enhanced deductions be granted simultaneously with the Special Corporate Income Tax.
+
+The following conditions for the availment of each enhanced deductions shall be complied with:.
+
+(1) The depreciation allowance of the assets acquired for the entity’s production of goods and services (qualified capital expenditure) shall be allowed for assets that are directly related to the registered enterprise's production of goods and services other than administrative and other support services.
+
+(2) The additional deduction on the labor expense shall not include salaries, wages, benefits, and other personnel costs incurred for managerial, administrative, indirect labor, and support services.
+
+(3) The additional deduction on research and development expense shall only apply to research and development directly related to the registered project or activity of the entity and shall be limited to local expenditure incurred for salaries of Filipino employees and consumables and payments to local research and development organizations.
+
+(4) The additional deduction on training expense shall only apply to trainings, as approved by the Investment Promotion Agencies based on the Strategic Investment Priority Plan, given to the Filipino employees engaged directly in the registered business enterprise's production of goods and services.
+
+(5) The additional deduction on domestic input expense shall only apply to domestic input that are directly related to and actually used in the registered export project or activity of the registered business enterprise.
+
+(6) The additional deduction on power expense shall only apply to power utilized for the registered project or activity.
+
+(7) The deduction for reinvestment allowance to manufacturing industry shall be determined in the Strategic Investment Priority Plan.
+
+(C) The duty exemption shall only apply to the importation of capital equipment, raw materials, spare parts, or accessories directly and exclusively used in the registered project or activity by registered business enterprises: Provided, That the following conditions are complied with:
+
+(1) The capital equipment, raw materials, spare parts, or accessories are directly and reasonably needed and will be used exclusively in and as part of the direct cost of the registered project or activity of the registered business enterprise, and are not produced or manufactured domestically in sufficient quantity or of comparable quality and at reasonable prices. Prior approval of the Investment Promotion Agency may be secured for the part-time utilization of said capital equipment, raw materials, spare parts, or accessories in a non-registered project or activity to maximize usage thereof: Provided, That the proportionate taxes and duties are paid on a specific capital equipment, raw materials, spare parts, or accessories in proportion to the utilization for non-registered projects or activities. In the event that the capital equipment, raw materials, spare parts, or accessories shall be used for a non-registered project or activity of the registered business enterprise at any time within the first five (5) years from date of importation, the registered business enterprise shall first seek prior approval of the concerned Investment Promotion Agency and pay the taxes and customs duties that were not paid upon the importation; and
+
+(2) The approval of the Investment Promotion Agency was obtained by the registered business enterprise prior to the importation of such capital equipment, raw materials, spare parts, or accessories.
+
+Within the first five (5) years from date of importation, approval of the Investment Promotion Agency must be secured before the sale, transfer, or disposition of the capital equipment, raw materials, spare parts, or accessories, which were granted tax and customs duty exemption hereunder, and shall be allowed only under the following circumstances:
+
+(a) If made to another enterprise availing customs duty exemption on imported capital equipment, raw materials, spare parts, or accessories;
+
+(b) If made to another enterprise not availing of duty exemption on imported capital equipment, raw materials, spare parts, or accessories, upon payment of any taxes and duties due on the net book value of the capital equipment, raw materials, spare parts, or accessories to be sold;
+
+(c) Exportation of capital equipment, raw materials, spare parts, accessories, source documents, or those required for pollution abatement and control;
+
+(d) Proven technical obsolescence of the capital equipment, raw materials, spare parts, or accessories; or
+
+(e) If donated to the TESDA, state universities and colleges (SUCs), or DepEd and CHED-accredited schools: Provided, That the donation shall be exempt from import duties and taxes, including donor's tax.
+
+Provided, That if the registered business enterprise sells, transfers, or disposes the aforementioned imported items without prior approval, the registered business enterprise and the vendee, transferee, or assignee shall be solidarily liable to pay twice the amount of the duty exemption that should have been paid during its importation: Provided, further, That the sale, transfer, or disposition of the capital equipment, raw materials, spare parts, or accessories made after five (5) years from date of importation shall require that prior notice be given by the registered business enterprise to the Investment Promotion Agency: Provided, finally, That even if the sale, transfer, or disposition of the capital equipment, raw materials, spare parts or accessories was made after five (5) years from date of importation with notice to the Investment Promotion Agency, the registered business enterprise is still liable to pay the duties based on the net book value of the capital equipment, raw materials, spare parts, or accessories if it has violated any of its registration terms and conditions.
+
+(D) The VAT exemption on importation and VAT zero-rating on local purchases shall only apply to goods and services directly and exclusively used in the registered project or activity by a registered business enterprise..
+
+Notwithstanding the provisions in the preceding paragraphs, sales receipts and other income derived from non-registered project or activity shall be subject to appropriate taxes imposed under this Code..
+
+(E) Notwithstanding any law to the contrary, the importation of COVID-19 vaccine shall be exempt from import duties, taxes and other fees, subject to the approval or licenses issued by the Department of Health or the Food and Drug Administration.
+
+(F) Persons who directly import petroleum products defined under Republic Act No. 8479, otherwise known as the ‘Downstream Oil Industry Deregulation Act of 1998’​【𝟲𝟬𝟵 𝗺】, for resale in the Philippine customs territory and/or in free zones as defined under Republic Act No. 10863, otherwise known as the Customs Modernization and Tariff Act, shall not be entitled to the foregoing tax and duty incentives, and shall be subject to appropriate taxes imposed under this Code..
+
+Any law to the contrary notwithstanding, the importation of petroleum products by any person, including registered business enterprises, shall be subject to the payment of applicable duties and taxes as provided under Republic Act No. 10863, otherwise known as the Customs Modernization and Tariff Act, and this Code, respectively, upon importation into the Philippine customs territory and/or into free zones as defined under Republic Act No. 10863, otherwise known as the Customs Modernization and Tariff Act:.
+
+Provided, That the importer can file for claims for the refund of duties and taxes applicable under Republic Act No. 10863, otherwise known as the Customs Modernization and Tariff Act, and this Code, respectively, for direct or indirect export of petroleum products, and/or other tax-exempt sales under the Customs Modernization and Tariff Act and other special laws within the period provided therein:.
+
+Provided, further, That the importers who subsequently export fuel, subject to the appropriate rules of the fuel marking program, may apply for a refund of duties and taxes, as applicable under Republic Act No. 10863, otherwise known as the Customs Modernization and Tariff Act, and this Code..
+
+(G) Crude oil that is intended to be refined at a local refinery, including the volumes that are lost and not converted to petroleum products when the crude oil actually undergoes the refining process, shall be exempt from payment of applicable duties and taxes upon importation:.
+
+Provided, That applicable duties and taxes on petroleum products shall be payable only upon lifting of the petroleum products produced from the imported crude oil, subject to rules and regulations that may be prescribed by the Bureau of Customs and the Bureau of Internal Revenue, to ensure that crude oil shall not be lifted from the refinery without payment of appropriate duties and taxes..
+
+Registered business enterprises, whose performance commitments include job generation, shall maintain their employment levels to the extent practicable, and in the case of reduced employment or when the performance commitment for job generation is not met, the registered business enterprises must submit to their respective Investment Promotion Agencies and the Fiscal Incentives Review Board their justification for the same..
+
+SEC. 296. Period of Availment. - The period of availment of incentive by the registered business enterprise shall be as follows:
+
+(A) For export enterprise,[241] income tax holiday of four (4) to seven (7) years, depending on location and industry priorities as specified in this Section, and followed by special corporate income tax rate or enhanced deductions for ten (10) years.
+
+A qualified expansion or entirely new project or activity registered under this Act may qualify to avail of incentives,[242] subject to the qualifications set forth in the Strategic Investment Priority Plan and performance review by the Fiscal Incentives Review Board: Provided, That existing registered projects or activities prior to the effectivity of this Act may qualify to register and avail of the incentives granted under this Act for the prescribed period, subject to the criteria and conditions set forth in the Strategic Investment Priority Plan;
+
+(B) For domestic market enterprise under the Strategic Investment Priority Plan, income tax holiday for four (4) to seven (7) years followed by [243] enhanced deductions for five (5) years. [243]
+
+A qualified expansion or entirely new project or activity registered under this Act may qualify to avail of incentives,[245] subject to the qualifications set forth in the Strategic Investment Priority Plan and performance review by the Fiscal Incentives Review Board: Provided, That existing registered projects or activities prior to the effectivity of this Act may qualify to register and avail of the incentives granted under this Act for the prescribed period, subject to the criteria and conditions set forth in the Strategic Investment Priority Plan.
+
+The period of availment of the foregoing incentives shall commence from the actual start of commercial operations with the registered business enterprise availing of the tax incentives within three (3) years from the date of registration, unless otherwise provided in the Strategic Investment Priority Plan and its corresponding guidelines: Provided, That after the expiration of the transitory period under Section 311(C), export enterprises registered prior to the effectivity of this Act shall have the option to reapply and avail of the incentives granted under Section 294(B) for the same period provided under this Section,[246] subject to the conditions and qualifications set forth in the Strategic Investment Priority Plan and performance review by the Fiscal Incentives Review Board.
+
+For the purpose of this Section, the determination of the category shall be based on both location and industry of the registered project or activity, and other relevant factors as may be defined in the Strategic Investment Priority Plan.
+
+The location of the registered project or activity shall be prioritized according to the level of development as follows: (1) National Capital Region; (2) metropolitan areas or areas contiguous and adjacent to the National Capital Region; and (3) all other areas. The metropolitan areas shall be determined by the National Economic and Development Authority.
+
+The industry of the registered project or activity shall be prioritized according to national industrial strategy specified in the Strategic Investment Priority Plan. The Strategic Investment Priority Plan shall define the coverage of the tiers and provide the conditions for qualifying the activities:
+
+(1) Tier I shall include activities that (i) have high potential for job creation; (ii) take place in sectors with market failures resulting in underprovision of basic goods and services; (iii) generate value creation through innovation, upgrading or moving up the value chain; (iv) provide essential support for sectors that are critical to industrial development; or (v) are emerging owing to potential comparative advantage. [247]
+
+(2) Tier II shall include activities that produce supplies, parts and components, and intermediate services that are not locally produced but are critical to industrial development and import-substituting activities, including crude oil refining.
+
+(3) Tier III activities shall include (i) research and development resulting in demonstrably significant value-added, higher productivity, improved efficiency, breakthroughs in science and health, and high-paying jobs; (ii) generation of new knowledge and intellectual property registered and/or licensed in the Philippines; (iii) commercialization of patents, industrial designs, copyrights and utility models owned or co-owned by a registered business enterprise; (iv) highly technical manufacturing; or (v) are critical to the structural transformation of the economy and require substantial catch-up efforts.[248]
+
+The period of availment of incentives based on the combination of both location and industry priorities, as determined in the Strategic Investment Priority Plan, shall be as follows:
+
+For exporters:[249]
+
+Location/Industry Tiers ... Tier I ... Tier II ... Tier III
+
+National Capital Region ... 4 ITH + 10 ED/SCIT ... 5 ITH + 10 ED/SCIT ... 6 ITH + 10 ED/SCIT
+
+Metropolitan areas or areas contiguous and adjacent to the National Capital Region .... 5 ITH + 10 ED/SCIT ... 6 ITH + 10 ED/SCIT ... 7 ITH + 10 ED/SCIT
+
+All other areas ... 6 ITH + 10 ED/SCIT ... 7 ITH + 10 ED/SCIT ... 7 ITH + 10 ED/SCIT
+
+For domestic market activities:
+
+Location/Industry Tiers ... Tier I ... Tier II ... Tier III
+
+National Capital Region ... 4 ITH + 5 ED ... 5 ITH + 5 ED ... 6 ITH + 5 ED
+
+Metropolitan areas or areas contiguous and adjacent to the NCR ... 5 ITH + 5 ED ... 6 ITH + 5 ED ... 7 ITH + 5 ED
+
+All other areas ... 6 ITH + 5 ED ... 7 ITH + 5 ED ... 7 ITH + 5 ED[250]
+
+In addition to the incentives provided in tiers above, projects or activities of registered enterprises located in areas recovering from armed conflict or a major disaster, as determined by the Office of the President, shall be entitled to two (2) additional years of income tax holiday.
+
+Projects or activities registered prior to the effectivity of this Act, or under the incentive system provided herein that shall, in the duration of their incentives, completely relocate from the National Capital Region, shall be entitled to three (3) additional years of income tax holiday: Provided, That the additional incentive shall commence at the completion of the relocation of operations.
+
+The industry and locational prioritization specified herein shall be subject to review and revision every three (3) years in accordance with the Strategic Investment Priority Plan, subject to the standards in Section 300 hereof or in exceptional circumstances, to attract substantial investment to respond to a situation or crisis or to target specific industries.
+
+### CHAPTER III
+### THE FISCAL INCENTIVES REVIEW BOARD
+
+SEC. 297. Expanded Functions of the Fiscal Incentives Review Board. - The functions and powers of the Fiscal Incentives Review Board created under Presidential Decree No. 776, as amended, shall be expanded as follows:
+
+(A) To exercise policy making and oversight functions on the administration and grant of tax incentives by the Investment Promotion Agencies and other government agencies administering tax incentives. In particular, the Fiscal Incentives Review Board shall:
+
+(1) Determine the target performance metrics as conditions to avail of tax incentives;
+
+(2) Review and audit the compliance of other government agencies administering tax incentives, with respect to the administration and grant of tax incentives and impose sanctions such as, but not limited to, withdrawal, suspension, or cancellation of their power to grant tax incentives;
+
+(3) Determine the minimum contiguous land area that vertical economic zones should comply with;
+
+(4) Conduct regular monitoring and evaluation of investment and non-investment tax incentives, such as using cost-benefit analysis (CBA) to determine their impact on the economy and whether agreed performance targets are met; and
+
+(5) Check and verify, as necessary, the compliance of registered business enterprises with the terms and conditions of their availment, in particular the agreed target performance metrics, rules and regulations of this Act, and other relevant laws or issuances;
+
+(B) To approve or disapprove, the grant of tax incentives to the extent of the registered project or activity upon the recommendation of the Investment Promotion Agency: Provided, That the application for tax incentives shall be duly accompanied by a cost-benefit analysis: Provided, further, That the Fiscal Incentives Review Board shall prescribe the data requirements for the application of incentives to allow for the calculation of costs and benefits upon application: Provided, further, That the grant of tax incentives to registered projects or activities with investment capital of One billion pesos (P1,000,000,000.00) and below shall be delegated by the Fiscal Incentives Review Board to the concerned Investment Promotion Agency to the extent of the registered project or activity: Provided, furthermore, That the Fiscal Incentives Review Board may increase the threshold amount of One billion pesos (P1,000,000,000.00).[251]
+
+(C) To approve applications for tax subsidies to government-owned or -controlled corporations, government instrumentalities, government commissaries, and state universities and colleges.
+
+For this purpose, the other government agencies shall ensure complete submission of applications, documents, records, books, or other relevant data or material;
+
+(D) To formulate place-specific strategic investment plans during periods of recovery from calamities and post-conflict situations and where the Fiscal Incentives Review Board determines that there is a need to attract many classes, firms, that would accelerate the growth of a region's flagship industries, in accordance with the Medium-Term Development Plan. The Fiscal Incentives Review Board may formulate and approve place-specific strategic investment plans and recommend incentives to the President, following the same procedure in Section 297;
+
+(E) To cancel, suspend, or withdraw the enjoyment of fiscal incentives of concerned registered business enterprises on its own initiative or upon the recommendation of the Investment Promotion Agency for material violations of any of the conditions imposed in the grant of fiscal incentives, including, but not limited to, the non-compliance of the agreed performance commitments and endorse registered business enterprises whose incentives are cancelled, suspended, or withdrawn to the concerned revenue agencies for the assessment and collection of taxes and duties due commencing from the first year of availment;
+
+(F) To cancel, suspend, or withdraw the enjoyment of tax subsidy of concerned government-owned or -controlled corporations, government instrumentalities, government commissaries, and state universities and colleges, and when necessary, endorse the same to the concerned revenue agencies for assessment and collection of taxes and duties due, including fines or penalties, if warranted, for violations of any of the conditions imposed in the grant of tax subsidy, or provisions of this Act, or applicable rules;
+
+(G) To require Investment Promotion Agencies and other government agencies administering tax incentives to submit, regularly or when requested, summaries of approved investment and incentives granted, and firm- or entity-level tax incentives and benefits data as input to the Fiscal Incentives Review Board's review and audit function, and evaluation of performance of recipients of tax incentives. For this purpose, the Fiscal Incentives Review Board shall maintain a masterlist of registered products and services for export or domestic consumption that are entitled to incentives: Provided, That, to facilitate compliance with the foregoing, the Department of Trade and Industry, in coordination with relevant regulatory bodies, shall cause the registration and reporting by registered business enterprises of the types of services rendered whether domestically or to foreign clients; types of products manufactured domestically, products imported and sold locally, and products exported;
+
+(H) To publish regularly, per firm, the data pertaining to the amount of tax incentives, tax payments, and other related information, including benefits data;
+
+(I) To obtain information, summon, examine, inquire and receive from other government agencies administering tax incentives, government-owned or -controlled corporations, government instrumentalities, government commissaries, state universities and colleges, and local government units, documents, records, books, or other data relevant or material to the resolution of issues arising from the approval, disapproval, cancellation, suspension, withdrawal or forfeiture of tax subsidy, or in imposing penalties for violations of the terms and conditions on the availment of tax subsidy, or any of the provisions of this Act;
+
+(J) To submit annual reports to the Office of the President, as part of the budget process, covering its policy and activities in the administration of this Act, including recommendations on tax incentive policies and approval of tax incentives;
+
+(K) To decide on issues, on its own initiative or upon the recommendation of the Investment Promotion Agency, after due hearing, concerning the approval, disapproval, cancellation, suspension, withdrawal, or forfeiture of tax incentives or tax subsidy in accordance with this Act. The Fiscal Incentives Review Board shall decide on the matter within ninety (90) days from the date when the Fiscal Incentives Review Board declares the issues submitted for resolution. A business enterprise adversely affected by the decision of the Fiscal Incentives Review Board may, within thirty (30) days from receipt of the adverse decision, appeal the same to the Court of Tax Appeals;
+
+(L) To promulgate such rules and regulations as may be necessary to implement the intent and provisions of this Section;
+
+(M) To recommend to the President the grant of appropriate non-fiscal incentives in accordance with the Strategic Investment Priority Plan for highly desirable projects or very specific industrial activities and based on: (a) benefit-cost analysis approved by the Fiscal Incentives Review Board; and (b) containing a schedule of budgets of expenditures and sources of financing with magnitudes provisionally approved via resolution for inclusion in the upcoming National Expenditure Plans by the Development Budget Coordination Committee;
+
+(N) To adopt policies for the development and expansion of the domestic supply chain in order to reduce dependence on imports; promote diversification and sophistication of products produced and services offered, whether exported or consumed locally; and cater to local market demand; and
+
+(O) To exercise all other powers necessary or incidental to attain the purposes of this Act and other laws vesting additional functions on the Fiscal Incentives Review Board.[252]
+
+Notwithstanding the provisions in the preceding paragraphs, tax and duty incentives granted through legislative franchises shall be excepted from the foregoing expanded powers of the Fiscal Incentives Review Board to review, withdraw, suspend, or cancel tax incentives and subsidies.
+
+SEC. 298. Composition of the Fiscal Incentives Review Board. - The Fiscal Incentives Review Board shall be reconstituted as follows:
+
+Chairperson - Secretary of Finance
+Co-Chairperson - Secretary of Finance
+Members - Executive Secretary of the Office of the President
+  - Secretary of Budget and Management
+  - Director General of the National Economic and Development Authority
+
+The Board shall have a technical committee, which shall serve as its main support unit and perform functions as may be assigned, and shall be composed of the following:
+
+Chairperson - Undersecretary of Finance
+Members - Undersecretary or Assistant Secretary of the Office of the Executive Secretary
+  - Undersecretary of Trade and Industry and Board of Investments Managing Head or Assistant Secretary of Trade and Industry
+  - Undersecretary or Assistant Secretary of Budget and Management
+  - Deputy or Assistant Director General of the National Economic and Development Authority
+  - Commissioner or Deputy Commissioner of Internal Revenue
+  - Commissioner or Deputy Commissioner of Customs
+  - Commissioner of the Philippine Competition Commission
+  - Director General or Chairperson or Administrator of the Investment Promotion Agencies: Provided, That the participation of the Investment Promotion Agency representative in deliberations and decision-making processes of the technical committee shall be limited to the matters concerning their Investment Promotion Agency
+Secretariat - The secretariat shall be headed by an Assistant Secretary of Finance and shall be staffed by the National Tax Research Center.
+SEC. 299. Structure and Staffing Pattern. - To support the expanded functions of the Fiscal Incentives Review Board, the National Tax Research Center, as secretariat thereof, shall create three (3) additional groups, namely, Fiscal Incentives Management Group, Monitoring and Evaluation Group, and Legal Group. Each group shall be composed of at least two (2) divisions, which will be headed by a deputy executive director. The existing administrative and financial branch of the National Tax Research Center shall be converted into a group to be headed by a deputy executive director and will be composed of four (4) divisions, namely, finance, human resource management and development, general services, and management and information system.
+
+Provided, That the Fiscal Incentives Review Board secretariat is authorized to determine its organizational structure and staffing pattern, and create such services, divisions, and units, as it may require or deem necessary in the future, subject to the approval by the Department of Budget and Management: Provided, finally, That nothing herein modifies the existing organizational structure and staffing pattern of the Investment Promotion Agencies or affects their power to maintain or determine their respective organizational structure and staffing pattern.
+
+### CHAPTER IV
+### QUALIFIED PROJECTS OR ACTIVITIES FOR TAX INCENTIVES
+
+SEC. 300. Strategic Investment Priority Plan. - The Board of Investments, in coordination with the Fiscal Incentives Review Board, Investment Promotion Agencies, other government agencies administering tax incentives, and the private sector, shall formulate the Strategic Investment Priority Plan to be submitted to the President for approval, which may contain recommendations for types of non-fiscal support needed to create high-skilled jobs to grow a local pool of enterprises, particularly micro, small and medium enterprises (MSMEs), that can supply to domestic and global value chains, to increase the sophistication of products and services that are produced and/or sourced domestically, to expand domestic supply and reduce dependence on imports, and to attract significant foreign capital or investment. The Strategic Investment Priority Plan shall be valid for a period of three (3) years, subject to review and amendment every three (3) years thereafter unless there would be a supervening event that would necessitate its review.
+
+The Strategic Investment Priority Plan shall contain the following:
+
+(A) Priority projects or activities that are included in the Philippine Development Plan or its equivalent, or other government programs, taking into account any of the following:
+
+(1) Substantial amount of investments;
+
+(2) Considerable generation of employment, especially towards less developed areas;
+
+(3) Considerable amount of net exports;
+
+(4) Use of modern, advance, or new technology;
+
+(5) Processes and innovations that will lead towards the attainment of the sustainable development goals, shall include, but not be limited to, adoption of adequate environmental protection systems and sustainability strategies;
+
+(6) Addressing missing links and other gaps in the supply or value chain or otherwise moving up the value chain or product ladder;
+
+(7) Promotion of market competitiveness;
+
+(8) Enhancement of the capabilities of Filipino enterprises and professionals to produce and offer increasingly sophisticated products and services;
+
+(9) Contribution to Philippine food security and increase incomes in the agriculture and fisheries sector; or
+
+(10) Services and activities that can promote regional and global operations in the country.
+
+(B) Scope and coverage of location and industry tiers in Section 296; and
+
+(C) Terms and conditions on the grant of enhanced deductions under Section 294(C).
+
+All sectors or industries that may be included in the Strategic Investment Priority Plan shall undergo an evaluation process to determine the suitability and potential of the industry or the sector in promoting long-term growth and sustainable development, and the national interest. In no case shall a sector or industry be included in the Strategic Investment Priority Plan unless it is supported by a formal evaluation process or report.
+
+The projects or activities must comply with the specific qualification requirements or conditions for a particular sector or industry and other limitations as set and determined by the Board of Investments, and in coordination with the Fiscal Incentives Review Board.
+
+In no case shall the Investment Promotion Agencies accept applications unless the project or activity is listed in the Strategic Investment Priority Plan. Projects or activities not listed in the Strategic Investment Priority Plan shall be automatically disapproved.”
+
+SEC. 301. Power of the President to Grant Incentives. - Notwithstanding the provisions of Sections 295 and 296, the President may, in the interest of national economic development and upon the recommendation of the Fiscal Incentives Review Board, modify the mix, period or manner of availment of incentives provided under this Code or craft the appropriate financial support package for a highly desirable project or a specific industrial activity based on defined development strategies for creating high-value jobs, building new industries to diversify economic activities, and attracting significant foreign and domestic capital or investment, and the fiscal requirements of the activity or project, subject to maximum incentive levels recommended by the Fiscal Incentives Review Board: Provided, That the grant of income tax holiday shall not exceed eight (8) years and thereafter, a special corporate income tax rate of five percent (5%) may be granted: Provided, further, That the total period of incentive availment shall not exceed forty (40) years.
+
+The Fiscal Incentives Review Board shall determine whether the benefits that the Government may derive from such investment are clear and convincing and far outweigh the cost of incentives that will be granted in determining whether a project or activity is highly desirable.
+
+The exercise by the President of his powers under this Section shall be based on a positive recommendation from the Fiscal Incentives Review Board upon its determination that the following conditions are satisfied:
+
+(1) The project has a comprehensive sustainable development plan with clear inclusive business approaches, and high level of sophistication and innovation; and
+
+(2) Minimum investment capital of Fifty billion pesos (P50,000,000,000.00) or its equivalent in US dollars, or a minimum direct local employment generation of at least ten thousand (10,000) within three (3) years from the issuance of the certificate of entitlement.
+
+Provided, That the threshold shall be subject to a periodic review by the Fiscal Incentives Review Board every three (3) years, taking into consideration international standards or other economic indicators: Provided, further, That if the project fails to substantially meet the projected impact on the economy and agreed performance targets, the Fiscal Incentives Review Board shall recommend to the President the cancellation of the tax incentive or financial support package or the modified period or manner of availment of incentives, after due hearing and an adequate opportunity to substantially comply with the agreed performance targets and outputs.
+
+For this purpose, financial support includes utilization of government resources such as land use, water appropriation, power provision, and budgetary support provision under the annual General Appropriations Act.
+
+This power of the President, in as far as it commands additional public sector expenditures in support of investors, is suspended during fiscal years when, an unimaginable fiscal deficit is declared by the President on the advice of the Development Budget Coordination Committee with a consequence that even core budgetary obligations, such as, but not limited to, mandatory revenue allotments for local government units and budget for the National Economic and Development Authority's core public investments program, cannot be fully financed.[253]
+
+Notwithstanding the provisions in the preceding paragraphs, tax and duty incentives granted through legislative franchises shall be excepted from the foregoing powers of the President to review, withdraw, suspend, or cancel tax incentives and subsidies.
+
+SEC. 302. Amendments to the Strategic Investment Priority Plan. - Subject to publication requirements and the criteria for investment priority determination, the Board of Investments may include additional areas in the Strategic Investment Priority Plan, alter any of the terms of the declaration of an investment area, and temporarily suspend projects or activities on the Strategic Investment Priority Plan if it considers that such project or activity is no longer a priority within the effectivity of the Strategic Investment Priority Plan.
+
+SEC. 303. Publication. - Upon approval of the Strategic Investment Priority Plan, in whole or in part, or upon approval of an amendment thereof, the Plan or the amendment, specifying and declaring the areas of investments shall be published in at least one (1) newspaper of general circulation or in the Official Gazette: Provided, That all such areas in the existing Strategic Investment Priority Plan shall be open for application until publication of an amendment or deletion thereof.
+
+SEC. 304. Qualifications of a Registered Business Enterprise for Tax Incentives. - In the review and grant of tax incentives, the registered business enterprise must:
+
+(A) Be engaged in a project or activity included in the Strategic Investment Priority Plan;
+
+(B) Meet the target performance metrics after the agreed time period;
+
+(C) Install an adequate accounting system that shall identify the investments, revenues, costs and profits or losses of each registered project or activity undertaken by the enterprise separately from the aggregate investments, revenues, costs and profits or losses of the whole enterprise; or establish a separate corporation for each registered project or activity if the Investment Promotion Agency should so require;
+
+(D) Comply with the e-receipting and e-sales requirement in accordance with Sections 237 and 237(a) of this Code; and
+
+(E) Submit annual reports of beneficial ownership of the organization and related parties.
+
+### CHAPTER V
+### TAX INCENTIVES MANAGEMENT AND TRANSPARENCY
+
+SEC. 305. Filing of Tax Returns and Submission of Tax Incentives Reports. - All registered business enterprises and other registered entities whether taxable or exempt, are required to file their tax returns and pay their tax liabilities, on or before the deadline as provided under the National Internal Revenue Code of 1997, as amended, using the electronic system for filing and payment of taxes with the Bureau of Internal Revenue: Provided, That for purposes of complying with their tax obligations, cooperatives and other registered entities, which do not have access to the electronic facilities, shall file with their respective revenue district offices.
+
+For registered business enterprises and other registered enterprises availing of tax incentives administered by the Investment Promotion Agencies and other government agencies administering tax incentives, they shall file with their respective Investment Promotion Agencies or other government agencies administering tax incentives a complete annual tax incentives report of their income-based tax incentives, VAT exemptions and zero-rating, customs duty exemptions, deductions, credits or exclusions from the income tax base, and exemptions from local taxes, as provided under Section 294 of this Act and in the special laws of the concerned Investment Promotion Agency or other government agency administering tax incentives, and respective laws, and a complete annual benefits report which shall include data such as, but not limited to, the approved and actual amount of investments, approved and actual employment level and job creation including information on quality of jobs and hiring of foreign and local workers, approved and actual exports and imports, domestic purchases, profits and dividend payout, all taxes paid, withheld and foregone within thirty (30) calendar days from the statutory deadline for filing of tax returns and payment of taxes: Provided, That a copy of the report shall be simultaneously submitted to the Fiscal Incentives Review Board in electronic form.
+
+The Investment Promotion Agencies and other government agencies administering tax incentives shall, within sixty (60) calendar days from the end of the statutory deadline for filing of the relevant tax returns, submit to the Bureau of Internal Revenue, their respective annual tax incentives reports based on the list of the registered business enterprises and other registered enterprises, which have filed said tax incentives report: Provided, That the reportorial requirement under Section 3 of Republic Act No. 10963 or the ‘TRAIN Law’ shall be covered by this Section.
+
+The details of the tax incentives reports, as provided in the preceding paragraphs, shall be provided in the implementing rules and regulations of this Act.
+
+The foregoing provisions shall be without prejudice to the right of the Bureau of Internal Revenue and the Bureau of Customs to assess and/or audit tax liabilities, if any, within the prescribed period provided in the National Internal Revenue Code of 1997, as amended, and Republic Act No. 10863, otherwise known as the Customs Modernization and Tariff Act, as amended, respectively.
+
+SEC. 306. Monitoring, Evaluation, and Reporting of Tax Incentives. - Notwithstanding any law to the contrary, the Bureau of Internal Revenue and the Bureau of Customs shall submit to the Department of Finance: (a) all tax and duty incentives of registered business enterprises and other registered enterprises, as reflected in their filed tax returns and import entries; and (b) actual tax and duty incentives as evaluated and determined by the Bureau of Internal Revenue and the Bureau of Customs.
+
+The Department of Finance shall maintain a single database for monitoring and analysis of tax incentives granted.
+
+The Fiscal Incentives Review Board is mandated to systematically collect and store all tax incentives and benefit data from the Department of Finance, Investment Promotion Agencies, other government agencies administering tax incentives, registered business enterprises, and other registered enterprises, as well as to evaluate and assess the process, outcomes, and impact of incentives granted to firms to determine whether agreed performance targets and intended results and outcomes are met. The method of evaluation may include the conduct of cost-benefit analysis or other process and impact evaluation methods: Provided, That for purposes of this Act, the term cost-benefit analysis refers to the systematic evaluation of the total costs of granting tax incentives vis-à-vis the total benefits derived from the grant of tax incentives based on the annual tax incentive report, annual benefits report, and other related sources, to calculate the net benefit or cost associated with tax incentives.
+
+For purposes of monitoring and transparency, the Department of Finance shall submit to the Department of Budget and Management (DBM) a per firm and per registered project and activity data arranged on a sectoral and per industry basis: (1) the amount of tax incentives availed of by registered business enterprises and other registered enterprises; (2) the estimate claims of tax incentives immediately preceding the current year; (3) the programmed tax incentives for the current year; and (4) the projected tax incentives for the following year.
+
+The aforesaid data shall be reflected by the DBM in the annual Budget of Expenditures and Sources of Financing (BESF), which shall be known as the Tax Incentives Information (TII) Section: Provided, That the tax incentives information shall include a per firm data related to incentives availed of by registered business enterprises and other registered enterprises based on the submissions of the Department of Finance and the concerned Investment Promotion Agencies and other government agencies administering tax incentives, categorized by sector, by Investment Promotion Agency or other government agency administering tax incentives, and by type of tax incentive: Provided, further, That the results of the cost-benefit analysis shall be published at the per firm level by the Fiscal Incentives Review Board and a report shall be submitted to the President and Congress on an annual basis.
+
+SEC. 307. Conduct of Impact Evaluation on Tax Incentives. - The Fiscal Incentives Review Board is mandated to conduct impact evaluation such as a cost-benefit analysis on the investment and non-investment incentives to determine the impact of tax incentives on the Philippine economy and on the relevant sector.
+
+For this purpose, the Department of Finance, all heads of the Investment Promotion Agencies and other government agencies administering tax incentives shall submit to the Fiscal Incentives Review Board per firm- and per registered project- or activity-level in a machine-readable format:
+
+(1) Data on tax incentives based on the submissions of registered business enterprises and other registered enterprises; and
+
+(2) Other investment- and non-investment-related data.
+
+A third party government institution may conduct on its own or upon request of the Fiscal Incentives Review Board a peer review of the impact evaluation of the Board, or a parallel impact evaluation on the investment and non-investment incentives to determine the impact of the tax incentives on the Philippine economy and on the relevant sector: Provided, That for this purpose the Fiscal Incentives Review Board may provide anonymized firm-level data to the third party government institution, subject to a data sharing agreement.
+
+SEC. 308. Penalties for Noncompliance with Filing and Reportorial Requirements. - Any registered business enterprise or other registered enterprise, which fails to comply with filing and reportorial requirements with the appropriate Investment Promotion Agencies or other government agencies administering tax incentives and/or, which fails to show proof of filing of tax returns using the electronic system for filing and payment of taxes of the Bureau of Internal Revenue under Section 305 hereof, shall be imposed the following penalties by the appropriate Investment Promotion Agency or other government agency administering tax incentives:
+
+(A) First (1st) Violation — Payment of a fine amounting to One hundred thousand pesos (P100,000.00);
+
+(B) Second (2nd) Violation — Payment of a fine amounting to Five hundred thousand pesos (P500,000.00); and
+
+(C) Third (3rd) Violation — Cancellation by the Fiscal Incentives Review Board of the registration of the registered business enterprise or registered entity with the Investment Promotion Agency or other government agency administering tax incentives.
+
+Provided, That if the failure to show such proof is not due to the fault of the registered business enterprises or other registered enterprises, the same shall not be a ground for the suspension of the Income Tax Holiday (ITH) and/or other tax incentives availment: Provided, further, That collections from the penalties shall accrue to the general fund.
+
+After due process, the Fiscal Incentives Review Board or the concerned Investment Promotion Agency, as the case may be, may cancel the registration, suspend the enjoyment of incentive benefits of any registered enterprise, and/or require refund of incentives enjoyed by such enterprise, including interests and monetary penalties, for any material misrepresentation of information for the purpose of availing more incentives than what it is entitled to under this Code.
+
+Provided, That the Fiscal Incentives Review Board, with the recommendation of the Commissioner, may revoke or suspend incentives granted by an Investment Promotion Agency and/or order a business closure of a registered business enterprise that violates Title VI (Excise Taxes on Certain Goods) and Title X (Statutory Offenses and Penalties) of this Code and other related revenue regulations, orders, or issuances of the government: Provided, further, That such authority shall cover the acts of the registered business enterprise committed even in the first year of availment of incentives. Notwithstanding the provisions of this Section, the Department of Finance, the Bureau of Internal Revenue, and the Bureau of Customs shall retain their respective mandates, powers and functions as provided for under this Act and related laws.
+
+Any government official or employee who fails without justifiable reason to provide or furnish the required tax incentives report or other data or information as required under Sections 306 and 307 of this Act shall be penalized, after due process, by a fine equivalent to the official's or employee's basic salary for a period of one (1) month to six (6) months or by suspension from government service for not more than one (1) year, or both, in addition to any criminal and administrative penalties imposable under existing laws.
+
+### CHAPTER VI
+### TRANSITORY AND MISCELLANEOUS PROVISIONS
+
+SEC. 309. Prohibition on Registered Activities. - A qualified registered project or activity under an Investment Promotion Agency administering an economic zone or freeport shall be exclusively conducted or operated within the geographical boundaries of the zone or freeport being administered by the Investment Promotion Agency in which the project or activity is registered: Provided, That a registered business enterprise may conduct or operate more than one qualified registered project or activity within the same zone or freeport under the same Investment Promotion Agency: Provided, further, That any project or activity conducted or performed outside the geographical boundaries of the zone or freeport shall not be entitled to the incentives provided in this Act, unless such project or activity is conducted or operated under another Investment Promotion Agency.
+
+SEC. 310. Establishment of One-Stop Action Center. - All Investment Promotion Agencies shall establish a one-stop shop or one-stop action center that will facilitate and expedite, to the extent possible, the setting up and conduct of registered projects or activities, including assistance in coordinating with the local government units and other government agencies to comply with Republic Act No. 11032, otherwise known as the Ease of Doing Business and Efficient Government Service Delivery Act of 2018: Provided, however, That the enterprises shall continue to avail of the one-stop shop facility notwithstanding the expiration of their incentives under this Code.
+
+SEC. 311. Investments Prior to the Effectivity of This Act. - Registered business enterprises with incentives granted prior to the effectivity of this Act shall be subject to the following rules:
+
+(A) Registered business enterprises whose projects or activities were granted only an income tax holiday prior to the effectivity of this Act shall be allowed to continue with the availment of the income tax holiday for the remaining period of the income tax holiday as specified in the terms and conditions of their registration: Provided, That for those that have been granted the income tax holiday but have not yet availed of the incentive upon the effectivity of this Act, they may use the income tax holiday for the period specified in the terms and conditions of their registration;
+
+(B) Registered business enterprises, whose projects or activities were granted an income tax holiday prior to the effectivity of this Act and that are entitled to the five percent (5%) tax on gross income earned incentive after the income tax holiday, shall be allowed to avail of the five percent (5%) tax on gross income earned incentive based on Subsection (C); and
+
+(C) Registered business enterprises currently availing of the five percent (5%) tax on gross income earned granted prior to the effectivity of this Act shall be allowed to continue availing the said tax incentive at the rate of five percent (5%) for ten (10) years. (``as added by RA 11534 - CREATE Act.``)
+
+@TAB XIV. REPEALING PROVISIONS
 
 ## TITLE XIV
 
+## REPEALING PROVISIONS
+
+SEC. 312. ``In General. -``
+
+All laws, decrees, executive orders, rules and regulations or parts thereof which are contrary to or inconsistent with this Code are hereby repealed, amended or modified accordingly.
+
+@TAB XV. FINAL PROVISIONS
+
+## TITLE XV
+
 ## FINAL PROVISIONS
 
-SEC. 292. ``Separability Clause. -``
+SEC. 313. ``Separability Clause. -``
 
 If any clause, sentence, paragraph or part of this Code shall be adjudged by any Court of competent jurisdiction to be invalid, such judgment shall not affect, impair or invalidate the remainder of said Code, but shall be confined in its operation to the clause, sentence, paragraph or part thereof directly involved in the controversy.
 
@@ -4726,212 +5106,609 @@ If any clause, sentence, paragraph or part of this Code shall be adjudged by any
 
 ## FOOTNOTES
 
-[1] Republic Act No. 10963 entitled: “Tax Reform for Acceleration and Inclusion (TRAIN)” approved on December 13, 2017.
+[1]  Republic Act No. 10963, entitled “Tax Reform for Acceleration and Inclusion (TRAIN),” Amending Sections 5, 6, 24, 25, 27, 31-34, 51, 52, 56-58, 74, 79, 84, 86, 90, 91, 97, 99-101, 106-110, 112, 114, 116, 127-129, 145, 148-151, 155, 171, 174, 175, 177-183, 186, 188-197, 232, 236, 237, 249, 254, 264, 269 and 288; creating new Sections 51-A, 148-A, 150-A, 150-B, 237-A, 264-A, 264-B, and 265-A; and repealing Sections 35, 62 and 89; all under Republic Act No. 8424, otherwise known as the National Internal Revenue Code of 1997, as amended” was approved on December 19, 2017.
 
-[2]The National Internal Revenue Code of 1997 is embodied under Section 3 of RA 8424, entitled "An Act Amending the National Internal Revenue Code, as Amended, and for Other Purposes," which is otherwise known as the "Tax Reform Act of 1997 and which took effect on January 1, 1998."
+Republic Act No. 10963 - An Act Amending Sections 5, 6, 24, 25, 27, 31, 32, 33, 34, 51, 52, 56, 57, 58, 74, 79, 84, 86, 90, 91, 97, 99, 100, 101, 106, 107, 108, 109, 110, 112, 114, 116, 127, 128, 129, 145, 148, 149, 151, 155, 171, 174, 175, 177, 178, 179, 180, 181, 182, 183, 186, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 232, 236, 237, 249, 254, 264, 269, and 288; Creating New Sections 51-A, 148-A, 150-A, 150-B, 237-A, 264-A, 264-B, and 265-A; and Repealing Sections 35, 62, and 89; All Under Republic Act No. 8424, Otherwise Known as the National Internal Revenue Code of 1997, as Amended, and for Other Purposes.
 
-[3]Republic Act 1125, entitled "An Act Creating the Court of Tax Appeals," had been amended by RA 3457, RA 9282 and RA 9503.
+Republic Act No. 11256 - An Act to Strengthen the Country’s Gross International Reserves, Amending For the Purpose Sections 32 and 151 of the National internal Revenue Code,9 mandates the exemption from payment of income and excise taxes on the sale of gold to the BSP by registered small scale and accredited small scale miners and traders.
 
-[4]As amended by RA 10021, supra.
+Republic Act No. 11346 - An Act Increasing the Excise Tax on Tobacco Products, Imposing Excise Tax on Heated Tobacco Products and Vapor Products, Increasing the Penalties for Violations of Provisions on Articles Subject to Excise Tax, and Earmarking a Portion of the Total Excise Tax Collection from Sugar-Sweetened Beverages, Alcohol, Tobacco, Heated Tobacco and Vapor Products for Universal Health Care, Amending for this Purpose Sections 144, 145, 146, 147, 152, 164, 260, 262, 263, 265, 288, and 289, Repealing Section 288(B) and 288(C), and Creating New Sections 263-A, 265-B, and 288-A of the National Internal Revenue Code of 1997, as Amended by Republic Act No. 10963, and for Other Purposes.
 
-[5] Republic Act No. 10653 entitled, “An Act Adjusting the 13th Month Pay and Other Benefits Ceiling Excluded from the Computation of Gross Income for Purposes of Income Taxation, Amending for the Purpose Section 32(B), Chapter VI of the National Internal Revenue Code of 1997, as amended.”
+Republic Act111 No. 11467 - An Act Amending Sections 109, 141, 142, 143, 144, 147, 152, 263, 263-A, 265, and 288-A, and Adding a New Section 290-A to RA 8424, as amended, otherwise known as the National Internal Revenue Code of 1997, and for Other Purposes.
 
-[6]RA 337, otherwise known as the "General Banking Act," had been amended by RA 8791, otherwise known as the "General Banking Law of 2000."
+Republic Act No. 11534 - An Act Reforming the Corporate Income Tax and Incentives System, Amending for the Purpose Sections 20, 22, 25, 27, 28, 29, 34, 40, 57, 109, 116, 204 and 290 of the National Internal Revenue Code of 1997, as Amended and Creating Therein New Title XIII, and for Other Purposes.
 
-[7]Ibid.
+[2] The National Internal Revenue Code of 1997 is embodied under Section 3 of Republic Act (RA) 8424, entitled “An Act Amending the National Internal Revenue Code, as Amended, and for Other Purposes,” which is otherwise known as the “Tax Reform Act of 1997 and which took effect on January 1, 1998. Congress passed numerous laws amending the provisions of RA 8424 such as RAs 8761, 9010, 9224, 9238, 9243, 9294, 9334, 9337, 9361, 9504, 9648, 10001, 10021, 10026, 10351, 10378, 10653, 10754, 10864, 10963 (TRAIN Law), 11256, 11346 (Tobacco Tax Law), 11467 and recently RA 11534 known as Corporate Recovery and Tax Incentives for Enterprises Act or CREATE which took effect on ______.
 
-[8]RA 2969 is otherwise known as the "Investment Company Act."
+[3] Republic Act 1125, entitled “An Act Creating the Court of Tax Appeals,” had been amended by RA 3457, RA 9282 and RA 9503. Under RA 9282 (April 23, 2004), the jurisdiction of the Court of Tax Appeals (CTA) was expanded, elevating its rank to the level of a collegiate court. Its organizational structure was also enlarged y RA 9503 with the creation of another Division to hasten resolution of tax cases. Currently, there are three (3) divisions in the CTA.
 
-[9] As added by RA 9504, supra.
+[4] TRAIN law.
 
-[10]Ibid.
+ [5] Introduced by Sec. 4 of the TRAIN Law.
 
-[11] Subtitle inserted by RA 9504, supra.
+[6] As Amended by Republic Act (RA) No. 10021, “​【𝟮𝟱𝟱 𝗺】An Act to Allow the Exchange of Se by the Bureau of Internal Revenue (BIR) of Tax Matters Pursuant to Internationally-Agreed Tax Standards, Amending Sections 6(F), 71 and 270 of the National Internal Revenue Code (NIRC) of 1997, As Amended, and for Other Purposes”, 8 March 2010.
 
-[12] As amended by RA 9504, supra.
+[7] As amended by RA No. 10351, “​【𝟮𝟲𝟯 𝗺】An Act Restructuring the Excise Tax on Alcohol and Tobacco Products by Amending Sections 141, 142, 143, 144, 145, 8, 131 And 288 of RA No. 8424. Otherwise Known as the NIRC of 1997, as Amended by RA No. 9334, and for Other Purposes”, approved on 19 December 2012.
 
-[13]As originally added by RA 9504, Ibid. and amended by RA 10963.
+[8] A new provision introduced by Sec. 3 of the CREATE Law.
 
-[14] Source is Section 2 of PD 1354 (amended by R.A. No. 10963).
+[9] As amended by Sec. 3 of the CREATE Law
 
-[15] As amended by RA 9337, supra.
+[10] Introduced by Sec. 4 of the CREATE Law, expanding the coverage of the term “corporation” to include one person corporation.
 
-[16]Ibid.
+[11] As amended by RA No. 11590, “​【𝟮𝟵𝟰 𝗺】AN ACT TAXING PHILIPPINE OFFSHFORE GAMING OPERATIONS, AMENDING FOR THE PURPOSE SECTIONS 22, 25, 27, 28, 106, 108, AND ADDING NEW SECTIONS 125-A AND 288 (G) OF THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED AND FOR OTHER PURPOSES”.
 
-[17]Now Department of Education (DepEd).
+[12] As amended by Sec. 5 of the TRAIN Law.
 
-[18] As amended by RA Nos. 9337, 10026, and 10963.
+[13] Introduced by Sec. 5 of the TRAIN Law.
 
-[19]As interested by RA 10026, Ibid.
+[14] As amended by Sec. 5 of the TRAIN Law. Previous rate was 7.5%.
 
-[20] As amended by RA 9294, supra.
+[15]As amended by Sec. 5 of the TRAIN Law. Old rates were removed.
 
-[21] As amended by RA 10378 entitled "AN ACT RECOGNIZING THE PRINCIPLE OF RECIPROCITY AS BASIS FOR THE GRANT OF INCOME TAX EXEMPTIONS TO INTERNATIONAL CARRIERS AND RATIONALIZING OTHER TAXES IMPOSED THEREON BY AMENDING SECTIONS 28(A)(3)(a), 109, 118 AND 236 OF THE NATIONAL INTERNAL REVENUE CODE (NIRC), AS AMENDED, AND FOR OTHER PURPOSE".
+[16] As amended by Sec. 5 of the TRAIN Law. Previous rates were 5% and 10%.
 
-[22] As amended by RA 9337, supra.
+[17]As amended by Sec. 5 of the CREATE Law.
 
-[23] Ibid
+[18] Introduced by Sec. 6 of the TRAIN Law.
 
-[24] As amended by RA 9294, supra.
+[19] This paragraph was originally part of the amendments introduced by the TRAIN Law on Section 6(F), but was vetoed by the President. The veto message reads: “I am constrained to veto the provision under Section 6(F) of the enrolled bill that effectively maintains the special tax rate of 15% of gross income for the aforementioned employees, to wit: ‘Provided, however, That existing RHQs/ROHQs, OBUs or petroleum service contractors and subcontractors presently availing of preferential tax rates for qualified employees shall continue to be entitled to avail of the preferential tax rate for present and future qualified employees. While I understand the laudable objective of the proposal, the provision is violative of the Equal Protection Clause under Section 1, Article III of the 1987 Constitution, as well as the rule of equity and uniformity in the application of the burden of taxation: Section 1. No person shall be deprived of life, liberty, or property without due process of law, nor shall any person be denied the equal protection of the laws. In line with this, the overriding consideration is the promotion of fairness of the tax system for individuals performing similar work. Given the significant reduction in the personal income tax, the employees of these forms should follow the regular tax rates applicable to other individual taxpayers.” Under Sec. 4 (C) of Revenue Regulation (RR) 08-18, the effect of the VETO is that the 15% preferential income tax rate under subsections (C) (D) and (E) of Sec. 25 of the Tax Code, as amended, shall no longer be applicable which means that the concerned employees of the regional or area headquarters and regional operating headquarters of multinational companies, offshore banking units and petroleum service contractors and subcontractors shall be subject to the regular income tax, without prejudice, however, to the application of preferential tax rates under tax treaties, if applicable. Reading the provisions of the TRAIN Law and RR 8-2018, all employees (whether Filipino or alien) of RHQs, ROHQs, OBUs and petroleum contractors and subcontractors shall be subject to the graduated income tax rates under Sec. 24 (A)(2)(a) of the Tax Code.
 
-[25] As amended by RA 9294, supra.
+[20] As amended by RA No. 11590
 
-[26] As amended by RA 9337, supra.
+[21] As amended by Sec. 6 of the CREATE Law.”
 
-[27] As amended by RA 9337, supra.
+[22]Deleted by Sec. 6 of the CREATE Law
 
-[28]On July 31, 1986, Section 24 of E.0. 37 changed all "net income" phrases appearing in Title II of the Tax Code of 1977 to "taxable income."
+[23]New provision Introduced by Sec. 6 of the CREATE Law.
 
-[29] As amended by RA 9337, supra.
+[24] As amended by the CREATE Law.
 
-[31]Should read as "taxable" income, not "net" income". Refer to Footnote of Section 31 of the NIRC of 1997, supra.
+[25] Sec. 6 of the CREATE Law included HDMF.
 
-[32] As amended by RA 9504 and 10963, supra.
+[26] Sec. 7 of the TRAIN Law excluded the Philippine Charity Sweepstakes Office and included local water districts..
 
-[33] Ibid
+[27] As amended by Sec. 7 of the TRAIN. Previous rate was 7.5%.
 
-[34] Ibid
+[28] As amended by Sec. 7 of the TRAIN. Previous rates were 5% and 10%.
 
-[35] Under RA 9994, otherwise known as the "Senior Citizens Act of 2010," which took effect on February 15, 2010, senior citizens who are considered to be minimum wage earners in accordance with RA 9504 shall also be treated as exempt from the payment of individual income tax.
+[29] As amended by RA 9337.
 
-[36] As amended by RA 9504, supra.
+[30] RA 10378, supra. 
 
-[37]Ibid.
+[31] As amended by RA 10378.
 
-[39] N.B.: Under RA 9504, individual taxpayers, regardless of their status are entitled to just one amount of basic personal exemption, i.e., P50,000. Nevertheless, this exemption has now been repealed by RA 10963 (TRAIN Law).
+[32] The provisions on OBUs were removed/deleted by Sec. 7 of the CREATE.
 
-[40]N.B.: See footnote under Section 62, supra.
+[33] Introduced by Sec. 7 of the CREATE.
 
-[41] As inserted by RA 10021, supra.
+[34] As amended by Sec. 7 of the CREATE. The rate has increased from 7.5% to 15%.
 
-[42] As amended by RA 9504, supra.
+[35] As amended by Sec. 7 of the CREATE. Previous rates were 5% and 10%..
 
-[43]Ibid.
+[36] As amended by RA 11467.
 
-[44] Now 12%
+[37] As amended by Sec. 7 of the CREATE. Previous rate was 35%.
 
-[45] As amended by RA 9337, supra.
+[38] As amended by Sec. 7 of the CREATE. Previous rate was 20%.
 
-[46] As inserted by RA 9337, supra.
+[39] The entire Sec. 29 of the Tax Code, as amended, was repealed by Sec. 8 of the CREATE.
 
-[47] Now 12%
+[40] As amended by Sec. 8 of the TRAIN. Personal and additional exemptions were removed.
 
-[48] As amended by RA 9337, supra.
+[41] As amended by Sec. 9 of the TRAIN. Previous ceiling was P82,000. The prerogative of the Secretary of Finance to increase the ceiling was removed.
 
-[49] Ibid.
+[42] Introduced by Sec. 1 of RA No. 11256.
 
-[50] As amended by RA 9337.
+[43] As amended by Sec. 10 of the TRAIN. Previous rate was 32%.
 
-[51] As Amended by RA 9337, supra.
+[44] As amended by Sec. 10 of the TRAIN. Previous divisor was 68%.
 
-[52] Ibid.
+[45] As amended by Sec. 11 of the TRAIN. Subsection (M) (Premium Payments on Health and/or Hospitalization Insurance of an Individual Taxpayer) was repealed/removed.
 
-[53] Ibid.
+[46] New provision introduced by Sec. 9 of the CREATE.
 
-[54] RA 10378, supra.
+[47] As amended by RA 9337,supra.
 
-[55] As amended by RA 9337
+[48] As amended by RA No. 11346
 
-[56] As amended by RA 9337, supra.
+[49] Should read as “taxable” income, not “net” income”. Refer to Footnote of Section 31 of the NIRC of 1997, supra.
 
-[57] Ibid.
+[50] Introduced by Sec. 11 of the TRAIN.
 
-[58] Ibid.
+[51] Repealed by Sec. 12 of the TRAIN.
 
-[59] P 1,919, 500.00 effective January 1, 2012 (RR 16-2001).
+[52] As amended by Sec. 13 of the TRAIN. Personal and additional exemptions were replaced by an exemption threshold of P250,000.
 
-[60] P 3,199,200.00 effective January 1, 2012(RR 16-2001).
+[53] Under RA 9994, otherwise known as the “Senior Citizens Act of 2010,” which took effect on February 15, 2010, senior citizens who are considered to be minimum wage earners in accordance with RA 9504 shall also be treated as exempt from the payment of individual income tax.
 
-[61] As amended by RA 9337, supra.
+[54] As amended by RA 9504,supra.
 
-[62] 12,800 (effective January 1, 2012 (RR 16-2011)
+[55] RA 337, otherwise known as the “General Banking Act,” had been amended by RA 8791, otherwise known as the “General Banking Law of 2000.”
 
-[63] As amended by RA 9337, supra.
+[56] Introduced by Sec. 13 of the TRAIN.
 
-[64] Ibid.
+[57] Introduced by Sec. 14 of the TRAIN.
 
-[65] As amended by RA 9337, supra.
+[58] Introduced by Sec. 15 of the TRAIN.
 
-[66] Ibid
+[59] Introduced by Sec. 3 of the TRAIN law.
 
-[67] Ibid
+[60] As amended by Sec. 16 of the TRAIN. Previous deadline was July 15.
 
-[68] Ibid
+[61] Introduced by Sec. 17 of the TRAIN.
 
-[69] Ibid
+[62] Introduced by Sec. 18 of the TRAIN.
 
-[70] As amended by RA 9337, supra.
+[63] Repealed by Sec. 19 of the TRAIN.
 
-[71] Ibid.
+[64] N.B.: See footnote under Section 62, supra.
 
-[72] Ibid.
+[65] As inserted by RA 10021,supra.
 
-[73] A amended by RA 9337, supra.
+[66] As amended by Sec. 20 of the TRAIN. Previous deadline for the first quarterly income tax declaration was April 15 of the same taxable year.
 
-[74] Ibid.
+[67] As amended by Sec. 20 of the TRAIN. Previous deadline for the fourth installment was April 15 of the following calendar year. To clarify, the deadline for filing the annual income tax return and payment of the income tax payable therein is still April 15 of the succeeding calendar year pursuant to Sec 51 (C)(1) of this Code.
 
-[75] As newly introduced under RA 9337, supra.
+[68] As amended by Sec. 21 of the TRAIN. Subsections (D) (Personal Exemptions) and (F) (Husband and Wife) were removed.
 
-[76] Ibid.
+[69] As amended by Sec. 22 of the TRAIN.
 
-[77] Ibid.
+[70] As amended by Sec. 23 of the TRAIN. Section 86(D) (Miscellaneous Provisions) was removed.
 
-[78] Now 12%
+[71] As amended by Sec. 23 of the TRAIN. Specific deductions for actual funeral expenses, judicial expenses of the testamentary of intestate proceedings and medical expenses were removed.
 
-[79] As amended by RA 9337.
+[72] As amended by Sec. 23 of the TRAIN. Previous threshold was P1,000,000.
 
-[80] Republic Act No. 8761, entitled "An Act Imposing the VAT on Certain Services Beginning January 1, 2001, Amending for the Purpose Section 5 of RA 8424 and for other Purposes," was approved on February 1, 2001.
+[73] Introduced by Sec. 23 of the TRAIN.
 
-Republic Act No. 9010, entitled "An Act to Further Defer the Imposition of the VAT on Certain Services, Amending for the purpose of Section 5 of RA 8424, as Amended by RA 8761," was approved on February 27, 2001.
+[74] As amended by Sec. 23 of the TRAIN.
 
-Republic Act No. 9238, entitled "An Act Amending Certain Sections of the NIRC of 1997, as Amended by Excluding Several Services from the Coverage of the VAT and Re-imposing the Gross Receipts Tax on Bank and Non-bank Financial Intermediaries Beginning January 1, 2004," lapsed into law on February 5, 2004 without the signature of the President, in accordance with Article VI, Section 27 (1) of the 1987 Constitution.
+[75] Repealed by Sec. 24 of the TRAIN.
 
-Republic Act No. 9337, entitled "An Act Amending Sections 27, 28, 34, 106, 107, 108, 109, 110, 111, 112, 114, 116, 117, 119, 121, 148, 151, 236, 237, and 288 of the NIRC of 1997, as Amended, and for Other Purposes," was approved on May 24, 2005. Its effectivity clause provides that it shall take effect July 1, 2005 but due to a TRO issued by the Supreme Court, the law took effect only on Nov. 1, 2005 when the TRO was finally lifted. But the increase of the VAT rate from 10% to 12% took effect only beginning February 1, 2006.
+[76] As amended by Sec. 25 of the TRAIN.
 
-Republic Act No. 10001, entitled "An Act Reducing the Taxes on Life Insurance Policies, Amending for this Purpose Sections 123 and 183 of the NIRC of 1997, As Amended," was approved on February 23, 2010.
+[77] Ibid. Previous threshold was P2,000,000.
 
-[81] As amended by RA 9337, supra.
+[78] As amended by Sec. 25 of the TRAIN. Previous deadline was 6 months.
 
-[82] As Amended by RA 10378, supra.
+[79] Introduced by Sec. 26 of the TRAIN.
 
-[83] As amended by RA 9337, supra.
+[80] As amended by Sec. 27 of the TRAIN.
 
-[84] As originally amended by RA 9238, supra, and as last amended by RA 9337, supra.
+[81] As amended by Sec. 28 of the TRAIN.
 
-[85] RA 9238, supra, re-imposed the gross receipts tax on other non-bank financial intermediaries which includes pawnshops beginning January 1, 2004.
+[82] Introduced by Sec. 29 of the TRAIN.
 
-[86] As amended by RA 9238 and RA 9337, supra.
+[83] As amended by Sec. 30 of the TRAIN. Dowries or gifts made on account of marriage were removed.
 
-[87] As amended by RA 10001, supra.
+[84] As amended by Sec. 31 of the TRAIN.
 
-[88] Republic Act No. 9224, entitled "An Act Rationalizing the Excise Tax on Automobiles, Amending for the Purpose the NIRC of 1997, and for Other Purposes" was approved on August 29, 2003.
+[85] As amended by Sec. 31 of the TRAIN. Subsection (b) (Foreign Currency Denominated Sale) was removed.
 
-Republic Act No. 9334, entitled "An Act Increasing the Excise tax Rates Imposed on Alcohol and Tobacco Products, Amending for the Purpose Sec. 131, 141, 142, 143, 144, 145 and 288 of the NIRC of 1997, as Amended," was approved on December 21, 2004 and took effect on January 1, 2005.
+[86] As amended by Sec. 31 of the TRAIN. Sale of gold to the Bangko Sentral ng Pilipinas was removed and reclassified as exempt from value-added tax under Sec. 109 of this Code. See Note 77 ?>>>
 
-Republic Act No. 9337, entitled "An Act Amending Secs. 27, 28, 34, 106, 107, 108, 109, 110, 111, 112, 113, 114, 116, 117, 119, 121, 148, 151, 236, 148, 151, 236, 237 and 288 of the NIRC of 1997, as Amended, and for Other Purposes," was approved on May 24, 2005. Its effectivity clause provides that it shall take effect July 1, 2005 but due to a TRO issued by the Supreme Court, the law took effect only on November 1, 2005 when the TRO was finally lifted. But the increase of the VAT rate form 10% to 12% took effect only beginning February 1, 2006.
+[87] The amendment introduced by the TRAIN Law on Section 106(A)(2)(9)(2) was vetoed by the President. The veto message reads:
+I am constrained to veto the provisions under Section 31 of the enrolled bill, to wit:
+Section 31:
+(2) Sale and Delivery of Goods to:
+(i) Registered enterprises within a separate customs territory as provided under special laws; and
+(ii) Registered enterprises within tourism enterprises zones as declared by the Tourism Infrastructure and Enterprise Zone Authority(TIEZA)
+
+[88] Introduced by Sec. 31 of the TRAIN.
 
 [89] As amended by RA 9334, supra and RA 10351 entitled, An Act Restructuring the Excise Tax on Alcohol and Tobacco Products by Amending Sections 141, 142, 143, 144, 145, 8, 131 and 288 of Republic Act No. 8424. Otherwise Known as the National Internal Revenue Code of 1997, as amended by Republic Act No. 9334, and for Other Purposes approved on December 19, 2012.
 
-[90] As amended by RA 9334, supra and RA 10351, supra.
+[90] As amended by Sec. 32 of the TRAIN.
 
-[91] As amended by RA 9334, supra and RA 10351, supra.
+[91] As amended by Sec. 33 of the TRAIN.
 
-[92] As amended by RA 9334, supra and RA 10351, supra.
+[92] Introduced by Sec. 33 of the TRAIN.
 
-[93] As amended by RA 9334, supra and RA 10351, supra.
+[93] The amendment introduced by the TRAIN Law was vetoed by the President. The veto message reads:
 
-[94] As amended by RA 9334, supra and RA 10351, supra.
+I am constrained to veto the provisions under Section 33 of the enrolled bill, to wit:
 
-[95] As amended by RA 10378, supra.
+Section 33:
 
-[96]Republic Act no. 9334, entitled "An Act Increasing the Excise Tax Rates imposed on Alcohol and tobacco Products, Amending for the Purpose Sections 131, 141,142, 144, and 288 of the NIRC of 1997, as amended," was approved on December 21, 2004 and took effect on January 1, 2005.
+(8) Services Rendered To:
 
-Republic Act No. 9334, entitled "An Act Amending Section 27, 28, 34, 106, 107, 108, 109, 110, 111, 112, 113, 114, 116, 117, 119, 121, 148, 151, 236, 237, and 288 of the NIRC of 1997, as Amended, and for other Purposes" was approved on May 24, 2005. Its affectivity clause provides that it shall take effect July 1, 2005 but due to TRO issued by the Supreme Court, the law took effect November 1, 2005 when the TRO was finally lifted. But the increase of the VAT rate from 10% to 12% took effect only beginning February 1, 2006.
+I. Registered Enterprises Within A Separate Customs Territory As Provided Under Special Laws; and
 
-Republic Act No. 10026, entitled "An Act Granting Income Tax Exemption to Local Water Districts by Amending Section 27(C) of the NIRC of 1997, As Amended, and Adding Section 289-A to the Code for the Purpose," was approved on March 21, 2010 without the signature of the President in accordance with Article VI, Section 27(1) of the Constitution.
+II. Registered Enterprises Within Tourism Enterprise Zones As Declared By the TIEZA Subject To the Provisions Under Republic Act No. 9593 Or The Tourism Act of 2009.
 
-[97] The Act referred to is RA 10026, supra.
+The above provisions go against the principle of limiting the VAT zero-rating to direct exporters. The proliferation of separate customs territories, which include buildings, creates significant leakages in our tax system. This makes the tax system highly inequitable and significantly reduces the revenues that could be better used for the poor. As to tourism enterprises, the current law only allows for duty and tax free importation of capital equipment, transportation equipment and other goods. The TIEZA Law explicitly allows only duty and tax free importation of capital equipment, transportation equipment and other goods (in certain cases and always subject to rules provided by the DOF). Thus, this provision actually grants a new incentive to suppliers of registered tourism enterprises. At any rate, TIEZA law, which is still in effect for two more years, can be used to avail of the above-mentioned incentives.
 
-[98]Ibid.
+[94] As amended by RA 9337.
 
-[99]Ibid.
+[95] Introduced by Sec. 34 of the TRAIN.
+
+[96] As amended Sec. 34 of the TRAIN. Previous period was ‘within ninety (90) days before or after arrival’.
+
+[97] As amended by Sec. 34 of the TRAIN.
+
+[98] As amended Sec. 34 of the TRAIN. National Statistics Office (NSO) was changed to Philippine Statistics Authority (PSA).
+
+[99] The amendment introduced by RA11534 or the CREATE Law was vetoed by the President. Hence, the original provision remains. The President, in his veto message, states that –
+
+I am constrained to veto item (P) of the amended Section 109 of the National Internal Revenue Code of 1997, as amended (Tax Code), under Section 12 of this Act, to wit:
+
+"(P) Sale of real properties not primarily held for sale to customers or held for lease in the ordinary course of trade or business or real property utilized for low-cost and socialized housing as defined by Republic Act No. 7279, otherwise known as the 'Urban Development and Housing Act of 1992'​【𝟲𝟬𝟳 𝗺】, and other related laws, residential lot valued at Two million five hundred thousand Pesos (P2,500,OOO.OO) and below, house and lot, and other residential dwellings valued at Four million two hundred thousand Pesos (P4,200,OOO.OO) and below: Provided, That beginning January 1, 2024 and every three (3) years thereafter, the amounts herein stated shall be adjusted to present values using the Consumer Price Index, as published by the Philippine Statistics Authority (PSA)";
+
+Under the Tax Code, as amended by the TRAIN Law, the sales of house and lot and other residential dwellings valued at not more than P2.5 million shall be VATexempt. The exemption is targeted to provide relief to buyers of socialized housing and base-level economic housing. The amendment in the CREATE Act increases the VAT-threshold to up to P4.2 million. In effect, this will benefit even those not originally targeted for the VAT-exemption—those who can actually afford proper housing. This results in a tax exemption that is highly distortive and exacts a heavy price on the taxpaying community. The provision is also prone to abuse, as properties can be parceled into lots so that their individual values fall within the VAT-exempt threshold.
+
+If not vetoed, the estimated revenue loss from the foregoing is PI 55.3 billion from 2020 to 2030, which could be used in public goods to benefit the poor directly.
+
+[100] Ibid. Previous threshold was P10,000.
+
+[101] Ibid. Previous, this was subject to the 0% value-added tax under Sec. 106 (A)(2) of the Tax Code. See Note ??>>
+
+[102] As amended by Sec. 12 of the CREATE by inserting ‘of’ after the word ‘sale”. The original provision introduced by Sec. 34 of the TRAIN states:
+
+(AA) Sale of drugs and medicines prescribed for diabetes, high cholesterol, and hypertension beginning January 1, 2019; and
+
+This was amended by Sec. 1 of RA 11467 which states:
+
+(AA) Sale or importation of prescription drugs and medicines for:
+
+[103] Introduced by Sec. 1 of RA 11467.
+
+[104] As amended by Sec. 12 of the CREATE by changing the year 2023 (as introduced by Sec. 1 of RA 11467) to year 2021.
+
+[105] Originally introduced by Sec. 1 of RA 11467.
+
+[106] Introduced by Sec. 12 of the CREATE.
+
+[107] As amended by Sec. 34 of the TRAIN. The VAT-exempt threshold was increased from P1,500,000 to P3,000,000. Original subsection (BB) of Sec. 109, is now subsection (CC) under the CREATE.
+
+[108] Introduced by Sec. 35 of the TRAIN.
+
+[109] As amended Sec. 36 of the TRAIN. Previous number of days was 120 days.
+
+[110] As amended Sec. 36 of the TRAIN. Previous submission referred to ‘complete documents’.
+
+[111] Introduced by Sec. 36 of the TRAIN.
+
+[112] As newly introduced under RA 9337, supra.
+
+[113] Introduced by Sec. 37 of the TRAIN.
+
+[114] As amended by Sec. 37 of the TRAIN.
+
+[115] As amended by RA No. 11534
+
+[116] As amended by Sec. 13 of the CREATE.
+
+[117] The amendment introduced by the TRAIN Law was vetoed by the President. The veto message reads:
+
+C. Exemptions from percentage tax of gross sales/receipts not exceeding five hundred thousand pesos (P500,000)I am constrained to veto the provision which provides for the above under line 12 of Sec. 38 in the enrolled bill, to wit:
+
+“And Beginning January 1, 2019, Self-Employed and Professionals With Total Annual Gross Sales And/Or Gross Receipts Not exceeding Five Hundred Thousand Pesos (P500,000).
+
+The Proposed exemption from percentage tax will result in unnecessary erosion of revenues and would lead to abuse and leakages. The subject taxpayers under this provision are already exempted from the VAT, thus, the lower three percent percentage tax on gross sales or gross receipts is considered as their fair share in contributing to the revenue base of the country.
+
+[118] Inroduced by Sec. 13 of the CREATE.
+
+[119] As amended by RA 9337,supra.
+
+[120] As Amended by RA 10378,supra.
+
+[121] As originally amended by RA 9238, supra, and as last amended by RA 9337, supra.
+
+[122] RA 9238, supra, re-imposed the gross receipts tax on other non-bank financial intermediaries which includes pawnshops beginning January 1, 2004.
+
+[123] As amended by RA 9238 and RA 9337, supra.
+
+[124] As amended by RA 10001, supra.
+
+[125] As amended by Sec. 39 of the TRAIN. Previous rate was ½ of 1%.
+
+[126] As amended by Sec. 40 of the TRAIN. Original Subsection (A)(3)(Exceptions) - authorizing the BIR Commissioner to provide the time for filing the return at intervals other than the time prescribed by law and the manner and time of payment of percentage taxes other than as prescribed by law - was removed/deleted.
+
+[127] Introduced by Sec. 41 of the TRAIN.
+
+[128] Introduced by Sec. 2 of RA 11346. Effective 1 January 2020.
+
+[129] As amended by Sec. 3 of RA 11346. Previous rate was 4%.
+
+[130] Introduced by Sec. 3 of RA 11346. Effective 1 January 2020.
+
+[131] As amended by Sec. 3 of RA 11346. The rates under Sec. 42 of the TRAIN were increased. Effective 1 January 2020.
+
+[132] As amended by Sec. 3 of RA 11346. Previous rate was 4%. Effective 1 January 2020.
+
+[133] As amended by Sec. 42 of the TRAIN.
+
+[134] As amended by Sec. 3 of RA 11346. Effective 1 January 2020.
+
+[135] As amended by Sec. 3 of RA 11346. The rates were increased under Sec. 42 of the TRAIN. Effective 1 January 2020.
+
+[136] Introduced by Sec. 3 of RA 11346. Effective 1 January 2020.
+
+[137] Introduced by Sec. 4 of RA 11346. Effective 1 January 2020.
+
+[138] Introduced by Sec. 5 of RA 11346. Effective 1 January 2020.
+
+[139] As amended by Sec. 43 of the TRAIN. Previous rate was P4.50.
+
+[140] As amended by Sec. 43 of the TRAIN. Previous rate was P0.50.
+
+[141] As amended by Sec. 43 of the TRAIN. Previous rate was P3.50.
+
+[142] Introduced by Sec. 43 of the TRAIN.
+
+[143] As amended by Sec. 43 of the TRAIN. Previous rate was P4.35.
+
+[144] As amended by Sec. 43 of the TRAIN. Previous, Secretary of Energy.
+
+[145] As amended by Sec. 43 of the TRAIN. Excise tax on leaded premium gasoline was removed. Previous rate on unleaded premium gasoline was P4.35.
+
+[146] As amended by Sec. 43 of the TRAIN. Previous rate was P3.67.
+
+[147] As amended by Sec. 43 of the TRAIN. Previous rate was P0.
+
+[148] As amended by Sec. 43 of the TRAIN. Previous rate was P0.56.
+
+[149] As amended by Sec. 43 of the TRAIN
+
+[150] The amendment introduced by the TRAIN Law was vetoed by the President. The veto message reads:
+
+I am constrained to veto the provision which provides for the above under line 25 Sec. 43 of the enrolled bill, to wit:
+
+“Petroleum Products, Including Naptha, LPG, Petroleum, Coke, Refinery Fuel And Other Products Of Distillation, When Used As Input, Feedstock Or As Raw Material In The Manufacturing Of Petrochemical Products, Or In The Refining Of Petroleum Products, Or As Replacement Fuel for Natural-Gas-Fired-Combined Cycle Power Plant [,] In Lieu Of Locally-Extracted Natural Gas During The Non-Availability Thereof, Subject To The Rules And Regulations To Be Promulgated By The Secretary Of Finance, xxx, For The Purpose Of Further Processing Or Blending into Finished Products Which Are Subject To Excise tax Under This Section.”
+
+The provision runs the risk of being too general, covering all types of petroleum products, which may be subject to abuse by taxpayers, and thus lead to massive revenue erosion. At any rate, the tax code already identifies which petroleum products can be exempted.
+
+[151] Introduced by Sec. 44 of the TRAIN.
+
+[152] As amended by Sec. 45 of the TRAIN.
+
+[153] Introduced by Sec. 45 of the TRAIN.
+
+[154] As amended by Sec. 45 of the TRAIN. Previously, pick-up trucks were not considered ‘trucks’.
+
+[155] Introduced by Sec. 46 of the TRAIN.
+
+[156] Introduced by Sec. 47 of the TRAIN.
+
+[157] Introduced by Sec. 48 of the TRAIN.
+
+[158] As amended by Sec. 48 of the TRAIN. Previous rate was P10.
+
+[159] As amended by Sec. 48 of the TRAIN. Previous rate was P50.
+
+[160] As amended by Sec. 48 of the TRAIN. Previous rate was P100.
+
+[161] As amended by Sec. 48 of the TRAIN. Previous rate was 2%.
+
+[162] As amended by Sec. 48 of the TRAIN. Previous rate was 3%.
+
+[163] Introduced by Sec. 2 of RA 11256.
+
+[164] Introduced by Sec. 6 of RA 11346. Effective 1 January 2020.
+
+[165] Introduced by Sec. 49 of the TRAIN.
+
+[166] Introduced by Sec. 7 of RA 11346. Effective 1 January 2020.
+
+[167] As amended by Sec. 7 of RA 11346. Effective 1 January 2020.
+
+[168] Introduced by Sec. 50 of the TRAIN.
+
+[169] The TRAIN Law increased the rate of DST imposed on documents beginning January 1, 2018 by 100%, except DST on sale or conveyance of real property, insurance and fidelity bonds which were retained at the old rate. DST on debt instruments under Section 179 was increased by 50% only.
+
+[170] As amended by Sec. 51 of the TRAIN. Previous rate was P1.
+
+[171] As amended by Sec. 52 of the TRAIN. Previous rate was P0.75.
+
+[172] As amended by Sec. 52 of the TRAIN. Previous rate was 25%.
+
+[173] As amended by Sec. 53 of the TRAIN. Previous rate was P0.50.
+
+[174] As amended by Sec. 54 of the TRAIN. Previous rate was P1.50.
+
+[175] As amended by Sec. 55 of the TRAIN. Previous rate was P1.
+
+[176] As amended by Sec. 56 of the TRAIN. Previous rate was P0.30.
+
+[177] As amended by Sec. 57 of the TRAIN. Previous rate was P0.30.
+
+[178] As amended by Sec. 58 of the TRAIN. Previous rate was P0.30.
+
+[179] As amended by Sec. 59 of the TRAIN. Previous rate was P0.50 on each P200, or fractional part thereof.
+
+[180] As amended by Sec. 60 of the TRAIN. Previous rate was P0.50.
+
+[181] As amended by Sec. 60 of the TRAIN. Previous rate was P0.20.
+
+[182] As amended by Sec. 61 of the TRAIN. Previous rate was P15.
+
+[183] As amended by Sec. 62 of the TRAIN. Previous rate was P15.
+
+[184] As amended by Sec. 63 of the TRAIN. Previous rate was P0.10.
+
+[185] As amended by Sec. 64 of the TRAIN. The phrase “to another port or place in the Philippines” was removed.
+
+[186] As amended by Sec. 64 of the TRAIN. Previous rate was P1.
+
+[187] As amended by Sec. 64 of the TRAIN. Previous rate was P10.
+
+[188] As amended by Sec. 65 of the TRAIN. Previous rate was P15.
+
+[189] As amended by Sec. 66 of the TRAIN. Previous rate was P5.
+
+[190] As amended by Sec. 67 of the TRAIN. Previous rate was P3.
+
+[191] As amended by Sec. 67 of the TRAIN. Previous rate was P1.
+
+[192] As amended by Sec. 68 of the TRAIN. Previous rate was P20.
+
+[193] As amended by Sec. 68 of the TRAIN. Previous rate was P10.
+
+[194] Introduced by Sec. 69 of the TRAIN.
+
+[195] As amended by Sec. 70 of the TRAIN. Previous rate was P500.
+
+[196] As amended by Sec. 70 of the TRAIN. Previous rate was P50.
+
+[197] As amended by Sec. 70 of the TRAIN. Previous rate was P1,000.
+
+[198] As amended by Sec. 70 of the TRAIN. Previous rate was P100
+
+[199] As amended by Sec. 70 of the TRAIN. Previous rate was P1,500.
+
+[200] As amended by Sec. 70 of the TRAIN. Previous rate was P150.
+
+[201] The amendment introduced by the CREATE Law was vetoed by the President. The veto message on the proposed 90-day period for the processing of general tax refunds reads:
+
+For being administratively impracticable, I am constrained to veto the whole of Section 14 of this Act, to wit:
+
+SEC. 14. Section 204 of the National Internal Revenue Code of 1997, as amended, is hereby further amended to read as follows:
+
+SEC. 204. Authority of the Commissioner to Compromise, Abate, and Refund or Credit Taxes. —The Commissioner may —
+"(A) x xx
+"(B) x xx
+"(C) Credit or refund taxes erroneously or illegally received or penalties imposed without authority, refund the value of internal revenue stamps when they are returned in good condition by the purchaser, and in his discretion, redeem or change unused stamps that have been rendered unfit for use and refund their value upon proof of destruction. No credit or refund of taxes or penalties shall be allowed unless the taxpayer files in writing with the Commissioner a claim or refund within two (2) years after the payment of the tax or penalty: Provided, however, That a return filed showing an overpayment shall be considered as a written claim for credit or refund: Provided, further, That in proper cases, the Commissioner shall grant a refund for taxes or penalties within ninety (90) days from the date of complete submission of the documents in support of the application filed: Provided, furthermore, That should the Commissioner find that the grant of refund is not proper, the Commissioner must state in writing the legal and factual basis for the denial: Provided, finally, That in case of full or partial denial of the claim for tax refund, the taxpayer affected may, within thirty (30) days from the receipt of the decision denying the claim, appeal the decision with the Court of Tax Appeals."
+
+While I laud the intention to improve tax administration, this provision is administratively difficult for the Bureau of Internal Revenue (BIR) to implement and may cause delayed or erroneous processing of refund claims. The general form of tax refund under Section 204 of the Tax Code, as distinguished from VAT refunds in Section 112 of the same Code, requires a full audit of all internal revenue tax liabilities and examination of the tax payments, books, and returns filed by a taxpayer. Aside from this, the Tax Code itself requires the Commission on Audit to examine refunds. Thus, it is incumbent upon the BIR to exercise utmost diligence in granting a general tax refund. This is not possible within a 90-day period for all cases. I do not want the BIR to be forced to choose between only two (2) awful choices: grant tax refunds haphazardly, or deny an application outright considering the short period given to the BIR to process the same and then have the taxpayer go to court with his refund being unnecessarily delayed. Thus, while imposing a hard deadline may appear good on paper, the actual experience in the conduct of a full audit in general tax refund will either cause damage to the government if the BIR acts haphazardly, or cause more delays to the prejudice of the taxpayers if the BIR chooses the more convenient option of simply denying applications given the time constraints. As alternative, I suggest that the legislature, the Department of Finance, and the BIR, come up with mechanisms to streamline the process of tax refunds in a separate tax administration bill.
+
+[202] Introduced by Sec. 71 of the TRAIN.
+
+[203] As amended by Sec. 71 of the TRAIN. Previously ‘quarterly”.
+
+[204] As amended by Sec. 71 of the TRAIN. Previous threshold was P150,000.
+
+[205] Introduced by Sec. 72 of the TRAIN.
+
+[206] As amended by Sec. 72 of the TRAIN.
+
+[207] As amended by Sec. 72 of the TRAIN. Previous threshold was P1,500,000.
+
+[208] As amended by Sec. 73 of the TRAIN.
+
+[209] Ibid. Previous threshold was P25.
+
+[210] Introduced by Sec. 73 of the TRAIN.
+
+[211] Introduced by Sec. 74 of the TRAIN.
+
+[212] As amended by Sec. 75 of the TRAIN. Previous rate was 20% per annum.
+
+[213] Introduced by Sec. 75 of the TRAIN.
+
+[214] As amended by Sec. 76 of the TRAIN.
+
+[215] As amended by Sec. 8 of RA 11346. Effective 1 January 2020.
+
+[216] As amended by Sec. 10 of RA 11346. Effective 1 January 2020.
+
+[217] Introduced by Sec. 11 of RA 11346. Effective 1 January 2020.
+
+[218] As amended by Sec. 77 of the TRAIN.
+
+[219] Introduced by Sec. 77 of the TRAIN.
+
+[220] Introduced by Sec. 78 of the TRAIN.
+
+[221] Introduced by Sec. 79 of the TRAIN.
+
+[222] As amended by Sec. 12 of RA 11346. Effective 1 January 2020.
+
+[223] Introduced by Sec. 12 of RA 11346. Effective 1 January 2020.
+
+[224] Introduced by Sec. 80 of the TRAIN.
+
+[225] Introduced by Sec. 13 of RA 11346. Effective 1 January 2020.
+
+[226] Introduced by Sec. 81 of the TRAIN.
+
+[227] Repealed by Sec. 15 of RA 11346. Effective 1 January 2020.
+
+[228] The amendment introduced by the TRAIN Law was vetoed by the President. The veto message reads:
+
+E. Earmarking of incremental tobacco taxes
+
+I am constrained to veto the provision which provides for the above in lines 20 to 29 of Sec. 82 of the enrolled bill, to wit:
+
+“Notwithstanding Any Provisions Herein To The Contrary, The Incremental Revenues From The Tobacco Taxes Under This Act Shall Be Subject To Section 3 of Republic Act No. 7171, Otherwise Known As ‘An Act To Promote The Development Of The Farmer In The Virginia Tobacco Producing Provinces’, And Section 8 Of Republic Act No. 8240, Otherwise Known As ‘An Act Amending Sections 138, 140 & 142 Of The National Internal Revenue Code, As Amended, And For Other Purposes.”
+
+The provision effectively amends the Sin Tax Law, or RA 10351, which provides for guaranteed funds for universal health care. The provision will effectively diminish the share of the health sector in the proposed allocation.
+
+[229] Introduced by Sec. 82 of the TRAIN.
+
+[230] Introduced by Sec. 14 of RA 11346. Effective 1 January 2020.
+
+[231] Introduced by Sec. 16 of RA 11346. Effective 1 January 2020.
+
+[232] As amended by Sec. 15 of the CREATE.
+
+[233] Introduced by Sec. 15 of the CREATE.
+
+[234] Introduced under RA No. 11534 (Corporate Recovery and Tax Incentives for Enterprises Act or CREATE Act)
+
+[235] Vetoed under Par C. The President, in his veto message under Par. C - Definition of investment capital, states that –
+
+I am constrained to veto item (g) of the new Section 293 of the Tax Code under Section 16 of this Act:
+
+"(g) Investment capital refers to the value of investment indicated in Philippine currency, excluding the value of land and working capital, that shall be used to carry out a registered project or activity, except that land shall be included as investment capital for registered real estate development. Investment capital may include the cost of land improvements, buildings, leasehold improvements, machinery and equipment, and other non-current tangible assets;"
+
+The term "investment capital" is relevant in determining which registered projects or activities shall fall within the approving jurisdiction of the Fiscal Incentives Review Board (FIRB). To ensure that currently operational administrative processes are not unduly disturbed, I prefer that we adopt the measures now used by investment promotion agencies to determine the scale of an investment. Excluding land and operating expenses from the measure of an investment's total scale may also lead to an underestimation of our investment promotion performance.
+
+[236] Vetoed under Par. D (1). The President, in his veto message under Par D - Redundant incentives for domestic enterprises, states that –
+
+The special corporate income tax (SCIT) rate for domestic market enterprises, which is in lieu of all local and national taxes, is redundant, unnecessary, and weakens the fiscal incentives system. Domestic-oriented enterprises are market-seeking enterprises or enterprises that invest in selling goods and services to a market where viable demand exists—with or without tax incentives.
+
+Tax incentives for domestic market enterprises are only justified to the extent that they yield measurable net benefits to the economy. I find that the generous, targeted, and performance-based enhanced deductions to domestic activities in priority sectors or industries under the CREATE Act are already sufficient incentives for the purpose.
+
+Contrary to a common misconception that denying domestic enterprises the SCIT is tantamount to abandoning our own local businesses to fend for themselves, vetoing the subject provision is actually for the benefit of all local businesses. It must be emphasized that only registered business entities are proposed to be entitled to SCIT. Thus, local and homegrown firms that are not registered firms, which make up most of our MSMEs, will have to pay more taxes than registered firms. The latter would then have more legroom to reduce prices, secure more contracts, and ultimately take over the market and put our MSMEs out of business. In actuality, this line item veto will effectively level the domestic playing field and provide only the most generous incentives during the most critical times [e.g., income tax holiday 0TH) during start-up years]. After ITH expires, performance-based incentives, specifically the enhanced deductions, will become available. All of these ensure that extended tax savings are matched with targeted spending (e.g., direct labor and research and development) and not awarded outright which is the case if SCIT is extended to them.
+
+[237] Vetoed under Par. D (2)
+
+[238] Vetoed under Par. D (3)
+
+[239] Vetoed under Par. D (4)
+
+[240] Vetoed under Par. D (5)
+
+[241] Vetoed under Par. D (6)
+
+[242] Vetoed under Par E (1). The President, in his veto message under Par E – Allowing existing registered activities to apply for new incentives for the same activity, states that –
+
+Allowing an additional fourteen (14) to seventeen (17) years of incentives and another ten (10) year-extension for the same activity on top of the original period of incentives enjoyment is fiscally irresponsible and utterly unfair to the ordinary taxpayer and to un incentivized enterprises. Registered business enterprises interested in further enjoying incentives must engage in new activities or projects incentivized in the Strategic Investment Priority Plan. My principle on this matter is simple: only new activities and projects deserve new incentives.
+
+[243] Vetoed under Par. D (7)
+
+[244] Vetoed under Par. D (8)
+
+[245] Vetoed under Par. E (2)
+
+[246] Vetoed under Par. E (3)
+
+[247] Vetoed under Par. G (1). The President, in his veto message under Par G – Specific industries mentioned under activity tiers, states that –
+
+On the one hand, there are industries in the enumeration that either do not merit support through incentives or are expected to become obsolete in the short-term. On the other hand, there might be economic activities in the mid- to long-term that need to be prioritized and granted tax incentives which are not captured in the current enumeration. The CREATE Act must be kept flexible to be able to keep up with the changing times. Activities and projects should not be hard coded in the law so that we do not keep on incentivizing obsolete industries and close our doors to technological advances and industries of the future.
+
+[248] Vetoed under Par. G (2)
+
+[249] Vetoed under Par. D (9)
+
+[250] Vetoed under Par. D (10). The President has vetoed all mention of “/SCIT” in the table after the phrase “For domestic market activities”.
+
+[251] Vetoed under Par. I. The President, in his veto message under Par I – Automatic approval of applications for incentive, states that –
+
+The automatic approval of applications runs counter to the declared policy to approve or disapprove applications based on merit. The core of the reform is to develop a performance-based tax incentives system. The FIRB or the investment promotion agencies, as the case may be, should be allowed to carefully review the application for tax incentives since these are privileges granted by the State. This important function should not be sacrificed for the sake of expediency.
+
+Moreover, concerns over inaction can be addressed by the Ease of Doing Business and Efficient Government Service Delivery Act of 2018, which punishes the failure to render government services within a prescribed time.
+
+[252] Vetoed under Par. F. The President, in his veto message under Par F – Limitations on the power of the FIRB, states that –
+
+The primary role of the FIRB in the fiscal incentives system of the Philippines is to exercise policy-making and oversight functions on all registered business enterprises and investment promotion agencies. Section 297 (B) is clear that the power of the investment promotion agencies to grant incentives only stems from a delegated authority from the FIRB.
+
+Corollary to this, the current practice of granting incentives without a regular impact analysis conducted and without regard to the final cost to the government is unacceptable, given our economic aims under the CREATE Act. Consistent with the theme of the "Tax Incentives Management and Transparency Act (TIMTA)" emphasizing fiscal accountability and transparency in the grant and management of tax incentives, the oversight functions of the FIRB will ensure the proper grant and monitoring of tax incentives, as well as assure Filipinos that in every peso invested, we get our tax's worth. These powers must remain plenary over those of the investment promotion agencies.
+
+The concern that the FIRB oversight will result in inordinate delays is highly speculative. Even with the veto of the foregoing provision, the investment promotion agencies retain the delegated power to grant incentives up to a certain threshold amount. The FIRB does not create another layer in the approval process but is simply granted the authority to check whether the incentives granted by the investment promotion agencies conform to the overarching aim of the reform to modernize our incentive system into one that is performance-based, targeted, time-bound, and transparent. The oversight power of the FIRB supports its policy-making function since analyzing important data on all granted incentives is crucial in crafting sound, sustainable, and fiscally responsible incentives policy.
+
+[253] Vetoed under Par. H. The President, in his veto message under Par H – Provision granting the President the power to exempt any investment promotion agency from the reform , states that –
+
+The provisions allowing any future President the power to exempt an investment promotion agency from the coverage of the CREATE Act disregards the huge steps we have taken to rationalize our fiscal incentives system. It could become a highly political tool that could allow subsequent Presidents to dismantle decades of studies, disregard discussions based on empirical evidence, and even subvert the will of Congress itself. Fair and sensible public policy must bear the quality of uniform application. Exempting any investment promotion agency from the CREATE Act, which provides for transparency, accountability, and proper administration of tax incentives may be used as an escape from the accountability measures institutionalized in that law, and opens a wide path for discretion and capture by vested interests.
+
