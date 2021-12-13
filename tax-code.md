@@ -4806,7 +4806,7 @@ Notwithstanding the provisions in the preceding paragraphs, sales receipts and o
 
 (E) Notwithstanding any law to the contrary, the importation of COVID-19 vaccine shall be exempt from import duties, taxes and other fees, subject to the approval or licenses issued by the Department of Health or the Food and Drug Administration.
 
-(F) Persons who directly import petroleum products defined under Republic Act No. 8479, otherwise known as the ‘Downstream Oil Industry Deregulation Act of 1998’​【𝟲𝟬𝟵 𝗺】, for resale in the Philippine customs territory and/or in free zones as defined under Republic Act No. 10863, otherwise known as the Customs Modernization and Tariff Act, shall not be entitled to the foregoing tax and duty incentives, and shall be subject to appropriate taxes imposed under this Code..
+(F) Persons who directly import petroleum products defined under Republic Act No. 8479, otherwise known as the ‘Downstream Oil Industry Deregulation Act of 1998’, for resale in the Philippine customs territory and/or in free zones as defined under Republic Act No. 10863, otherwise known as the Customs Modernization and Tariff Act, shall not be entitled to the foregoing tax and duty incentives, and shall be subject to appropriate taxes imposed under this Code..
 
 Any law to the contrary notwithstanding, the importation of petroleum products by any person, including registered business enterprises, shall be subject to the payment of applicable duties and taxes as provided under Republic Act No. 10863, otherwise known as the Customs Modernization and Tariff Act, and this Code, respectively, upon importation into the Philippine customs territory and/or into free zones as defined under Republic Act No. 10863, otherwise known as the Customs Modernization and Tariff Act:.
 
@@ -4941,6 +4941,7 @@ Members - Undersecretary or Assistant Secretary of the Office of the Executive S
   - Commissioner of the Philippine Competition Commission
   - Director General or Chairperson or Administrator of the Investment Promotion Agencies: Provided, That the participation of the Investment Promotion Agency representative in deliberations and decision-making processes of the technical committee shall be limited to the matters concerning their Investment Promotion Agency
 Secretariat - The secretariat shall be headed by an Assistant Secretary of Finance and shall be staffed by the National Tax Research Center.
+
 SEC. 299. Structure and Staffing Pattern. - To support the expanded functions of the Fiscal Incentives Review Board, the National Tax Research Center, as secretariat thereof, shall create three (3) additional groups, namely, Fiscal Incentives Management Group, Monitoring and Evaluation Group, and Legal Group. Each group shall be composed of at least two (2) divisions, which will be headed by a deputy executive director. The existing administrative and financial branch of the National Tax Research Center shall be converted into a group to be headed by a deputy executive director and will be composed of four (4) divisions, namely, finance, human resource management and development, general services, and management and information system.
 
 Provided, That the Fiscal Incentives Review Board secretariat is authorized to determine its organizational structure and staffing pattern, and create such services, divisions, and units, as it may require or deem necessary in the future, subject to the approval by the Department of Budget and Management: Provided, finally, That nothing herein modifies the existing organizational structure and staffing pattern of the Investment Promotion Agencies or affects their power to maintain or determine their respective organizational structure and staffing pattern.
@@ -5002,9 +5003,12 @@ This power of the President, in as far as it commands additional public sector e
 
 Notwithstanding the provisions in the preceding paragraphs, tax and duty incentives granted through legislative franchises shall be excepted from the foregoing powers of the President to review, withdraw, suspend, or cancel tax incentives and subsidies.
 
+
 SEC. 302. Amendments to the Strategic Investment Priority Plan. - Subject to publication requirements and the criteria for investment priority determination, the Board of Investments may include additional areas in the Strategic Investment Priority Plan, alter any of the terms of the declaration of an investment area, and temporarily suspend projects or activities on the Strategic Investment Priority Plan if it considers that such project or activity is no longer a priority within the effectivity of the Strategic Investment Priority Plan.
 
-SEC. 303. Publication. - Upon approval of the Strategic Investment Priority Plan, in whole or in part, or upon approval of an amendment thereof, the Plan or the amendment, specifying and declaring the areas of investments shall be published in at least one (1) newspaper of general circulation or in the Official Gazette: Provided, That all such areas in the existing Strategic Investment Priority Plan shall be open for application until publication of an amendment or deletion thereof.
+
+SEC. 303.  Publication. - Upon approval of the Strategic Investment Priority Plan, in whole or in part, or upon approval of an amendment thereof, the Plan or the amendment, specifying and declaring the areas of investments shall be published in at least one (1) newspaper of general circulation or in the Official Gazette: Provided, That all such areas in the existing Strategic Investment Priority Plan shall be open for application until publication of an amendment or deletion thereof.
+
 
 SEC. 304. Qualifications of a Registered Business Enterprise for Tax Incentives. - In the review and grant of tax incentives, the registered business enterprise must:
 
