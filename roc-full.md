@@ -106,7 +106,7 @@ A real party in interest is the party who stands to be benefited or injured by t
 
 Section 3. ``Representatives as parties. —``
 
-Where the action is allowed to be prosecuted and defended by a representative or someone acting in a fiduciary capacity, the beneficiary shall be included in the title of the case and shall be deemed to be the real property in interest. A representative may be a trustee of an expert trust, a guardian, an executor or administrator, or a party authorized by law or these Rules. An agent acting in his own name and for the benefit of an undisclosed principal may sue or be sued without joining the principal except when the contract involves things belonging to the principal. (3a)
+Where the action is allowed to be prosecuted and defended by a representative or someone acting in a fiduciary capacity, the beneficiary shall be included in the title of the case and shall be deemed to be the real party in interest. A representative may be a trustee of an expert trust, a guardian, an executor or administrator, or a party authorized by law or these Rules. An agent acting in his own name and for the benefit of an undisclosed principal may sue or be sued without joining the principal except when the contract involves things belonging to the principal. (3a)
 
 Section 4. ``Spouses as parties. —``
 
