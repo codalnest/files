@@ -2074,7 +2074,7 @@ b. Those who, in theaters, fairs, cinematographs or any other place, exhibit ind
 
 For the purpose of this article, women who, for money or profit, habitually indulge in sexual intercourse or lascivious conduct, are deemed to be prostitutes.
 
-Any person found guilty of any of the offenses covered by this article shall be punished by ``arresto menor`` or a fine not exceeding Twenty thousand pesos (P20,000). and in case of recidivism, by ``arresto mayor`` in its medium period to ``prision correccional`` in its minimum period or a fine ranging from Twenty thousand pesos (P20,000) to Two hundred thousand pesos (P200,000), or both, in the discretion of the court. (As amended by R.A. No. 10158 decriminalizing vagrancy and R.A. No. 10951)
+Any person found guilty of any of the offenses covered by this article shall be punished by ``arresto menor`` or a fine not exceeding Twenty thousand pesos (P20,000). and in case of recidivism, by ``arresto mayor`` in its medium period to ``prision correccional`` in its minimum period or a fine ranging from Twenty thousand pesos (P20,000) to Two hundred thousand pesos (P200,000), or both, in the discretion of the court. (As amended by R.A. No. 10158 decriminalizing vagrancy and R.A. No. 10951) (This Article was REPEALED by R.A. 11862.)
 
 **ART. 203.** ``Who are public officers.—``
 
