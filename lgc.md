@@ -1,22 +1,24 @@
-THE LOCAL GOVERNMENT CODE OF THE PHILIPPINES
+@SRC Local Government Code
 
-BOOK I
+# THE LOCAL GOVERNMENT CODE OF THE PHILIPPINES
+
+## BOOK I
 
 GENERAL PROVISIONS
 
-TITLE ONE. - BASIC PRINCIPLES
+### TITLE ONE. - BASIC PRINCIPLES
 
-CHAPTER 1. - THE CODE, POLICY AND APPLICATION
+#### CHAPTER 1. - THE CODE, POLICY AND APPLICATION
 
-SECTION 1. Title. - This Act shall be known and cited as the "Local Government Code of 1991".
+Section 1. Title. - This Act shall be known and cited as the "Local Government Code of 1991".
 
-SECTION 2. Declaration of Policy. - (a) It is hereby declared the policy of the State that the territorial and political subdivisions of the State shall enjoy genuine and meaningful local autonomy to enable them to attain their fullest development as self-reliant communities and make them more effective partners in the attainment of national goals. Toward this end, the State shall provide for a more responsive and accountable local government structure instituted through a system of decentralization whereby local government units shall be given more powers, authority, responsibilities, and resources. The process of decentralization shall proceed from the national government to the local government units.
+Section 2. Declaration of Policy. - (a) It is hereby declared the policy of the State that the territorial and political subdivisions of the State shall enjoy genuine and meaningful local autonomy to enable them to attain their fullest development as self-reliant communities and make them more effective partners in the attainment of national goals. Toward this end, the State shall provide for a more responsive and accountable local government structure instituted through a system of decentralization whereby local government units shall be given more powers, authority, responsibilities, and resources. The process of decentralization shall proceed from the national government to the local government units.
 
 (b) It is also the policy of the State to ensure the accountability of local government units through the institution of effective mechanisms of recall, initiative and referendum.
 
 (c) It is likewise the policy of the State to require all national agencies and offices to conduct periodic consultations with appropriate local government units, non-governmental and people's organizations, and other concerned sectors of the community before any project or program is implemented in their respective jurisdictions.
 
-SECTION 3. Operative Principles of Decentralization. - The formulation and implementation of policies and measures on local autonomy shall be guided by the following operative principles: (a) There shall be an effective allocation among the different local government units of their respective powers, functions, responsibilities, and resources; (b) There shall be established in every local government unit an accountable, efficient, and dynamic organizational structure and operating mechanism that will meet the priority needs and service requirements of its communities;
+Section 3. Operative Principles of Decentralization. - The formulation and implementation of policies and measures on local autonomy shall be guided by the following operative principles: (a) There shall be an effective allocation among the different local government units of their respective powers, functions, responsibilities, and resources; (b) There shall be established in every local government unit an accountable, efficient, and dynamic organizational structure and operating mechanism that will meet the priority needs and service requirements of its communities;
 
 (c) Subject to civil service law, rules and regulations, local officials and employees paid wholly or mainly from local funds shall be appointed or removed, according to merit and fitness, by the appropriate appointing authority;
 
@@ -30,9 +32,9 @@ SECTION 3. Operative Principles of Decentralization. - The formulation and imple
 
 (m)The national government shall ensure that decentralization tributes to the continuing improvement of the performance of local government units and the quality of community life.
 
-SECTION 4. Scope of Application. - This Code shall apply to all provinces, cities, municipalities, Barangays, and other political subdivisions as may be created by law, and, to the extent herein provided, to officials, offices, or agencies of the national government.
+Section 4. Scope of Application. - This Code shall apply to all provinces, cities, municipalities, Barangays, and other political subdivisions as may be created by law, and, to the extent herein provided, to officials, offices, or agencies of the national government.
 
-SECTION 5. Rules of Interpretation. - In the interpretation of the provisions of this Code, the following rules shall apply:
+Section 5. Rules of Interpretation. - In the interpretation of the provisions of this Code, the following rules shall apply:
 
 (a) Any provision on a power of a local government unit shall be liberally interpreted in its favor, and in case of doubt, any question thereon shall be resolved in favor of devolution of powers and of the lower local government unit. Any fair and reasonable doubt as to the existence of the power shall be interpreted in favor of the local government unit concerned; (b) In case of doubt, any tax ordinance or revenue measure shall be construed strictly against the local government unit enacting it, and liberally in favor of the taxpayer. Any tax exemption, incentive or relief granted by any local government unit pursuant to the provisions of this Code shall be construed strictly against the person claiming it.
 
@@ -42,29 +44,29 @@ SECTION 5. Rules of Interpretation. - In the interpretation of the provisions of
 
 (e) In the resolution of controversies arising under this Code where no legal provision or jurisprudence applies, resort may be had to the customs and traditions in the place where the controversies take place.
 
-CHAPTER 2. - GENERAL POWERS AND ATTRIBUTES OF LOCAL GOVERNMENT UNITS
+#### CHAPTER 2. - GENERAL POWERS AND ATTRIBUTES OF LOCAL GOVERNMENT UNITS
 
-SECTION 6. Authority to Create Local Government Units. - A local government unit may be created, divided, merged, abolished, or its boundaries substantially altered either by law enacted by Congress in the case of a province, city, municipality, or any other political subdivision, or by ordinance passed by the Sangguniang Panlalawigan or Sangguniang Panlungsod concerned in the case of a Barangay located within its territorial jurisdiction, subject to such limitations and requirements prescribed in this Code.
+Section 6. Authority to Create Local Government Units. - A local government unit may be created, divided, merged, abolished, or its boundaries substantially altered either by law enacted by Congress in the case of a province, city, municipality, or any other political subdivision, or by ordinance passed by the Sangguniang Panlalawigan or Sangguniang Panlungsod concerned in the case of a Barangay located within its territorial jurisdiction, subject to such limitations and requirements prescribed in this Code.
 
-SECTION 7. Creation and Conversion. - As a general rule, the creation of a local government
+Section 7. Creation and Conversion. - As a general rule, the creation of a local government
 
 unit or its conversion from one level to another level shall be based on verifiable indicators of viability and projected capacity to provide services, to wit: (a) Income - It must be sufficient, based on acceptable standards, to provide for all essential government facilities and services and special functions commensurate with the size of its population, as expected of the local government unit concerned; (b) Population - It shall be determined as the total number of inhabitants within the territorial jurisdiction of the local government unit concerned; and
 
 (c) Land Area - It must be contiguous, unless it comprises two or more islands or is separated by a local government unit independent of the others; properly identified by metes and bounds with technical descriptions; and sufficient to provide for such basic services and facilities to meet the requirements of its populace. Compliance with the foregoing indicators shall be attested to by the Department of Finance (DOF), the National Statistics Office (NSO), and the Lands Management Bureau (LMB) of the Department of Environment and Natural Resources (DENR).
 
-SECTION 8. Division and Merger. - Division and merger of existing local government units shall comply with the same requirements herein prescribed for their creation: Provided however, That such division shall not reduce the income, population, or land area of the local government unit or units concerned to less than the minimum requirements prescribed in this Code: Provided, further, That the income classification of the original local government unit or units shall not fall below its current income classification prior to such division.
+Section 8. Division and Merger. - Division and merger of existing local government units shall comply with the same requirements herein prescribed for their creation: Provided however, That such division shall not reduce the income, population, or land area of the local government unit or units concerned to less than the minimum requirements prescribed in this Code: Provided, further, That the income classification of the original local government unit or units shall not fall below its current income classification prior to such division.
 
 The income classification of local government units shall be updated within six (6) months from the effectivity of this Code to reflect the changes in their financial position resulting from the increased revenues as provided herein.
 
-SECTION 9. Abolition of Local Government Units. - A local government unit may be abolished when its income, population, or land area has been irreversibly reduced to less than the minimum standards prescribed for its creation under Book III of this Code, as certified by the national agencies mentioned in SECTION 17 hereof to Congress or to the Sanggunian concerned, as the case may be.
+Section 9. Abolition of Local Government Units. - A local government unit may be abolished when its income, population, or land area has been irreversibly reduced to less than the minimum standards prescribed for its creation under Book III of this Code, as certified by the national agencies mentioned in SECTION 17 hereof to Congress or to the Sanggunian concerned, as the case may be.
 
 The law or ordinance abolishing a local government unit shall specify the province, city, municipality, or Barangay with which the local government unit sought to be abolished will be incorporated or merged.
 
-SECTION 10. Plebiscite Requirement. - No creation, division, merger, abolition, or substantial alteration of boundaries of local government units shall take effect unless approved by a majority of the votes cast in a plebiscite called for the purpose in the political unit or units directly affected.
+Section 10. Plebiscite Requirement. - No creation, division, merger, abolition, or substantial alteration of boundaries of local government units shall take effect unless approved by a majority of the votes cast in a plebiscite called for the purpose in the political unit or units directly affected.
 
 Said plebiscite shall be conducted by the Commission on Elections (Comelec) within one hundred twenty (120) days from the date of effectivity of the law or ordinance effecting such action, unless said law or ordinance fixes another date.
 
-SECTION 11. Selection and Transfer of Local Government Site, Offices and Facilities.
+Section 11. Selection and Transfer of Local Government Site, Offices and Facilities.
 
 (a) The law or ordinance creating or merging local government units shall specify the seat of government from where governmental and corporate services shall be delivered. In selecting said site, factors relating to geographical centrality, accessibility, availability of transportation and communication facilities, drainage and sanitation, development and economic progress, and other relevant considerations shall be taken into account.
 
@@ -76,9 +78,9 @@ the local government unit concerned and its inhabitants.
 
 (c) Local government offices and facilities shall not be transferred, relocated, or converted to other uses unless public hearings are first conducted for the purpose and the concurrence of the majority of all the members of the Sanggunian concerned is obtained.
 
-SECTION 12. Government Centers. - Provinces, cities, and municipalities shall endeavor to establish a government center where offices, agencies, or branches of the national government, local government units, or government-owned or -controlled corporations may, as far as practicable, be located. In designating such a center, the local government unit concerned shall take into account the existing facilities of national and local agencies and offices which may serve as the government center as contemplated under this SECTION. The national government, local government unit or government-owned or -controlled corporation concerned shall bear the expenses for the construction of its buildings and facilities in the government center.
+Section 12. Government Centers. - Provinces, cities, and municipalities shall endeavor to establish a government center where offices, agencies, or branches of the national government, local government units, or government-owned or -controlled corporations may, as far as practicable, be located. In designating such a center, the local government unit concerned shall take into account the existing facilities of national and local agencies and offices which may serve as the government center as contemplated under this SECTION. The national government, local government unit or government-owned or -controlled corporation concerned shall bear the expenses for the construction of its buildings and facilities in the government center.
 
-SECTION 13. Naming of Local Government Units and Public Places, Streets and Structures.
+Section 13. Naming of Local Government Units and Public Places, Streets and Structures.
 
 (a) The Sangguniang Panlalawigan may, in consultation with the Philippine Historical Commission (PHC), change the name of the following within its territorial jurisdiction: (1) Component cities and municipalities, upon the recommendation of the Sanggunian concerned;
 
@@ -104,13 +106,13 @@ SECTION 13. Naming of Local Government Units and Public Places, Streets and Stru
 
 (g) The change of name of any local government unit shall be effective only upon ratification in a plebiscite conducted for the purpose in the political unit directly affected. In any change of name, the Office of the President, the representative of the legislative district concerned, and the Bureau of Posts shall be notified.
 
-SECTION 14. Beginning of Corporate Existence. - When a new local government unit is created, its corporate existence shall commence upon the election and qualification of its chief executive and a majority of the members of its Sanggunian, unless some other time is fixed therefor by the law or ordinance creating it.
+Section 14. Beginning of Corporate Existence. - When a new local government unit is created, its corporate existence shall commence upon the election and qualification of its chief executive and a majority of the members of its Sanggunian, unless some other time is fixed therefor by the law or ordinance creating it.
 
-SECTION 15. Political and Corporate Nature of Local Government Units. - Every local government unit created or recognized under this Code is a body politic and corporate endowed with powers to be exercised by it in conformity with law. As such, it shall exercise powers as a political subdivision of the national government and as a corporate entity representing the inhabitants of its territory.
+Section 15. Political and Corporate Nature of Local Government Units. - Every local government unit created or recognized under this Code is a body politic and corporate endowed with powers to be exercised by it in conformity with law. As such, it shall exercise powers as a political subdivision of the national government and as a corporate entity representing the inhabitants of its territory.
 
-SECTION 16. General Welfare. - Every local government unit shall exercise the powers expressly granted, those necessarily implied there from, as well as powers necessary, appropriate, or incidental for its efficient and effective governance, and those which are essential to the promotion of the general welfare. Within their respective territorial jurisdictions, local government units shall ensure and support, among other things, the preservation and enrichment of culture, promote health and safety, enhance the right of the people to a balanced ecology, encourage and support the development of appropriate and self-reliant scientific and technological capabilities, improve public morals, enhance economic prosperity and social justice, promote full employment among their residents, maintain peace and order, and preserve the comfort and convenience of their inhabitants.
+Section 16. General Welfare. - Every local government unit shall exercise the powers expressly granted, those necessarily implied there from, as well as powers necessary, appropriate, or incidental for its efficient and effective governance, and those which are essential to the promotion of the general welfare. Within their respective territorial jurisdictions, local government units shall ensure and support, among other things, the preservation and enrichment of culture, promote health and safety, enhance the right of the people to a balanced ecology, encourage and support the development of appropriate and self-reliant scientific and technological capabilities, improve public morals, enhance economic prosperity and social justice, promote full employment among their residents, maintain peace and order, and preserve the comfort and convenience of their inhabitants.
 
-SECTION 17. Basic Services and Facilities.
+Section 17. Basic Services and Facilities.
 
 (a) Local government units shall endeavor to be self-reliant and shall continue exercising the powers and discharging the duties and functions currently vested upon them. They shall also discharge the functions and responsibilities of national agencies and offices devolved to them pursuant to this Code. Local government units shall likewise exercise such other powers and discharge such other functions and responsibilities as are necessary, appropriate, or incidental to efficient and effective provision of the basic services and facilities enumerated herein.
 
@@ -198,11 +200,11 @@ Costs may also be charged for the delivery of basic services or facilities enume
 
 this section.
 
-SECTION 18. Power to Generate and Apply Resources. - Local government units shall have the power and authority to establish an organization that shall be responsible for the efficient and effective implementation of their development plans, program objectives and priorities; to create their own sources of revenue and to levy taxes, fees, and charges which shall accrue exclusively for their use and disposition and which shall be retained by them; to have a just share in national taxes which shall be automatically and directly released to them without need of any further action; to have an equitable share in the proceeds from the utilization and development of the national wealth and resources within their respective territorial jurisdictions including sharing the same with the inhabitants by way of direct benefits; to acquire, develop, lease, encumber, alienate, or otherwise dispose of real or personal property held by them in their proprietary capacity and to apply their resources and assets for productive, developmental, or welfare purposes, in the exercise or furtherance of their governmental or proprietary powers and functions and thereby ensure their development into self-reliant communities and active participants in the attainment of national goals.
+Section 18. Power to Generate and Apply Resources. - Local government units shall have the power and authority to establish an organization that shall be responsible for the efficient and effective implementation of their development plans, program objectives and priorities; to create their own sources of revenue and to levy taxes, fees, and charges which shall accrue exclusively for their use and disposition and which shall be retained by them; to have a just share in national taxes which shall be automatically and directly released to them without need of any further action; to have an equitable share in the proceeds from the utilization and development of the national wealth and resources within their respective territorial jurisdictions including sharing the same with the inhabitants by way of direct benefits; to acquire, develop, lease, encumber, alienate, or otherwise dispose of real or personal property held by them in their proprietary capacity and to apply their resources and assets for productive, developmental, or welfare purposes, in the exercise or furtherance of their governmental or proprietary powers and functions and thereby ensure their development into self-reliant communities and active participants in the attainment of national goals.
 
-SECTION 19. Eminent Domain. - A local government unit may, through its chief executive and acting pursuant to an ordinance, exercise the power of eminent domain for public use, or purpose, or welfare for the benefit of the poor and the landless, upon payment of just compensation, pursuant to the provisions of the Constitution and pertinent laws: Provided, however, That the power of eminent domain may not be exercised unless a valid and definite offer has been previously made to the owner, and such offer was not accepted: Provided, further, That the local government unit may immediately take possession of the property upon the filing of the expropriation proceedings and upon making a deposit with the proper court of at least fifteen percent (15%) of the fair market value of the property based on the current tax declaration of the property to be expropriated: Provided, finally, That, the amount to be paid for the expropriated property shall be determined by the proper court, based on the fair market value at the time of the taking of the property.
+Section 19. Eminent Domain. - A local government unit may, through its chief executive and acting pursuant to an ordinance, exercise the power of eminent domain for public use, or purpose, or welfare for the benefit of the poor and the landless, upon payment of just compensation, pursuant to the provisions of the Constitution and pertinent laws: Provided, however, That the power of eminent domain may not be exercised unless a valid and definite offer has been previously made to the owner, and such offer was not accepted: Provided, further, That the local government unit may immediately take possession of the property upon the filing of the expropriation proceedings and upon making a deposit with the proper court of at least fifteen percent (15%) of the fair market value of the property based on the current tax declaration of the property to be expropriated: Provided, finally, That, the amount to be paid for the expropriated property shall be determined by the proper court, based on the fair market value at the time of the taking of the property.
 
-SECTION 20. Reclassification of Lands.
+Section 20. Reclassification of Lands.
 
 (a) A city or municipality may, through an ordinance passed by the Sanggunian after conducting public hearings for the purpose, authorize the reclassification of agricultural lands and provide for the manner of their utilization or disposition in the following cases: (1) when the land ceases to be economically feasible and sound for agricultural purposes as determined by the Department of Agriculture or (2) where the land shall have substantially greater economic value for residential, commercial, or industrial purposes, as determined by the Sanggunian concerned: Provided, That such reclassification shall be limited to the following percentage of the total agricultural land area at the time of the passage of the ordinance:
 
@@ -216,7 +218,7 @@ SECTION 20. Reclassification of Lands.
 
 (e) Nothing in this section shall be construed as repealing, amending, or modifying in any manner the provisions of R.A. No. 6657.
 
-SECTION 21. Closure and Opening of Roads.
+Section 21. Closure and Opening of Roads.
 
 (a) A local government unit may, pursuant to an ordinance, permanently or temporarily close or open any local road, alley, park, or square falling within its jurisdiction: Provided, however, That in case of permanent closure, such ordinance must be approved by at least two-thirds (2/3) of all the members of the Sanggunian, and when necessary, an adequate substitute for the public facility that is subject to closure is provided.
 
@@ -226,7 +228,7 @@ SECTION 21. Closure and Opening of Roads.
 
 (d) Any city, municipality, or Barangay may, by a duly enacted close and regulate the use of any local ordinance, temporarily street, road, thoroughfare, or any other public place where shopping malls, Sunday, flea or night markets, or shopping areas may be established and where goods, merchandise, foodstuffs, commodities, or articles of commerce may be sold and dispensed to the general public.
 
-SECTION 22. Corporate Powers.
+Section 22. Corporate Powers.
 
 (a) Every local government unit, as a corporation, shall have the following powers: (1) To have continuous succession in its corporate name; (2) To sue and be sued;
 
@@ -246,13 +248,13 @@ place in the provincial capitol or the city, municipal or Barangay hall.
 
 (d) Local government units shall enjoy full autonomy in the exercise of their proprietary functions and in the management of their economic enterprises, subject to the limitations provided in this Code and other applicable laws.
 
-SECTION 23. Authority to Negotiate and Secure Grants. - Local chief executives may, upon authority of the Sanggunian, negotiate and secure financial grants or donations in kind, in support of the basic services or facilities enumerated under Section 17 hereof, from local and foreign assistance agencies without necessity of securing clearance or approval therefor from any department, agency, or office of the national government or from any higher local government unit: Provided, That projects financed by such grants or assistance with national security implications shall be approved by the national agency concerned: Provided, further, That when such national agency fails to act on the request for approval within thirty (30) days from receipt thereof, the same shall be deemed approved.
+Section 23. Authority to Negotiate and Secure Grants. - Local chief executives may, upon authority of the Sanggunian, negotiate and secure financial grants or donations in kind, in support of the basic services or facilities enumerated under Section 17 hereof, from local and foreign assistance agencies without necessity of securing clearance or approval therefor from any department, agency, or office of the national government or from any higher local government unit: Provided, That projects financed by such grants or assistance with national security implications shall be approved by the national agency concerned: Provided, further, That when such national agency fails to act on the request for approval within thirty (30) days from receipt thereof, the same shall be deemed approved.
 
 The local chief executive shall, within thirty (30) days upon signing of such grant agreement or deed of donation, report the nature, amount, and terms of such assistance to both Houses of Congress and the President.
 
-SECTION 24. Liability for Damages. - Local government units and their officials are not exempt from liability for death or injury to persons or damage to property.
+Section 24. Liability for Damages. - Local government units and their officials are not exempt from liability for death or injury to persons or damage to property.
 
-CHAPTER 3. - INTERGOVERNMENTAL RELATIONS
+#### CHAPTER 3. - INTERGOVERNMENTAL RELATIONS
 
 Article One. - National Government and Local Government Units SECTION 25. National Supervision over Local Government Units. -(a) Consistent with the basic policy on local autonomy, the President shall exercise general supervision over local government units to ensure that their acts are within the scope of their prescribed powers and functions. The President shall exercise supervisory authority directly over provinces, highly urbanized cities, and independent component cities; through the province with respect to component cities and municipalities; and through the city and municipality with respect to Barangays.
 
@@ -262,9 +264,9 @@ Article One. - National Government and Local Government Units SECTION 25. Nation
 
 (d) National agencies and offices including government-owned or -controlled corporations with field units or branches in a province, city, or municipality shall furnish the local chief executive concerned, for his information and guidance, monthly reports including duly certified budgetary allocations and expenditures.
 
-SECTION 26. Duty of National Government Agencies in the Maintenance of Ecological Balance. - It shall be the duty of every national agency or government-owned or -controlled corporation authorizing or involved in the planning and implementation of any project or program that may cause pollution, climatic change, depletion of non-renewable resources, loss of crop land, rangeland, or forest cover, and extinction of animal or plant species, to consult with the local government units, nongovernmental organizations, and other sectors concerned and explain the goals and objectives of project or program, its impact upon the people and the community in terms of environmental or ecological balance, and the measures that will be undertaken to prevent or minimize the adverse effects thereof.
+Section 26. Duty of National Government Agencies in the Maintenance of Ecological Balance. - It shall be the duty of every national agency or government-owned or -controlled corporation authorizing or involved in the planning and implementation of any project or program that may cause pollution, climatic change, depletion of non-renewable resources, loss of crop land, rangeland, or forest cover, and extinction of animal or plant species, to consult with the local government units, nongovernmental organizations, and other sectors concerned and explain the goals and objectives of project or program, its impact upon the people and the community in terms of environmental or ecological balance, and the measures that will be undertaken to prevent or minimize the adverse effects thereof.
 
-SECTION 27. Prior Consultations Required.- No project or program shall be implemented by government authorities unless the consultations mentioned in sections 2 (c) and 26 hereof are complied with, and prior approval of the Sanggunian concerned is obtained: Provided, That
+Section 27. Prior Consultations Required.- No project or program shall be implemented by government authorities unless the consultations mentioned in sections 2 (c) and 26 hereof are complied with, and prior approval of the Sanggunian concerned is obtained: Provided, That
 
 occupants in areas where such projects are to be implemented shall not be evicted unless appropriate relocation sites have been provided, in accordance with the provisions of the Constitution.
 
@@ -272,33 +274,33 @@ Article Two. - Relations with the Philippine National Police SECTION 28. - Power
 
 Article Three. - Inter-Local Government Relations
 
-SECTION 29. Provincial Relations with Component Cities and Municipalities. - The province, through the governor, shall ensure that every component city and municipality within its territorial jurisdiction acts within the scope of its prescribed powers and functions. Highly urbanized cities and independent component cities shall be independent of the province.
+Section 29. Provincial Relations with Component Cities and Municipalities. - The province, through the governor, shall ensure that every component city and municipality within its territorial jurisdiction acts within the scope of its prescribed powers and functions. Highly urbanized cities and independent component cities shall be independent of the province.
 
-SECTION 30. Review of Executive Orders. - (a) Except as otherwise provided under the Constitution and special statutes, the governor shall review all executive orders promulgated by the component city or municipal Mayor within his jurisdiction. The city or municipal Mayor shall review all executive orders promulgated by the Punong Barangay within his jurisdiction. Copies of such orders shall be forwarded to the governor or the city or municipal Mayor, as the case may be, within three (3) days from their issuance. In all instances of review, the local chief executive concerned shall ensure that such executive orders are within the powers granted by law and in conformity with provincial, city, or municipal ordinances.
+Section 30. Review of Executive Orders. - (a) Except as otherwise provided under the Constitution and special statutes, the governor shall review all executive orders promulgated by the component city or municipal Mayor within his jurisdiction. The city or municipal Mayor shall review all executive orders promulgated by the Punong Barangay within his jurisdiction. Copies of such orders shall be forwarded to the governor or the city or municipal Mayor, as the case may be, within three (3) days from their issuance. In all instances of review, the local chief executive concerned shall ensure that such executive orders are within the powers granted by law and in conformity with provincial, city, or municipal ordinances.
 
 (b) If the governor or the city or municipal Mayor fails to act on said executive orders within thirty (30) days after their submission, the same shall be deemed consistent with law and therefore valid.
 
-SECTION 31. Submission of Municipal Questions to the Provincial Legal Officer or Prosecutor.
+Section 31. Submission of Municipal Questions to the Provincial Legal Officer or Prosecutor.
 
 - In the absence of a municipal legal officer, the municipal government may secure the opinion of the provincial legal officer, and in the absence of the latter, that of the provincial prosecutor on any legal question affecting the municipality.
 
 SECTION. 32. City and Municipal Supervision over their respective Barangays. - The city or municipality, through the city or municipal Mayor concerned, shall exercise general supervision over component Barangays to ensure that said Barangays act within the scope of their prescribed powers and functions.
 
-SECTION 33. Cooperative Undertakings Among Local Government Units. - Local government units may, through appropriate ordinances, group themselves, consolidate, or coordinate their efforts, services, and resources for purposes commonly beneficial to them. In support of such undertakings, the local government units involved may, upon approval by the Sanggunian concerned after a public hearing conducted for the purpose, contribute funds, real estate, equipment, and other kinds of property and appoint or assign personnel under such terms and conditions as may be agreed upon by the participating local units through Memoranda of Agreement.
+Section 33. Cooperative Undertakings Among Local Government Units. - Local government units may, through appropriate ordinances, group themselves, consolidate, or coordinate their efforts, services, and resources for purposes commonly beneficial to them. In support of such undertakings, the local government units involved may, upon approval by the Sanggunian concerned after a public hearing conducted for the purpose, contribute funds, real estate, equipment, and other kinds of property and appoint or assign personnel under such terms and conditions as may be agreed upon by the participating local units through Memoranda of Agreement.
 
-CHAPTER 4. - RELATIONS WITH PEOPLE'S AND NONGOVERNMENTAL ORGANIZATIONS
+#### CHAPTER 4. - RELATIONS WITH PEOPLE'S AND NONGOVERNMENTAL ORGANIZATIONS
 
-SECTION 34. Role of People's and Non-governmental Organizations. - Local government units shall promote the establishment and operation of people's and non-governmental organizations to become active partners in the pursuit of local autonomy.
+Section 34. Role of People's and Non-governmental Organizations. - Local government units shall promote the establishment and operation of people's and non-governmental organizations to become active partners in the pursuit of local autonomy.
 
-SECTION 35. Linkages with People's and Non-Governmental Organizations. - Local government units may enter into joint ventures and such other cooperative arrangements with people's and non-governmental organizations to engage in the delivery of certain basic services, capability-building and livelihood projects, and to develop local enterprises designed to improve productivity and income, diversify agriculture, spur rural industrialization, promote ecological
+Section 35. Linkages with People's and Non-Governmental Organizations. - Local government units may enter into joint ventures and such other cooperative arrangements with people's and non-governmental organizations to engage in the delivery of certain basic services, capability-building and livelihood projects, and to develop local enterprises designed to improve productivity and income, diversify agriculture, spur rural industrialization, promote ecological
 
 balance, and enhance the economic and social well-being of the people.
 
-SECTION 36. Assistance to People's and Non-governmental Organizations. - A local government unit may, through its local chief executive and with the concurrence of the Sanggunian concerned, provide assistance, financial or otherwise, to such people's and non-governmental organizations for economic, socially-oriented, environmental, or cultural projects to be implemented within its territorial jurisdiction.
+Section 36. Assistance to People's and Non-governmental Organizations. - A local government unit may, through its local chief executive and with the concurrence of the Sanggunian concerned, provide assistance, financial or otherwise, to such people's and non-governmental organizations for economic, socially-oriented, environmental, or cultural projects to be implemented within its territorial jurisdiction.
 
-CHAPTER 5. - LOCAL PREQUALIFICATION, BIDS AND AWARDS COMMITTEE
+#### CHAPTER 5. - LOCAL PREQUALIFICATION, BIDS AND AWARDS COMMITTEE
 
-SECTION 37. Local Pre-qualification, Bids and Awards Committee (Local PBAC).
+Section 37. Local Pre-qualification, Bids and Awards Committee (Local PBAC).
 
 (a) There is hereby created a local pre-qualification, bids and awards committee in every province, city, and municipality, which shall be primarily responsible for the conduct of pre-qualification of contractors, bidding, evaluation of bids, and the recommendation of awards concerning local infrastructure projects. The governor or the city or municipal Mayor shall act as the chairman with the following as members:
 
@@ -312,15 +314,15 @@ Representatives of the Commission on Audit shall observe the proceedings of such
 
 (c) All meetings of the committee shall be held in the provincial capitol or the city or municipal hall. The minutes of such meetings of the committee and any decision made therein shall be duly recorded, posted at a prominent place in the provincial capitol or the city or municipal hall, and delivered by the most expedient means to elective local officials concerned.
 
-SECTION 38. Local Technical Committee. - (a) There is hereby created a local technical committee in every province, city and municipality to provide technical assistance to the local pre-qualification, bids and awards committees. It shall be composed of the provincial, city or municipal engineer, the local planning and development coordinator, and such other officials designated by the local pre-qualification bids and awards committee.
+Section 38. Local Technical Committee. - (a) There is hereby created a local technical committee in every province, city and municipality to provide technical assistance to the local pre-qualification, bids and awards committees. It shall be composed of the provincial, city or municipal engineer, the local planning and development coordinator, and such other officials designated by the local pre-qualification bids and awards committee.
 
 (b) The chairman of the local technical committee shall be designated by the local pre-qualification, bids and awards committee and shall attend its meeting in order to present the reports and recommendations of the local technical committee.
 
-TITLE TWO. - ELECTIVE OFFICIALS
+### TITLE TWO. - ELECTIVE OFFICIALS
 
-CHAPTER 1. - QALIFICATIONS AND ELECTION
+#### CHAPTER 1. - QALIFICATIONS AND ELECTION
 
-SECTION 39. Qualifications. - (a) An elective local official must be a citizen of the Philippines; a registered voter in the Barangay, municipality, city, or province or, in the case of a member of the Sangguniang Panlalawigan, Sangguniang Panlungsod, or Sanggunian bayan, the district where he intends to be elected; a resident therein for at least one (1) year immediately preceding the day of
+Section 39. Qualifications. - (a) An elective local official must be a citizen of the Philippines; a registered voter in the Barangay, municipality, city, or province or, in the case of a member of the Sangguniang Panlalawigan, Sangguniang Panlungsod, or Sanggunian bayan, the district where he intends to be elected; a resident therein for at least one (1) year immediately preceding the day of
 
 the election; and able to read and write Filipino or any other local language or dialect.
 
@@ -334,7 +336,7 @@ the election; and able to read and write Filipino or any other local language or
 
 (f) Candidates for the Sangguniang kabataan must be at least fifteen (15) years of age but not more than twenty-one (21) years of age on election day.
 
-SECTION 40. Disqualifications. - The following persons are disqualified from running for any elective local position:
+Section 40. Disqualifications. - The following persons are disqualified from running for any elective local position:
 
 (a) Those sentenced by final judgment for an offense involving moral turpitude or for an offense punishable by one (1) year or more of imprisonment, within two (2) years after serving sentence;
 
@@ -342,7 +344,7 @@ SECTION 40. Disqualifications. - The following persons are disqualified from run
 
 (e) Fugitives from justice in criminal or nonpolitical cases here or abroad; (f) Permanent residents in a foreign country or those who have acquired the right to reside abroad and continue to avail of the same right after the effectivity of this Code; and (g) The insane or feeble-minded.
 
-SECTION 41. Manner of Election. - (a) The governor, vice-governor, city Mayor, city vice-mayor, municipal Mayor, municipal vice-mayor, and Punong Barangay shall be elected at large in their respective units by the qualified voters therein. However, the Sangguniang kabataan chairman for each Barangay shall be elected by the registered voters of the katipunan ng kabataan, as provided in this Code.
+Section 41. Manner of Election. - (a) The governor, vice-governor, city Mayor, city vice-mayor, municipal Mayor, municipal vice-mayor, and Punong Barangay shall be elected at large in their respective units by the qualified voters therein. However, the Sangguniang kabataan chairman for each Barangay shall be elected by the registered voters of the katipunan ng kabataan, as provided in this Code.
 
 (b) The regular members of the Sangguniang Panlalawigan, Sangguniang Panlungsod, and Sangguniang bayan shall be elected by district, as may be provided for by law.
 
@@ -350,9 +352,9 @@ Sangguniang Barangay members shall be elected at large. The presidents of the le
 
 (c) In addition thereto, there shall be one (1) sectoral representative from the women, one (1) from the workers, and one (1) from any of the following sectors: the urban poor, indigenous cultural communities, disabled persons, or any other sector as may be determined by the Sanggunian concerned within ninety (90) days prior to the holding of the next local elections, as may be provided for by law. The Comelec shall promulgate the rules and regulations to effectively provide for the election of such sectoral representatives.
 
-SECTION 42. Date of Election. - Unless otherwise provided by law, the elections for local officials shall be held every three (3) years on the second Monday of May.
+Section 42. Date of Election. - Unless otherwise provided by law, the elections for local officials shall be held every three (3) years on the second Monday of May.
 
-SECTION 43. Term of Office. - (a) The term of office of all local elective officials elected after the effectivity of this Code shall be three (3) years, starting from noon of June 30, 1992 or such date as may be provided for by law, except that of elective Barangay officials: Provided, That all local officials first elected during the local elections immediately following the ratification of the 1987
+Section 43. Term of Office. - (a) The term of office of all local elective officials elected after the effectivity of this Code shall be three (3) years, starting from noon of June 30, 1992 or such date as may be provided for by law, except that of elective Barangay officials: Provided, That all local officials first elected during the local elections immediately following the ratification of the 1987
 
 Constitution shall serve until noon of June 30, 1992.
 
@@ -360,9 +362,9 @@ Constitution shall serve until noon of June 30, 1992.
 
 (c) The term of office of Barangay officials and members of the Sangguniang kabataan shall be for three (3) years, which shall begin after the regular election of Barangay officials on the second Monday of May 1994.
 
-CHAPTER 2. - VACANCIES AND SUCCESSION
+#### CHAPTER 2. - VACANCIES AND SUCCESSION
 
-SECTION 44. Permanent Vacancies in the Offices of the Governor, Vice-Governor, Mayor, and Vice-Mayor. - If a permanent vacancy occurs in the office of the governor or Mayor, the vice-governor or vice-mayor concerned shall become the governor or Mayor. If a permanent vacancy occurs in the offices of the governor, vice-governor, Mayor, or vice-mayor, the highest ranking Sanggunian member or, in case of his permanent inability, the second highest ranking Sanggunian member, shall become the governor, vice-governor, Mayor or vice-mayor, as the case may be.
+Section 44. Permanent Vacancies in the Offices of the Governor, Vice-Governor, Mayor, and Vice-Mayor. - If a permanent vacancy occurs in the office of the governor or Mayor, the vice-governor or vice-mayor concerned shall become the governor or Mayor. If a permanent vacancy occurs in the offices of the governor, vice-governor, Mayor, or vice-mayor, the highest ranking Sanggunian member or, in case of his permanent inability, the second highest ranking Sanggunian member, shall become the governor, vice-governor, Mayor or vice-mayor, as the case may be.
 
 Subsequent vacancies in the said office shall be filled automatically by the other Sanggunian members according to their ranking as defined herein.
 
@@ -374,7 +376,7 @@ Subsequent vacancies in the said office shall be filled automatically by the oth
 
 For purposes of succession as provided in this Chapter, ranking in the Sanggunian shall be determined on the basis of the proportion of votes obtained by each winning candidate to the total number of registered voters in each district in the immediately preceding local election.
 
-SECTION 45. Permanent Vacancies in the Sanggunian.
+Section 45. Permanent Vacancies in the Sanggunian.
 
 (a) Permanent vacancies in the Sanggunian where automatic successions provided above do not apply shall be filled by appointment in the following manner: (1) The President, through the Executive Secretary, in the case of the Sangguniang Panlalawigan and the Sangguniang Panlungsod of highly urbanized cities and independent component cities;
 
@@ -390,7 +392,7 @@ that of the Sanggunian member who caused the vacancy and shall serve the unexpir
 
 (d) In case of vacancy in the representation of the youth and the Barangay in the Sanggunian, said vacancy shall be filled automatically by the official next in rank of the organization concerned.
 
-SECTION 46. Temporary Vacancy in the Office of the Local Chief Executive. - (a) When the governor, city or municipal Mayor, or Punong Barangay is temporarily incapacitated to perform his duties for physical or legal reasons such as, but not limited to, leave of absence, travel abroad, and suspension from office, the vice-governor, city or municipal vice-mayor, or the highest ranking Sangguniang Barangay member shall automatically exercise the powers and perform the duties and functions of the local chief executive concerned, except the power to appoint, suspend, or dismiss employees which can only be exercised if the period of temporary incapacity exceeds thirty (30) working days.
+Section 46. Temporary Vacancy in the Office of the Local Chief Executive. - (a) When the governor, city or municipal Mayor, or Punong Barangay is temporarily incapacitated to perform his duties for physical or legal reasons such as, but not limited to, leave of absence, travel abroad, and suspension from office, the vice-governor, city or municipal vice-mayor, or the highest ranking Sangguniang Barangay member shall automatically exercise the powers and perform the duties and functions of the local chief executive concerned, except the power to appoint, suspend, or dismiss employees which can only be exercised if the period of temporary incapacity exceeds thirty (30) working days.
 
 (b) Said temporary incapacity shall terminate upon submission to the appropriate Sanggunian of a written declaration by the local chief executive concerned that he has reported back to office. In cases where the temporary incapacity is due to legal causes, the local chief executive concerned shall also submit necessary documents showing that said legal causes no longer exist.
 
@@ -400,7 +402,7 @@ SECTION 46. Temporary Vacancy in the Office of the Local Chief Executive. - (a) 
 
 (e) Except as provided above, the local chief executive shall in no case authorize any local official to assume the powers, duties, and functions of the office, other than the vice-governor, the city or municipal vice- Mayor, or the highest ranking Sangguniang Barangay member, as the case may be.
 
-SECTION 47. Approval of Leaves of Absence. - (a) Leaves of absence of local elective officials shall be approved as follows:
+Section 47. Approval of Leaves of Absence. - (a) Leaves of absence of local elective officials shall be approved as follows:
 
 (1) Leaves of absence of the governor and the Mayor of a highly urbanized city or an independent component city shall be approved by the President or his duly authorized representative;
 
@@ -412,17 +414,17 @@ SECTION 47. Approval of Leaves of Absence. - (a) Leaves of absence of local elec
 
 (b) Whenever the application for leave of absence hereinabove specified is not acted upon within five (5) working days after receipt thereof, the application for leave of absence shall be deemed approved.
 
-CHAPTER 3. - LOCAL LEGISLATION
+#### CHAPTER 3. - LOCAL LEGISLATION
 
-SECTION 48. Local Legislative Power. - Local legislative power shall be exercised by the Sangguniang Panlalawigan for the province; the Sangguniang Panlungsod for the city; the Sangguniang bayan for the municipality; and the Sangguniang Barangay for the Barangay.
+Section 48. Local Legislative Power. - Local legislative power shall be exercised by the Sangguniang Panlalawigan for the province; the Sangguniang Panlungsod for the city; the Sangguniang bayan for the municipality; and the Sangguniang Barangay for the Barangay.
 
-SECTION 49. Presiding Officer. - (a) The vice-governor shall be the presiding officer of the Sangguniang Panlalawigan; the city vice-mayor, of the Sangguniang Panlungsod; the municipal vice-mayor, of the Sangguniang bayan; and the Punong Barangay, of the Sangguniang Barangay.
+Section 49. Presiding Officer. - (a) The vice-governor shall be the presiding officer of the Sangguniang Panlalawigan; the city vice-mayor, of the Sangguniang Panlungsod; the municipal vice-mayor, of the Sangguniang bayan; and the Punong Barangay, of the Sangguniang Barangay.
 
 The presiding officer shall vote only to break a tie.
 
 (b) In the event of the inability of the regular Presiding officer to preside at a Sanggunian session, the members present and constituting a quorum shall elect from among themselves a temporary presiding officer. He shall certify within ten (10) days from the passage of ordinances enacted and resolutions adopted by the Sanggunian in the session over which he temporarily presided.
 
-SECTION 50. Internal Rules of Procedure. - (a) On the first regular session following the election of its members and within ninety (90) days thereafter, the Sanggunian concerned shall adopt or update its existing rules of procedure.
+Section 50. Internal Rules of Procedure. - (a) On the first regular session following the election of its members and within ninety (90) days thereafter, the Sanggunian concerned shall adopt or update its existing rules of procedure.
 
 (b) The rules of procedure shall provide for the following: (1) The organization of the Sanggunian and the election of its officers as well as the creation of standing committees which shall include, but shall not be limited to, the committees on appropriations, women and family, human rights, youth and sports development, environmental protection, and cooperatives; the general jurisdiction of each committee; and the election of the chairman and members of each committee; (2) The order and calendar of business for each session; (3) The legislative process;
 
@@ -430,7 +432,7 @@ SECTION 50. Internal Rules of Procedure. - (a) On the first regular session foll
 
 (6) Such other rules as the Sanggunian may adopt.
 
-SECTION 51. Full Disclosure of Financial and Business Interests of Sanggunian Members. -
+Section 51. Full Disclosure of Financial and Business Interests of Sanggunian Members. -
 
 (a) Every Sanggunian member shall, upon assumption to office, make a full disclosure of his business and financial interests. He shall also disclose any business, financial, or professional relationship or any relation by affinity or consanguinity within the fourth civil degree, which he may have with any person, firm, or entity affected by any ordinance or resolution under consideration by the Sanggunian of which he is a member, which relationship may result in conflict of interest. Such relationship shall include:
 
@@ -446,7 +448,7 @@ The disclosure shall, in all cases, form part of the record of the proceedings a
 
 (1) Disclosure shall be made before the member participates in the deliberations on the ordinance or resolution under consideration: Provided, That, if the member did not participate during the deliberations, the disclosure shall be made before voting on the ordinance or resolution on second and third readings; and (2) Disclosure shall be made when a member takes a position or makes a privilege speech on a matter that may affect the business interest, financial connection, or professional relationship described herein.
 
-SECTION 52. Sessions. - (a) On the first day of the session immediately following the election of its members, the Sanggunian shall, by resolution, fix the day, time, and place of its regular sessions. The minimum number of regular sessions shall be once a week for the Sangguniang Panlalawigan, Sangguniang Panlungsod, and Sangguniang bayan, and twice a month for the Sangguniang Barangay.
+Section 52. Sessions. - (a) On the first day of the session immediately following the election of its members, the Sanggunian shall, by resolution, fix the day, time, and place of its regular sessions. The minimum number of regular sessions shall be once a week for the Sangguniang Panlalawigan, Sangguniang Panlungsod, and Sangguniang bayan, and twice a month for the Sangguniang Barangay.
 
 (b) When public interest so demands, special sessions may be called by the local chief executive or by a majority of the members of the Sanggunian.
 
@@ -456,13 +458,13 @@ SECTION 52. Sessions. - (a) On the first day of the session immediately followin
 
 (e) Each Sanggunian shall keep a journal and record of its proceedings which may be published upon resolution of the Sanggunian concerned.
 
-SECTION 53. Quorum. - (a) A majority of all the members of the Sanggunian who have been elected and qualified shall constitute a quorum to transact official business. Should a question of quorum be raised during a session, the presiding officer shall immediately proceed to call the roll of the members and thereafter announce the results.
+Section 53. Quorum. - (a) A majority of all the members of the Sanggunian who have been elected and qualified shall constitute a quorum to transact official business. Should a question of quorum be raised during a session, the presiding officer shall immediately proceed to call the roll of the members and thereafter announce the results.
 
 (b) Where there is no quorum, the presiding officer may declare a recess until such time as a quorum is constituted, or a majority of the members present may adjourn from day to day and may compel the immediate attendance of any member absent without justifiable cause by designating a member of the Sanggunian, to be assisted by a member or members of the police force assigned in the territorial jurisdiction of the local government unit concerned, to arrest the absent member and present him at the session.
 
 (c) If there is still no quorum despite the enforcement of the immediately preceding subsection, no business shall be transacted. The presiding officer, upon proper motion duly approved by the members present, shall then declare the session adjourned for lack of quorum.
 
-SECTION 54. Approval of Ordinances. - (a) Every ordinance enacted by the Sangguniang
+Section 54. Approval of Ordinances. - (a) Every ordinance enacted by the Sangguniang
 
 Panlalawigan, Sangguniang Panlungsod, or Sangguniang bayan shall be presented to the provincial governor or city or municipal mayor, as the case may be. If the local chief executive concerned approves the same, he shall affix his signature on each and every page thereof; otherwise, he shall veto it and return the same with his objections to the Sanggunian, which may proceed to reconsider the same. The Sanggunian concerned may override the veto of the local chief executive by two-thirds (2/3) vote of all its members, thereby making the ordinance or resolution effective for all legal intents and purposes.
 
@@ -470,13 +472,13 @@ Panlalawigan, Sangguniang Panlungsod, or Sangguniang bayan shall be presented to
 
 (c) Ordinances enacted by the Sangguniang Barangay shall, upon approval by the majority of all its members, be signed by the Punong Barangay.
 
-SECTION 55. Veto Power of the Local Chief Executive. - (a) The local chief executive may veto any ordinance of the Sangguniang Panlalawigan, Sangguniang Panlungsod, or Sangguniang bayan on the ground that it is ultra vires or prejudicial to the public welfare, stating his reasons therefor in writing.
+Section 55. Veto Power of the Local Chief Executive. - (a) The local chief executive may veto any ordinance of the Sangguniang Panlalawigan, Sangguniang Panlungsod, or Sangguniang bayan on the ground that it is ultra vires or prejudicial to the public welfare, stating his reasons therefor in writing.
 
 (b) The local chief executive, except the Punong Barangay, shall have the power to veto any particular item or items of an appropriations ordinance, an ordinance or resolution adopting a local development plan and public investment program, or an ordinance directing the payment of money or creating liability. In such a case, the veto shall not affect the item or items which are not objected to. The vetoed item or items shall not take effect unless the Sanggunian overrides the veto in the manner herein provided; otherwise, the item or items in the appropriations ordinance of the previous year corresponding to those vetoed, if any, shall be deemed reenacted.
 
 (c) The local chief executive may veto an ordinance or resolution only once. The Sanggunian may override the veto of the local chief executive concerned by two-thirds (2/3) vote of all its members, thereby making the ordinance effective even without the approval of the local chief executive concerned.
 
-SECTION 56. Review of Component City and Municipal Ordinances or Resolutions by the Sangguniang Panlalawigan. - (a) Within three (3) days after approval, the secretary to the Sanggunian Panlungsod or Sangguniang bayan shall forward to the Sangguniang Panlalawigan for review, copies of approved ordinances and the resolutions approving the local development plans and public investment programs formulated by the local development councils.
+Section 56. Review of Component City and Municipal Ordinances or Resolutions by the Sangguniang Panlalawigan. - (a) Within three (3) days after approval, the secretary to the Sanggunian Panlungsod or Sangguniang bayan shall forward to the Sangguniang Panlalawigan for review, copies of approved ordinances and the resolutions approving the local development plans and public investment programs formulated by the local development councils.
 
 (b) Within thirty (30) days after receipt of copies of such ordinances and resolutions, the Sangguniang Panlalawigan shall examine the documents or transmit them to the provincial attorney, or if there be none, to the provincial prosecutor for prompt examination. The provincial attorney or provincial prosecutor shall, within a period of ten (10) days from receipt of the documents, inform the Sangguniang Panlalawigan in writing of his comments or recommendations, which may be considered by the Sangguniang Panlalawigan in making its decision.
 
@@ -484,15 +486,15 @@ SECTION 56. Review of Component City and Municipal Ordinances or Resolutions by 
 
 (d) If no action has been taken by the Sangguniang Panlalawigan within thirty (30) days after submission of such an ordinance or resolution, the same shall be presumed consistent with law and therefore valid.
 
-SECTION 57. Review of Barangay Ordinances by the Sangguniang Panlungsod or Sangguniang Bayan. - (a) Within ten (10) days after its enactment, the Sangguniang Barangay shall furnish copies of all Barangay ordinances to the Sangguniang Panlungsod or Sangguniang bayan concerned for review as to whether the ordinance is consistent with law and city or municipal ordinances.
+Section 57. Review of Barangay Ordinances by the Sangguniang Panlungsod or Sangguniang Bayan. - (a) Within ten (10) days after its enactment, the Sangguniang Barangay shall furnish copies of all Barangay ordinances to the Sangguniang Panlungsod or Sangguniang bayan concerned for review as to whether the ordinance is consistent with law and city or municipal ordinances.
 
 (b) If the Sangguniang Panlungsod or Sangguniang bayan, as the case may be, fails to take action on Barangay ordinances within thirty (30) days from receipt thereof, the same shall be deemed approved.
 
 (c) If the Sangguniang Panlungsod or Sangguniang bayan, as the case may be, finds the Barangay ordinances inconsistent with law or city or municipal ordinances, the Sanggunian concerned shall, within thirty (30) days from receipt thereof, return the same with its comments and recommendations to the Sangguniang Barangay concerned for adjustment, amendment, or modification; in which case, the effectivity of the Barangay ordinance is suspended until such time as the revision called for is effected.
 
-SECTION 58. Enforcement of Disapproved ordinances or Resolutions. - Any attempt to enforce any ordinance or any resolution approving the local development plan and public investment program, after the disapproval thereof, shall be sufficient ground for the suspension or dismissal of the official or employee concerned.
+Section 58. Enforcement of Disapproved ordinances or Resolutions. - Any attempt to enforce any ordinance or any resolution approving the local development plan and public investment program, after the disapproval thereof, shall be sufficient ground for the suspension or dismissal of the official or employee concerned.
 
-SECTION 59. Effectivity of Ordinances or Resolutions. (a) Unless otherwise stated in the ordinance or the resolution approving the local development plan and public investment program, the same shall take effect after ten (10) days from the date a copy thereof is posted in a bulletin board at the entrance of the provincial capitol or city, municipal, or Barangay hall, as the case may be, and in at least two (2) other conspicuous places in the local government unit concerned.
+Section 59. Effectivity of Ordinances or Resolutions. (a) Unless otherwise stated in the ordinance or the resolution approving the local development plan and public investment program, the same shall take effect after ten (10) days from the date a copy thereof is posted in a bulletin board at the entrance of the provincial capitol or city, municipal, or Barangay hall, as the case may be, and in at least two (2) other conspicuous places in the local government unit concerned.
 
 (b) The secretary to the Sanggunian concerned shall cause the posting of an ordinance or resolution in the bulletin board at the entrance of the provincial capitol and the city, municipal, or Barangay hall in at least two (2) conspicuous places in the local government unit concerned not later than five (5) days after approval thereof.
 
@@ -504,9 +506,9 @@ In the absence of any newspaper of general circulation within the province, post
 
 (d) In the case of highly urbanized cities, the main features of the ordinance or resolution duly enacted or adopted shall, in addition to being posted, be published once in a local newspaper of general circulation within the city: Provided, That in the absence thereof the ordinance or resolution shall be published in any newspaper of general circulation.
 
-CHAPTER 4. - DISCIPLINARY ACTIONS
+#### CHAPTER 4. - DISCIPLINARY ACTIONS
 
-SECTION 60. Grounds for Disciplinary Actions. - An elective local official may be disciplined, suspended, or removed from office on any of the following grounds: (a) Disloyalty to the Republic of the Philippines;
+Section 60. Grounds for Disciplinary Actions. - An elective local official may be disciplined, suspended, or removed from office on any of the following grounds: (a) Disloyalty to the Republic of the Philippines;
 
 (b) Culpable violation of the Constitution;
 
@@ -520,13 +522,13 @@ SECTION 60. Grounds for Disciplinary Actions. - An elective local official may b
 
 (h) Such other grounds as may be provided in this Code and other laws. An elective local official may be removed from office on the grounds enumerated above by order of the proper court.
 
-SECTION 61. Form and Filing of Administrative Complaints. - A verified complaint against any erring local elective official shall be prepared as follows: (a) A complaint against any elective official of a province, a highly urbanized city, an independent component city or component city shall be filed before the Office of the President;
+Section 61. Form and Filing of Administrative Complaints. - A verified complaint against any erring local elective official shall be prepared as follows: (a) A complaint against any elective official of a province, a highly urbanized city, an independent component city or component city shall be filed before the Office of the President;
 
 (b) A complaint against any elective official of a municipality shall be filed before the Sangguniang Panlalawigan whose decision may be appealed to the Office of the President; and
 
 (c) A complaint against any elective Barangay official shall be filed before the Sangguniang Panlungsod or Sangguniang bayan concerned whose decision shall be final and executory.
 
-SECTION 62. Notice of Hearing. - (a) Within seven (7) days after the administrative complaint is filed, the Office of the President or the Sanggunian concerned, as the case may be, shall require the respondent to submit his verified answer within fifteen (15) days from receipt thereof, and commence the investigation of the case within ten (10) days after receipt of such answer of the respondent.
+Section 62. Notice of Hearing. - (a) Within seven (7) days after the administrative complaint is filed, the Office of the President or the Sanggunian concerned, as the case may be, shall require the respondent to submit his verified answer within fifteen (15) days from receipt thereof, and commence the investigation of the case within ten (10) days after receipt of such answer of the respondent.
 
 (b) When the respondent is an elective official of a province or highly urbanized city, such hearing and investigation shall be conducted in the place where he renders or holds office.
 
@@ -534,7 +536,7 @@ For all other local elective officials, the venue shall be the place where the S
 
 (c) However, no investigation shall be held within ninety (90) days immediately prior to any local election, and no preventive suspension shall be imposed within the said period. If preventive suspension has been imposed prior to the 90-day period immediately preceding local election, it shall be deemed automatically lifted upon the start of aforesaid period.
 
-SECTION 63. Preventive Suspension.
+Section 63. Preventive Suspension.
 
 (a) Preventive suspension may be imposed:
 
@@ -552,29 +554,29 @@ deemed reinstated in office without prejudice to the continuation of the proceed
 
 (d) Any abuse of the exercise of the power of preventive suspension shall be penalized as abuse of authority.
 
-SECTION 64. Salary of Respondent Pending Suspension. - The respondent official preventively suspended from office shall receive no salary or compensation during such suspension; but, upon subsequent exoneration and reinstatement, he shall be paid full salary or compensation including such emoluments accruing during such suspension.
+Section 64. Salary of Respondent Pending Suspension. - The respondent official preventively suspended from office shall receive no salary or compensation during such suspension; but, upon subsequent exoneration and reinstatement, he shall be paid full salary or compensation including such emoluments accruing during such suspension.
 
-SECTION 65. Rights of Respondent - The respondent shall be accorded full opportunity to appear and defend himself in person or by counsel, to confront and cross-examine the witnesses against him, and to require the attendance of witnesses and the production of documentary evidence in his favor through the compulsory process of subpoena or subpoena duces tecum.
+Section 65. Rights of Respondent - The respondent shall be accorded full opportunity to appear and defend himself in person or by counsel, to confront and cross-examine the witnesses against him, and to require the attendance of witnesses and the production of documentary evidence in his favor through the compulsory process of subpoena or subpoena duces tecum.
 
-SECTION 66. Form and Notice of Decision. - (a) The investigation of the case shall be terminated within ninety (90) days from the start thereof. Within thirty (30) days after the end of the investigation, the Office of the President or the Sanggunian concerned shall render a decision in writing stating clearly and distinctly the facts and the reasons for such decision. Copies of said decision shall immediately be furnished the respondent and all interested parties.
+Section 66. Form and Notice of Decision. - (a) The investigation of the case shall be terminated within ninety (90) days from the start thereof. Within thirty (30) days after the end of the investigation, the Office of the President or the Sanggunian concerned shall render a decision in writing stating clearly and distinctly the facts and the reasons for such decision. Copies of said decision shall immediately be furnished the respondent and all interested parties.
 
 (b) The penalty of suspension shall not exceed the unexpired term of the respondent or a period of six (6) months for every administrative offense, nor shall said penalty be a bar to the candidacy of the respondent so suspended as long as he meets the qualifications required for the office.
 
 (c) The penalty of removal from office as a result of an administrative investigation shall be considered a bar to the candidacy of the respondent for any elective position.
 
-SECTION 67. Administrative Appeals. - Decisions in administrative cases may, within thirty (30) days from receipt thereof, be appealed to the following: (a) The Sangguniang Panlalawigan, in the case of decisions of the Sangguniang Panlungsod of component cities and the Sangguniang bayan; and
+Section 67. Administrative Appeals. - Decisions in administrative cases may, within thirty (30) days from receipt thereof, be appealed to the following: (a) The Sangguniang Panlalawigan, in the case of decisions of the Sangguniang Panlungsod of component cities and the Sangguniang bayan; and
 
 (b) The Office of the President, in the case of decisions of the Sangguniang Panlalawigan and the Sangguniang Panlungsod of highly urbanized cities and independent component cities.
 
 Decisions of the Office of the President shall be final and executory.
 
-SECTION 68. Execution Pending Appeal. - An appeal shall not prevent a decision from becoming final or executory. The respondent shall be considered as having been placed under preventive suspension during the pendency of an appeal in the event he wins such appeal. In the event the appeal results in an exoneration, he shall be paid his salary and such other emoluments during the pendency of the appeal.
+Section 68. Execution Pending Appeal. - An appeal shall not prevent a decision from becoming final or executory. The respondent shall be considered as having been placed under preventive suspension during the pendency of an appeal in the event he wins such appeal. In the event the appeal results in an exoneration, he shall be paid his salary and such other emoluments during the pendency of the appeal.
 
-CHAPTER 5. - RECALL
+#### CHAPTER 5. - RECALL
 
-SECTION 69. By Whom Exercised. - The power of recall for loss of confidence shall be exercised by the registered voters of a local government unit to which the local elective official subject to such recall belongs.
+Section 69. By Whom Exercised. - The power of recall for loss of confidence shall be exercised by the registered voters of a local government unit to which the local elective official subject to such recall belongs.
 
-SECTION 70. Initiation of the Recall Process. - (a) Recall may be initiated by a preparatory recall assembly or by the registered voters of the local government unit to which the local elective official subject to such recall belongs.
+Section 70. Initiation of the Recall Process. - (a) Recall may be initiated by a preparatory recall assembly or by the registered voters of the local government unit to which the local elective official subject to such recall belongs.
 
 (b) There shall be a preparatory recall assembly in every province, city, district, and municipality which shall be composed of the following:
 
@@ -594,39 +596,39 @@ municipalities and component cities;
 
 (2) Upon the lapse of the aforesaid period, the Comelec or its duly authorized representative shall announce the acceptance of candidates to the position and thereafter prepare the list of candidates which shall include the name of the official sought to be recalled.
 
-SECTION 71. Election on Recall. - Upon the filing of a valid resolution or petition for recall with the appropriate local office of the Comelec, the Commission or its duly authorized representative shall set the date of the election on recall, which shall not be later than thirty (30) days after the filing of the resolution or petition for recall in the case of the Barangay, city, or municipal officials, and forty-five (45) days in the case of provincial officials. The official or officials sought to be recalled shall automatically be considered as duly registered candidate or candidates to the pertinent positions and, like other candidates, shall be entitled to be voted upon.
+Section 71. Election on Recall. - Upon the filing of a valid resolution or petition for recall with the appropriate local office of the Comelec, the Commission or its duly authorized representative shall set the date of the election on recall, which shall not be later than thirty (30) days after the filing of the resolution or petition for recall in the case of the Barangay, city, or municipal officials, and forty-five (45) days in the case of provincial officials. The official or officials sought to be recalled shall automatically be considered as duly registered candidate or candidates to the pertinent positions and, like other candidates, shall be entitled to be voted upon.
 
-SECTION 72. Effectivity of Recall. - The recall of an elective local official shall be effective only upon the election and proclamation of a successor in the person of the candidate receiving the highest number of votes cast during the election on recall. Should the official sought to be recalled receive the highest number of votes, confidence in him is thereby affirmed, and he shall continue in office.
+Section 72. Effectivity of Recall. - The recall of an elective local official shall be effective only upon the election and proclamation of a successor in the person of the candidate receiving the highest number of votes cast during the election on recall. Should the official sought to be recalled receive the highest number of votes, confidence in him is thereby affirmed, and he shall continue in office.
 
-SECTION 73. Prohibition from Resignation. - The elective local official sought to be recalled shall not be allowed to resign while the recall process is in progress.
+Section 73. Prohibition from Resignation. - The elective local official sought to be recalled shall not be allowed to resign while the recall process is in progress.
 
-SECTION 74. Limitations on Recall. - (a) Any elective local official may be the subject of a recall election only once during his term of office for loss of confidence.
+Section 74. Limitations on Recall. - (a) Any elective local official may be the subject of a recall election only once during his term of office for loss of confidence.
 
 (b) No recall shall take place within one (1) year from the date of the official's assumption to office or one (1) year immediately preceding a regular local election.
 
-SECTION 75. Expenses Incident to Recall Elections. - All expenses incident to recall elections shall be borne by the Comelec. For this purpose, there shall be included in the annual General
+Section 75. Expenses Incident to Recall Elections. - All expenses incident to recall elections shall be borne by the Comelec. For this purpose, there shall be included in the annual General
 
 Appropriations Act a contingency fund at the disposal of the Comelec for the conduct of recall elections.
 
-TITLE THREE. - HUMAN RESOURCES AND DEVELOPMENT
+### TITLE THREE. - HUMAN RESOURCES AND DEVELOPMENT
 
-SECTION 76. Organizational Structure and Staffing Pattern. - Every local government unit shall design and implement its own organizational structure and staffing pattern taking into consideration its service requirements and financial capability, subject to the minimum standards and guidelines prescribed by the Civil Service Commission.
+Section 76. Organizational Structure and Staffing Pattern. - Every local government unit shall design and implement its own organizational structure and staffing pattern taking into consideration its service requirements and financial capability, subject to the minimum standards and guidelines prescribed by the Civil Service Commission.
 
-SECTION 77. Responsibility for Human Resources and Development. - The chief executive of every local government unit shall be responsible for human resources and development in his unit and shall take all personnel actions in accordance with the Constitutional provisions on civil service, pertinent laws, and rules and regulations thereon, including such policies, guidelines and standards as the Civil Service Commission may establish: Provided, That the local chief executive may employ emergency or casual employees or laborers paid on a daily wage or piecework basis and hired through job orders for local projects authorized by the Sanggunian concerned, without need of approval or attestation by the Civil Service Commission: Provided, further, That the period of employment of emergency or casual laborers as provided in this section shall not exceed six (6) months.
+Section 77. Responsibility for Human Resources and Development. - The chief executive of every local government unit shall be responsible for human resources and development in his unit and shall take all personnel actions in accordance with the Constitutional provisions on civil service, pertinent laws, and rules and regulations thereon, including such policies, guidelines and standards as the Civil Service Commission may establish: Provided, That the local chief executive may employ emergency or casual employees or laborers paid on a daily wage or piecework basis and hired through job orders for local projects authorized by the Sanggunian concerned, without need of approval or attestation by the Civil Service Commission: Provided, further, That the period of employment of emergency or casual laborers as provided in this section shall not exceed six (6) months.
 
 The Joint Commission on Local Government Personnel Administration organized pursuant to Presidential Decree Numbered Eleven Hundred thirty-six (P.D. No. 136) is hereby abolished and its personnel , records, equipment and other assets transferred to the appropriate office in the Civil Service Commission.
 
-SECTION 78. Civil Service Law, Rules and Regulations, and Other Related Issuances. - All matters pertinent to human resources and development in local government units shall be governed by the civil service law and such rules and regulations and other issuances promulgated pursuant thereto, unless otherwise specified in this Code.
+Section 78. Civil Service Law, Rules and Regulations, and Other Related Issuances. - All matters pertinent to human resources and development in local government units shall be governed by the civil service law and such rules and regulations and other issuances promulgated pursuant thereto, unless otherwise specified in this Code.
 
-SECTION 79. Limitation on Appointments. - No person shall be appointed in the career service of the local government if he is related within the fourth civil degree of consanguinity or affinity to the appointing or recommending authority.
+Section 79. Limitation on Appointments. - No person shall be appointed in the career service of the local government if he is related within the fourth civil degree of consanguinity or affinity to the appointing or recommending authority.
 
-SECTION 80. Public Notice of Vacancy; Personnel Selection Board. - (a) Whenever a local chief executive decides to fill a vacant career position, there shall be posted notices of the vacancy in at least three (3) conspicuous public places in the local government unit concerned for a period of not less than fifteen (15) days.
+Section 80. Public Notice of Vacancy; Personnel Selection Board. - (a) Whenever a local chief executive decides to fill a vacant career position, there shall be posted notices of the vacancy in at least three (3) conspicuous public places in the local government unit concerned for a period of not less than fifteen (15) days.
 
 (b) There shall be established in every province, city or municipality a personnel selection board to assist the local chief executive in the judicious and objective selection of personnel for employment as well as for promotion, and in the formulation of such policies as would contribute to employee welfare.
 
 (c) The personnel selection board shall be headed by the local chief executive, and its members shall be determined by resolution of the Sanggunian concerned. A representative of the Civil Service Commission, if any, and the personnel officer of the local government unit concerned shall be ex officio members of the board.
 
-SECTION 81. Compensation of Local Officials and Employees. - The compensation of local officials and personnel shall be determined by the Sanggunian concerned: Provided, That the increase in compensation of elective local officials shall take effect only after the terms of office of those approving such increase shall have expired: Provided, further, That the increase in compensation of the appointive officials and employees shall take effect as provided in the ordinance authorizing such increase: Provided, however, That said increases shall not exceed the limitations on budgetary allocations for personal services provided under Title Five, Book II of this Code: Provided, finally, That such compensation may be based upon the pertinent provisions of Republic Act Numbered Sixty-seven fifty-eight (R.A. No. 6758), otherwise known as the
+Section 81. Compensation of Local Officials and Employees. - The compensation of local officials and personnel shall be determined by the Sanggunian concerned: Provided, That the increase in compensation of elective local officials shall take effect only after the terms of office of those approving such increase shall have expired: Provided, further, That the increase in compensation of the appointive officials and employees shall take effect as provided in the ordinance authorizing such increase: Provided, however, That said increases shall not exceed the limitations on budgetary allocations for personal services provided under Title Five, Book II of this Code: Provided, finally, That such compensation may be based upon the pertinent provisions of Republic Act Numbered Sixty-seven fifty-eight (R.A. No. 6758), otherwise known as the
 
 "Compensation and Position Classification Act of 1989".
 
@@ -636,7 +638,7 @@ compensation, allowances, emoluments, and such other privileges as provided unde
 
 Elective local officials shall be entitled to the same leave privileges as those enjoyed by appointive local officials, including the cumulation and commutation thereof.
 
-SECTION 82. Resignation of Elective Local Officials. - (a) Resignations by elective local officials shall be deemed effective only upon acceptance by the following authorities: (1) The President, in the case of governors, vice- governors, and mayors and vice-mayors of highly urbanized cities and independent component cities; (2) The governor, in the case of municipal mayors, municipal vice-mayors, city mayors and city vice-mayors of component cities;
+Section 82. Resignation of Elective Local Officials. - (a) Resignations by elective local officials shall be deemed effective only upon acceptance by the following authorities: (1) The President, in the case of governors, vice- governors, and mayors and vice-mayors of highly urbanized cities and independent component cities; (2) The governor, in the case of municipal mayors, municipal vice-mayors, city mayors and city vice-mayors of component cities;
 
 (3) The Sanggunian concerned, in the case of Sanggunian members; and (4) The city or municipal mayor, in the case of Barangay officials.
 
@@ -646,23 +648,23 @@ SECTION 82. Resignation of Elective Local Officials. - (a) Resignations by elect
 
 (d) Irrevocable resignations by Sangguniang members shall be deemed accepted upon presentation before an open session of the Sanggunian concerned and duly entered in its records: Provided, however, That this subsection does not apply to Sanggunian members who are subject to recall elections or to cases where existing laws prescribe the manner of acting upon such resignations.
 
-SECTION 83. Grievance Procedure. - In every local government unit, the local chief executive shall establish a procedure to inquire into, act upon, resolve or settle complaints and grievances presented by local government employees.
+Section 83. Grievance Procedure. - In every local government unit, the local chief executive shall establish a procedure to inquire into, act upon, resolve or settle complaints and grievances presented by local government employees.
 
-SECTION 84. Administrative Discipline. - Investigation and adjudication of administrative complaints against appointive local officials and employees as well as their suspension and removal shall be in accordance with the civil service law and rules and other pertinent laws. The results of such administrative investigations shall be reported to the Civil Service Commission.
+Section 84. Administrative Discipline. - Investigation and adjudication of administrative complaints against appointive local officials and employees as well as their suspension and removal shall be in accordance with the civil service law and rules and other pertinent laws. The results of such administrative investigations shall be reported to the Civil Service Commission.
 
-SECTION 85. Preventive Suspension of Appointive Local Officials and Employees. - (a) The local chief executives may preventively suspend for a period not exceeding sixty (60) days any subordinate official or employee under his authority pending investigation if the charge against such official or employee involves dishonesty, oppression or grave misconduct or neglect in the performance of duty, or if there is reason to believe that the respondent is guilty of the charges which would warrant his removal from the service.
+Section 85. Preventive Suspension of Appointive Local Officials and Employees. - (a) The local chief executives may preventively suspend for a period not exceeding sixty (60) days any subordinate official or employee under his authority pending investigation if the charge against such official or employee involves dishonesty, oppression or grave misconduct or neglect in the performance of duty, or if there is reason to believe that the respondent is guilty of the charges which would warrant his removal from the service.
 
 (b) Upon expiration of the preventive suspension, the suspended official or employee shall be automatically reinstated in office without prejudice to the continuation of the administrative proceedings against him until its termination. If the delay in the proceedings of the case is due to the fault, neglect or request of the respondent, the time of the delay shall not be counted in computing the period of suspension herein provided.
 
-SECTION 86. Administrative Investigation. - In any local government unit, administrative investigation may be conducted by a person or a committee duly authorized by the local chief executive. Said person or committee shall conduct hearings on the cases brought against appointive local officials and employees and submit their findings and recommendations to the local chief executive concerned within fifteen (15) days from the conclusion of the hearings. The administrative cases herein mentioned shall be decided within ninety (90) days from the time the respondent is formally notified of the charges.
+Section 86. Administrative Investigation. - In any local government unit, administrative investigation may be conducted by a person or a committee duly authorized by the local chief executive. Said person or committee shall conduct hearings on the cases brought against appointive local officials and employees and submit their findings and recommendations to the local chief executive concerned within fifteen (15) days from the conclusion of the hearings. The administrative cases herein mentioned shall be decided within ninety (90) days from the time the respondent is formally notified of the charges.
 
-SECTION 87. Disciplinary Jurisdiction. - Except as otherwise provided by law, the local chief
+Section 87. Disciplinary Jurisdiction. - Except as otherwise provided by law, the local chief
 
 executive may impose the penalty of removal from service, demotion in rank, suspension for not more than one (1) year without pay, fine in an amount not exceeding six (6) months' salary, or reprimand and otherwise discipline subordinate officials and employees under his jurisdiction. If the penalty imposed is suspension without pay for not more than thirty (30) days, his decision shall be final. If the penalty imposed is heavier than suspension of thirty (30) days, the decision shall be appealable to the Civil Service Commission, which shall decide the appeal within thirty (30) days from receipt thereof.
 
-SECTION 88. Execution Pending Appeal. - An appeal shall not prevent the execution of a decision of removal or suspension of a respondent-appellant. In case the respondent-appellant is exonerated, he shall be reinstated to his position with all the rights and privileges appurtenant thereto from the time he had been deprived thereof.
+Section 88. Execution Pending Appeal. - An appeal shall not prevent the execution of a decision of removal or suspension of a respondent-appellant. In case the respondent-appellant is exonerated, he shall be reinstated to his position with all the rights and privileges appurtenant thereto from the time he had been deprived thereof.
 
-SECTION 89. Prohibited Business and Pecuniary Interest. - (a) It shall be unlawful for any local government official or employee, directly or indirectly, to: (1) Engage in any business transaction with the local government unit in which he is an official or employee or over which he has the power of supervision, or with any of its authorized boards, officials, agents, or attorneys, whereby money is to be paid, or property or any other thing of value is to be transferred, directly or indirectly, out of the resources of the local government unit to such person or firm; (2) Hold such interests in any cockpit or other games licensed by a local government unit.
+Section 89. Prohibited Business and Pecuniary Interest. - (a) It shall be unlawful for any local government official or employee, directly or indirectly, to: (1) Engage in any business transaction with the local government unit in which he is an official or employee or over which he has the power of supervision, or with any of its authorized boards, officials, agents, or attorneys, whereby money is to be paid, or property or any other thing of value is to be transferred, directly or indirectly, out of the resources of the local government unit to such person or firm; (2) Hold such interests in any cockpit or other games licensed by a local government unit.
 
 (3) Purchase any real estate or other property forfeited in favor of such local government unit for unpaid taxes or assessment, or by virtue of a legal process at the instance of the said local government unit.
 
@@ -672,7 +674,7 @@ SECTION 89. Prohibited Business and Pecuniary Interest. - (a) It shall be unlawf
 
 (b) All other prohibitions governing the conduct of national public officers relating to prohibited business and pecuniary interest so provided for under Republic Act Numbered Sixty-seven thirteen (R. A. No. 6713) otherwise known as the "Code of Conduct and Ethical Standards for Public Officials and Employees" and other laws shall also be applicable to local government officials and employees.
 
-SECTION 90. Practice of Profession. - (a) All governors, city and municipal mayors are prohibited from practicing their profession or engaging in any occupation other than the exercise of their functions as local chief executives.
+Section 90. Practice of Profession. - (a) All governors, city and municipal mayors are prohibited from practicing their profession or engaging in any occupation other than the exercise of their functions as local chief executives.
 
 (b) Sanggunian members may practice their professions, engage in any occupation, or teach in schools except during session hours: Provided, That Sanggunian members who are also members of the Bar shall not:
 
@@ -684,25 +686,25 @@ SECTION 90. Practice of Profession. - (a) All governors, city and municipal mayo
 
 (c) Doctors of medicine may practice their profession even during official hours of work only on occasions of emergency: Provided, That the officials concerned do not derive monetary compensation therefrom.
 
-SECTION 91. Statement of Assets and Liabilities.- (a) Officials and employees of local government units shall file sworn statements of assets, liabilities and networth, lists of relatives within the fourth civil degree of consanguinity or affinity in government service, financial and business interests, and personnel data sheets as required by law.
+Section 91. Statement of Assets and Liabilities.- (a) Officials and employees of local government units shall file sworn statements of assets, liabilities and networth, lists of relatives within the fourth civil degree of consanguinity or affinity in government service, financial and business interests, and personnel data sheets as required by law.
 
-SECTION 92. Oath of Office. - (a) All elective and appointive local officials and employees shall, upon assumption to office, subscribe to an oath or affirmation of office in the prescribed form.
+Section 92. Oath of Office. - (a) All elective and appointive local officials and employees shall, upon assumption to office, subscribe to an oath or affirmation of office in the prescribed form.
 
 The oath or affirmation of office shall be filed with the office of the local chief executive concerned.
 
 A copy of the oath or affirmation of office of all elective and appointive local officials and employees shall be preserved in the individual personal records file under the custody of the personnel office, division, or section of the local government unit concerned.
 
-SECTION 93. Partisan Political Activity. - No local official or employee in the career civil service shall engage directly or indirectly in any partisan political activity or take part in any election, initiative, referendum, plebiscite, or recall, except to vote, nor shall he use his official authority or influence to cause the performance of any political activity by any person or body. He may, however, express his views on current issues, or mention the names of certain candidates for public office whom he supports. Elective local officials may take part in partisan political and electoral activities, but it shall be unlawful for them to solicit contributions from their subordinates or subject these subordinates to any of the prohibited acts under the Omnibus Election Code.
+Section 93. Partisan Political Activity. - No local official or employee in the career civil service shall engage directly or indirectly in any partisan political activity or take part in any election, initiative, referendum, plebiscite, or recall, except to vote, nor shall he use his official authority or influence to cause the performance of any political activity by any person or body. He may, however, express his views on current issues, or mention the names of certain candidates for public office whom he supports. Elective local officials may take part in partisan political and electoral activities, but it shall be unlawful for them to solicit contributions from their subordinates or subject these subordinates to any of the prohibited acts under the Omnibus Election Code.
 
-SECTION 94. Appointment of Elective and Appointive Local Officials; Candidates Who Lost in Election. - (a) No elective or appointive local official shall be eligible for appointment or designation in any capacity to any public office or position during his tenure.
+Section 94. Appointment of Elective and Appointive Local Officials; Candidates Who Lost in Election. - (a) No elective or appointive local official shall be eligible for appointment or designation in any capacity to any public office or position during his tenure.
 
 Unless otherwise allowed by law or by the primary functions of his position, no elective or appointive local official shall hold any other office or employment in the government or any subdivision, agency or instrumentality thereof, including government-owned or -controlled corporations or their subsidiaries.
 
 (b) Except for losing candidates in Barangay elections, no candidate who lost in any election shall, within one (1) year after such election, be appointed to any office in the government or any government-owned or -controlled corporations or in any of their subsidiaries.
 
-SECTION 95. Additional or Double Compensation. - No elective or appointive local official or employee shall receive additional, double, or indirect compensation, unless specifically authorized by law, nor accept without the consent of Congress, any present, emoluments, office, or title of any kind from any foreign government. Pensions or gratuities shall not be considered as additional, double, or indirect compensation.
+Section 95. Additional or Double Compensation. - No elective or appointive local official or employee shall receive additional, double, or indirect compensation, unless specifically authorized by law, nor accept without the consent of Congress, any present, emoluments, office, or title of any kind from any foreign government. Pensions or gratuities shall not be considered as additional, double, or indirect compensation.
 
-SECTION 96. Permission to Leave Station. - (a) Provincial, city, municipal, and Barangay appointive officials going on official travel shall apply and secure written permission from their respective local chief executives before departure. The application shall specify the reasons for such travel, and the permission shall be given or withheld based on considerations of public interest, financial capability of the local government unit concerned and urgency of the travel.
+Section 96. Permission to Leave Station. - (a) Provincial, city, municipal, and Barangay appointive officials going on official travel shall apply and secure written permission from their respective local chief executives before departure. The application shall specify the reasons for such travel, and the permission shall be given or withheld based on considerations of public interest, financial capability of the local government unit concerned and urgency of the travel.
 
 Should the local chief executive concerned fail to act upon such application within four (4) working days from receipt thereof, it shall be deemed approved.
 
@@ -712,13 +714,13 @@ Should the local chief executive concerned fail to act upon such application wit
 
 (d) Field officers of national agencies or offices assigned in provinces, cities, and municipalities shall not leave their official stations without giving prior written notice to the local chief executive concerned. Such notice shall state the duration of travel and the name of the officer whom he shall designate to act for and in his behalf during his absence.
 
-SECTION 97. Annual Report. - On or before March 31 of each year, every local chief executive
+Section 97. Annual Report. - On or before March 31 of each year, every local chief executive
 
 shall submit an annual report to the Sanggunian concerned on the socioeconomic, political and peace and order conditions, and other matters concerning the local government unit, which shall cover the immediately preceding calendar year. A copy of the report shall be forwarded to the Department of Interior and Local Government. Component cities and municipalities shall likewise provide the Sangguniang Panlalawigan copies of their respective annual reports.
 
-TITLE FOUR. - LOCAL SCHOOL BOARDS
+### TITLE FOUR. - LOCAL SCHOOL BOARDS
 
-SECTION 98. Creation, Composition and Compensation. - (a) There shall be established in every province, city, or municipality a provincial, city or municipal school board, respectively.
+Section 98. Creation, Composition and Compensation. - (a) There shall be established in every province, city, or municipality a provincial, city or municipal school board, respectively.
 
 (b) The composition of local school boards shall be as follows: (1) The provincial school board shall be composed of the governor and the division superintendent of schools as co-chairmen; the chairman of the education committee of the Sangguniang Panlalawigan, the provincial treasurer, the representative of the pederasyon ng mga Sangguniang kabataan in the Sangguniang Panlalawigan, the duly elected president of the provincial federation of parents-teachers association, the duly elected representative of the teachers' organization in the province, and the duly elected representative of the non-academic personnel of public schools in the province, as members;
 
@@ -734,7 +736,7 @@ SECTION 98. Creation, Composition and Compensation. - (a) There shall be establi
 
 (d) The performance of the duties and responsibilities of the abovementioned officials in their respective local school boards shall not be delegated.
 
-SECTION 99. Functions of Local School Boards. - The provincial, city or municipal school board shall:
+Section 99. Functions of Local School Boards. - The provincial, city or municipal school board shall:
 
 (b) Determine, in accordance with the criteria set by the Department of Education, Culture and Sports, the annual supplementary budgetary needs for the operation and maintenance of public schools within the province, city or municipality, as the case may be, and the supplementary local cost of meeting such needs, which shall be reflected in the form of an annual school board budget corresponding to its share in the proceeds of the special levy on real property constituting the Special Education fund and such other sources of revenue as this Code and other laws or ordinances may provide;
 
@@ -746,7 +748,7 @@ SECTION 99. Functions of Local School Boards. - The provincial, city or municipa
 
 The Department of Education, Culture and Sports shall consult the local school board on the appointment of division superintendents, district supervisors, school principals, and other school officials.
 
-SECTION 100. Meetings and Quorum; Budget. - (a) The local school board shall meet at least once a month or as often as may be necessary.
+Section 100. Meetings and Quorum; Budget. - (a) The local school board shall meet at least once a month or as often as may be necessary.
 
 (b) Any of the co-chairmen may call a meeting. A majority of all its members shall constitute a quorum. However, when both co-chairmen are present in a meeting, the local chief executive concerned, as a matter of protocol, shall be given preference to preside over the meeting. The division superintendent, city superintendent or district supervisor, as the case may be, shall prepare the budget of the school board concerned. Such budget shall be supported by programs, projects, and activities of the school board for the ensuing fiscal year. The affirmative vote of the majority of all its members shall be necessary to approve the budget.
 
@@ -754,11 +756,11 @@ SECTION 100. Meetings and Quorum; Budget. - (a) The local school board shall mee
 
 (2) Establishment and maintenance of extension classes where necessary; and (3) Sports activities at the division, district, municipal, and Barangay levels.
 
-SECTION 101. Compensation and Remuneration. - The co-chairmen and members of the provincial, city or municipal school board shall perform their duties as such without compensation or remuneration. Members thereof who are not government officials or employees shall be entitled to necessary traveling expenses and allowances chargeable against funds of the local school board concerned, subject to existing accounting and auditing rules and regulations.
+Section 101. Compensation and Remuneration. - The co-chairmen and members of the provincial, city or municipal school board shall perform their duties as such without compensation or remuneration. Members thereof who are not government officials or employees shall be entitled to necessary traveling expenses and allowances chargeable against funds of the local school board concerned, subject to existing accounting and auditing rules and regulations.
 
-TITLE FIVE. - LOCAL HEALTH BOARDS
+### TITLE FIVE. - LOCAL HEALTH BOARDS
 
-SECTION 102. Creation and Composition. - (a) There shall be established a local health board in every province, city or municipality. The composition of the local health boards shall be as follows:
+Section 102. Creation and Composition. - (a) There shall be established a local health board in every province, city or municipality. The composition of the local health boards shall be as follows:
 
 (1) The provincial health board shall be headed by the governor as chairman, the provincial health officer as vice-chairman, and the chairman of the committee on health of the Sangguniang Panlalawigan, a representative from the private sector or nongovernmental organizations involved in health services, and a representative of the Department of Health in the province, as members;
 
@@ -776,19 +778,19 @@ of the Sangguniang bayan, a representative from the private sector or nongovernm
 
 (3) Consistent with the technical and administrative standards of the Department of Health, create committees which shall advise local health agencies on matters such as, but not limited to, personnel selection and promotion, bids and awards, grievances and complaints, personnel discipline, budget review, operations review and similar functions.
 
-SECTION 103. Meetings and Quorum. - (a) The board shall meet at least once a month or as often as may be necessary.
+Section 103. Meetings and Quorum. - (a) The board shall meet at least once a month or as often as may be necessary.
 
 (b) A majority of the members of the board shall constitute a quorum, but the chairman or the vice-chairman must be present during meetings where budgetary proposals are being prepared or considered. The affirmative vote of all the majority of the members shall be necessary to approve such proposals.
 
-SECTION 104. Compensation and Remuneration. - The chairman, vice-chairman, and members of the provincial, city or municipal health board shall perform their duties as such without compensation or remuneration. Members thereof who are not government officials or employees shall be entitled to necessary traveling expenses and allowances chargeable against the funds of the local health board concerned, subject to existing accounting and auditing rules and regulations.
+Section 104. Compensation and Remuneration. - The chairman, vice-chairman, and members of the provincial, city or municipal health board shall perform their duties as such without compensation or remuneration. Members thereof who are not government officials or employees shall be entitled to necessary traveling expenses and allowances chargeable against the funds of the local health board concerned, subject to existing accounting and auditing rules and regulations.
 
-SECTION 105. Direct National Supervision and Control by the Secretary of Health. - In cases of epidemics, pestilence, and other widespread public health dangers, the Secretary of Health may, upon the direction of the President and in consultation with the local government unit concerned, temporarily assume direct supervision and control over health operations in any local government unit for the duration of the emergency, but in no case exceeding a cumulative period of six (6) months. With the concurrence of the local government unit concerned, the period for such direct national control and supervision may be further extended.
+Section 105. Direct National Supervision and Control by the Secretary of Health. - In cases of epidemics, pestilence, and other widespread public health dangers, the Secretary of Health may, upon the direction of the President and in consultation with the local government unit concerned, temporarily assume direct supervision and control over health operations in any local government unit for the duration of the emergency, but in no case exceeding a cumulative period of six (6) months. With the concurrence of the local government unit concerned, the period for such direct national control and supervision may be further extended.
 
-TITLE SIX. - LOCAL DEVELOPMENT COUNCILS
+### TITLE SIX. - LOCAL DEVELOPMENT COUNCILS
 
-SECTION 106. Local Development Councils. - (a) Each local government unit shall have a comprehensive multi-sectoral development plan to be initiated by its development council and approved by its Sanggunian. For this purpose, the development council at the provincial city, municipal, or Barangay level, shall assist the corresponding Sanggunian in setting the direction of economic and social development, and coordinating development efforts within its territorial jurisdiction.
+Section 106. Local Development Councils. - (a) Each local government unit shall have a comprehensive multi-sectoral development plan to be initiated by its development council and approved by its Sanggunian. For this purpose, the development council at the provincial city, municipal, or Barangay level, shall assist the corresponding Sanggunian in setting the direction of economic and social development, and coordinating development efforts within its territorial jurisdiction.
 
-SECTION 107. Composition of Local Development Councils. - The composition of the local development council shall be as follows:
+Section 107. Composition of Local Development Councils. - The composition of the local development council shall be as follows:
 
 (b) The Barangay development council shall be headed by the Punong Barangay and shall be composed of the following members:
 
@@ -818,9 +820,9 @@ SECTION 107. Composition of Local Development Councils. - The composition of the
 
 (d) The local development councils may call upon any local official concerned or any official of national agencies or offices in the local government unit to assist in the formulation of their respective development plans and public investment programs.
 
-SECTION 108. Representation of Non-Governmental Organizations. - Within a period of sixty (60) days from the start of organization of local development councils, the nongovernmental organizations shall choose from among themselves their representatives to said councils. The local Sanggunian concerned shall accredit nongovernmental organizations subject to such criteria as may be provided by law.
+Section 108. Representation of Non-Governmental Organizations. - Within a period of sixty (60) days from the start of organization of local development councils, the nongovernmental organizations shall choose from among themselves their representatives to said councils. The local Sanggunian concerned shall accredit nongovernmental organizations subject to such criteria as may be provided by law.
 
-SECTION 109. Functions of Local Development Councils. - (a) The provincial, city, and municipal development councils shall exercise the following functions: (1) Formulate long-term, medium-term, and annual socioeconomic development plans and policies;
+Section 109. Functions of Local Development Councils. - (a) The provincial, city, and municipal development councils shall exercise the following functions: (1) Formulate long-term, medium-term, and annual socioeconomic development plans and policies;
 
 (2) Formulate the medium-term and annual public investment programs; (3) Appraise and prioritize socioeconomic development programs and projects; (4) Formulate local investment incentives to promote the inflow and direction of private investment capital;
 
@@ -834,9 +836,9 @@ SECTION 109. Functions of Local Development Councils. - (a) The provincial, city
 
 (4) Perform such other functions as may be provided by law or competent authority.
 
-SECTION 110. Meetings and Quorum. - The local development council shall meet at least once every six (6) months or as often as may be necessary.
+Section 110. Meetings and Quorum. - The local development council shall meet at least once every six (6) months or as often as may be necessary.
 
-SECTION 111. Executive Committee. - (a) Each local development council shall create an executive committee to represent it and act in its behalf when it is not in session. The composition of the executive committee shall be as follows:
+Section 111. Executive Committee. - (a) Each local development council shall create an executive committee to represent it and act in its behalf when it is not in session. The composition of the executive committee shall be as follows:
 
 (1) The executive committee of the provincial development council shall be composed of the governor as chairman, the representative of component city and municipal mayors to be chosen from among themselves, the chairman of the committee on appropriations of the Sangguniang Panlalawigan, the president of the provincial league of Barangays, and a representative of nongovernmental organizations that are represented in the council, as members;
 
@@ -848,33 +850,33 @@ SECTION 111. Executive Committee. - (a) Each local development council shall cre
 
 (4) Act on other matters that may be authorized by the council.
 
-SECTION 112. Sectoral or Functional Committees. - The local development councils may form sectoral or functional committees to assist them in the performance of their functions.
+Section 112. Sectoral or Functional Committees. - The local development councils may form sectoral or functional committees to assist them in the performance of their functions.
 
-SECTION 113. Secretariat. - There is hereby constituted for each local development council a secretariat which shall be responsible for providing technical support, documentation of proceedings, preparation of reports and such other assistance as may be required in the discharge of its functions. The local development council may avail of the services of any nongovernmental organization or educational or research institution for this purpose.
+Section 113. Secretariat. - There is hereby constituted for each local development council a secretariat which shall be responsible for providing technical support, documentation of proceedings, preparation of reports and such other assistance as may be required in the discharge of its functions. The local development council may avail of the services of any nongovernmental organization or educational or research institution for this purpose.
 
 The secretariats of the provincial, city, and municipal development councils shall be headed by their respective planning and development coordinators. The secretariat of the Barangay development council shall be headed by the Barangay secretary who shall be assisted by the city or municipal planning and development coordinator concerned.
 
-SECTION 114. Relation of Local Development Councils to the Sanggunian and the Regional Development Council. - (a) The policies, programs, and projects proposed by local development councils shall be submitted to the Sanggunian concerned for appropriate action. The local development plans approved by their respective Sanggunian may be integrated with the development plans of the next higher level of local development council.
+Section 114. Relation of Local Development Councils to the Sanggunian and the Regional Development Council. - (a) The policies, programs, and projects proposed by local development councils shall be submitted to the Sanggunian concerned for appropriate action. The local development plans approved by their respective Sanggunian may be integrated with the development plans of the next higher level of local development council.
 
 (b) The approved development plans of provinces, highly-urbanized cities, and independent
 
 component cities shall be submitted to the regional development council, which shall be integrated into the regional development plan for submission to the National Economic and Development Authority, in accordance with existing laws.
 
-SECTION 115. Budget Information. - The Department of Budget and Management shall furnish the various local development councils information on financial resources and budgetary allocations applicable to their respective jurisdictions to guide them in their planning functions.
+Section 115. Budget Information. - The Department of Budget and Management shall furnish the various local development councils information on financial resources and budgetary allocations applicable to their respective jurisdictions to guide them in their planning functions.
 
-TITLE SEVEN. -LOCAL PEACE AND ORDER COUNCIL
+### TITLE SEVEN. -LOCAL PEACE AND ORDER COUNCIL
 
-SECTION 116. Organization. - There is hereby established in every province, city and municipality a local peace and order council, pursuant to Executive Order Numbered Three hundred nine (E.O. No. 309), Series of 1988. The local peace and order councils shall have the same composition and functions as those prescribed by the said executive order.
+Section 116. Organization. - There is hereby established in every province, city and municipality a local peace and order council, pursuant to Executive Order Numbered Three hundred nine (E.O. No. 309), Series of 1988. The local peace and order councils shall have the same composition and functions as those prescribed by the said executive order.
 
-TITLE EIGHT. - AUTONOMOUS SPECIAL ECONOMIC ZONE
+### TITLE EIGHT. - AUTONOMOUS SPECIAL ECONOMIC ZONE
 
-SECTION 117. Establishment of Autonomous Special Economic Zones. - The establishment by law of autonomous special economic zones in selected areas of the country shall be subject to concurrence by the local government units included therein.
+Section 117. Establishment of Autonomous Special Economic Zones. - The establishment by law of autonomous special economic zones in selected areas of the country shall be subject to concurrence by the local government units included therein.
 
-TITLE NINE. - OTHER PROVISIONS APPLICABLE TO LOCAL GOVERNMENT UNITS
+### TITLE NINE. - OTHER PROVISIONS APPLICABLE TO LOCAL GOVERNMENT UNITS
 
-CHAPTER 1. - Settlement of Boundary Disputes
+#### CHAPTER 1. - Settlement of Boundary Disputes
 
-SECTION 118. Jurisdictional Responsibility for Settlement of Boundary Dispute. - Boundary disputes between and among local government units shall, as much as possible, be settled amicably. To this end:
+Section 118. Jurisdictional Responsibility for Settlement of Boundary Dispute. - Boundary disputes between and among local government units shall, as much as possible, be settled amicably. To this end:
 
 (a) Boundary disputes involving two (2) or more Barangays in the same city or municipality shall be referred for settlement to the Sangguniang Panlungsod or Sangguniang bayan concerned.
 
@@ -888,15 +890,15 @@ SECTION 118. Jurisdictional Responsibility for Settlement of Boundary Dispute. -
 
 Thereafter, the dispute shall be formally tried by the Sanggunian concerned which shall decide the issue within sixty (60) days from the date of the certification referred to above.
 
-SECTION 119. Appeal. - Within the time and manner prescribed by the Rules of Court, any party may elevate the decision of the Sanggunian concerned to the proper Regional Trial Court having jurisdiction over the area in dispute. The Regional Trial Court shall decide the appeal within one (1) year from the filing thereof. Pending final resolution of the disputed area prior to the dispute shall be maintained and continued for all legal purposes.
+Section 119. Appeal. - Within the time and manner prescribed by the Rules of Court, any party may elevate the decision of the Sanggunian concerned to the proper Regional Trial Court having jurisdiction over the area in dispute. The Regional Trial Court shall decide the appeal within one (1) year from the filing thereof. Pending final resolution of the disputed area prior to the dispute shall be maintained and continued for all legal purposes.
 
-CHAPTER 2. - LOCAL INITIATIVE AND REFERENDUM
+#### CHAPTER 2. - LOCAL INITIATIVE AND REFERENDUM
 
-SECTION 120. Local Initiative Defined. - Local initiative is the legal process whereby the registered voters of a local government unit may directly propose, enact, or amend any ordinance.
+Section 120. Local Initiative Defined. - Local initiative is the legal process whereby the registered voters of a local government unit may directly propose, enact, or amend any ordinance.
 
-SECTION 121. Who May Exercise. - The power of local initiative and referendum may be exercised by all registered voters of the provinces, cities, municipalities, and Barangays.
+Section 121. Who May Exercise. - The power of local initiative and referendum may be exercised by all registered voters of the provinces, cities, municipalities, and Barangays.
 
-SECTION 122. Procedure in Local Initiative. - (a) Not less than one thousand (1,000)
+Section 122. Procedure in Local Initiative. - (a) Not less than one thousand (1,000)
 
 registered voters in case of provinces and cities, one hundred (100) in case of municipalities, and fifty (50) in case of Barangays, may file a petition with the Sanggunian concerned proposing the adoption, enactment, repeal, or amendment of an ordinance.
 
@@ -916,31 +918,31 @@ Stations for collecting signatures may be established in as many places as may b
 
 (h) If the required number of signatures is obtained, the Comelec shall then set a date for the initiative during which the proposition shall be submitted to the registered voters in the local government unit concerned for their approval within sixty (60) days from the date of certification by the Comelec, as provided in subsection (g) hereof, in case of provinces and cities, forty-five (45) days in case of municipalities, and thirty (30) days in case of Barangays. The initiative shall then be held on the date set, after which the results thereof shall be certified and proclaimed by the Comelec.
 
-SECTION 123. Effectivity of Local Propositions. - If the proposition is approved by a majority of the votes cast, it shall take effect fifteen (15) days after certification by the Comelec as if affirmative action thereon had been made by the Sanggunian and local chief executive concerned. If it fails to obtain said number of votes, the proposition is considered defeated.
+Section 123. Effectivity of Local Propositions. - If the proposition is approved by a majority of the votes cast, it shall take effect fifteen (15) days after certification by the Comelec as if affirmative action thereon had been made by the Sanggunian and local chief executive concerned. If it fails to obtain said number of votes, the proposition is considered defeated.
 
-SECTION 124. Limitations on Local Initiatives. - (a) The power of local initiative shall not be exercised more than once a year.
+Section 124. Limitations on Local Initiatives. - (a) The power of local initiative shall not be exercised more than once a year.
 
 (b) Initiative shall extend only to subjects or matters which are within the legal powers of the Sanggunians to enact.
 
 (c) If at any time before the initiative is held, the Sanggunian concerned adopts in to the proposition presented and the local chief executive approves the same, the initiative shall be canceled. However, those against such action may, if they so desire, apply for initiative in the manner herein provided.
 
-SECTION 125. Limitations upon Sanggunians. - Any proposition or ordinance approved through the system of initiative and referendum as herein provided shall not be repealed, modified or amended by the Sanggunian concerned within six (6) months from the date of the approval thereof, and may be amended, modified or repealed by the Sanggunian within three (3) years thereafter by a vote of three-fourths (3/4) of all its members: Provided, That in case of Barangays, the period shall be eighteen (18) months after the approval thereof.
+Section 125. Limitations upon Sanggunians. - Any proposition or ordinance approved through the system of initiative and referendum as herein provided shall not be repealed, modified or amended by the Sanggunian concerned within six (6) months from the date of the approval thereof, and may be amended, modified or repealed by the Sanggunian within three (3) years thereafter by a vote of three-fourths (3/4) of all its members: Provided, That in case of Barangays, the period shall be eighteen (18) months after the approval thereof.
 
-SECTION 126. Local Referendum Defined. - Local referendum is the legal process whereby the registered voters of the local government units may approve, amend or reject any ordinance enacted by the Sanggunian. The local referendum shall be held under the control and direction of
+Section 126. Local Referendum Defined. - Local referendum is the legal process whereby the registered voters of the local government units may approve, amend or reject any ordinance enacted by the Sanggunian. The local referendum shall be held under the control and direction of
 
 the Comelec within sixty (60) days in case of provinces and cities, forty-five (45) days in case of municipalities and thirty (30) days in case of Barangays. The Comelec shall certify and proclaim the results of the said referendum.
 
-SECTION 127. Authority of Courts. - Nothing in this Chapter shall prevent or preclude the proper courts from declaring null and void any proposition approved pursuant to this Chapter for violation of the Constitution or want of capacity of the Sanggunian concerned to enact the said measure.
+Section 127. Authority of Courts. - Nothing in this Chapter shall prevent or preclude the proper courts from declaring null and void any proposition approved pursuant to this Chapter for violation of the Constitution or want of capacity of the Sanggunian concerned to enact the said measure.
 
-BOOK II
+## BOOK II
 
 LOCAL TAXATION AND FISCAL MATTERS
 
-TITLE I
+### TITLE I
 
 LOCAL GOVERNMENT TAXATION
 
-CHAPTER I
+#### CHAPTER I
 
 General Provisions
 
@@ -1034,7 +1036,7 @@ Section 133. Common Limitations on the Taxing Powers of Local Government Units. 
 
 (o) Taxes, fees or charges of any kind on the National Government, its agencies and instrumentalities, and local government units.
 
-CHAPTER II
+#### CHAPTER II
 
 Specific Provisions on the Taxing and Other Revenue-Raising Powers of Local Government Units
 
@@ -1714,7 +1716,7 @@ The proceeds of the tax shall accrue to the general funds of the cities, municip
 
 (2) Fifty percent (50%) shall accrue to the barangay where the tax is collected.
 
-CHAPTER III
+#### CHAPTER III
 
 Collection of Taxes
 
@@ -1738,7 +1740,7 @@ In case the examination herein authorized is made by a duly authorized deputy of
 
 For this purpose, the records of the revenue district office of the Bureau of Internal Revenue shall be made available to the local treasurer, his deputy or duly authorized representative.
 
-CHAPTER IV
+#### CHAPTER IV
 
 Civil Remedies for Collection of Revenues
 
@@ -1818,7 +1820,7 @@ Section 185. Personal Property Exempt from Distraint or Levy. - The following pr
 
 (f) The professional libraries of doctors, engineers, lawyers and judges; (g) One fishing boat and net, not exceeding the total value of Ten thousand pesos (P10,000.00), by the lawful use of which a fisherman earns his livelihood; and (h) Any material or article forming part of a house or improvement of any real property.
 
-CHAPTER V
+#### CHAPTER V
 
 Miscellaneous Provisions
 
@@ -1842,7 +1844,7 @@ Section 192. Authority to Grant Tax Exemption Privileges. - Local government uni
 
 Section 193. Withdrawal of Tax Exemption Privileges. - Unless otherwise provided in this Code, tax exemptions or incentives granted to, or presently enjoyed by all persons, whether natural or juridical, including government-owned or controlled corporations, except local water districts, cooperatives duly registered under R.A. No. 6938, non-stock and non-profit hospitals and educational institutions, are hereby withdrawn upon the effectivity of this Code.
 
-CHAPTER VI
+#### CHAPTER VI
 
 Taxpayer's Remedies
 
@@ -1864,11 +1866,11 @@ Section 195. Protest of Assessment. - When the local treasurer or his duly autho
 
 Section 196. Claim for Refund of Tax Credit. - No case or proceeding shall be maintained in any court for the recovery of any tax, fee, or charge erroneously or illegally collected until a written claim for refund or credit has been filed with the local treasurer. No case or proceeding shall be entertained in any court after the expiration of two (2) years from the date of the payment of such tax, fee, or charge, or from the date the taxpayer is entitled to a refund or credit.
 
-TITLE II
+### TITLE II
 
 REAL PROPERTY TAXATION
 
-CHAPTER I
+#### CHAPTER I
 
 General Provisions
 
@@ -1914,7 +1916,7 @@ Section 199. Definitions. - When used in this Title: (a) "Acquisition Cost" for 
 
 Section 200. Administration of the Real Property Tax. - The provinces and cities, including the municipalities within the Metropolitan Manila Area, shall be primarily responsible for the proper, efficient and effective administration of the real property tax.
 
-CHAPTER II
+#### CHAPTER II
 
 Appraisal and Assessment of Real Property
 
@@ -2286,7 +2288,7 @@ Section 224. Appraisal and Assessment of Machinery. -
 
 Section 225. Depreciation Allowance for Machinery. - For purposes of assessment, a depreciation allowance shall be made for machinery at a rate not exceeding five percent (5%) of its original cost or its replacement or reproduction cost, as the case may be, for each year of use: Provided, however, That the remaining value for all kinds of machinery shall be fixed at not less than twenty percent (20%) of such original, replacement, or reproduction cost for so long as the machinery is useful and in operation.
 
-CHAPTER III
+#### CHAPTER III
 
 Assessment Appeals
 
@@ -2328,7 +2330,7 @@ Unless otherwise provided by law, the annual appropriations for the Central Boar
 
 Section 231. Effect of Appeal on the Payment of Real Property Tax. - Appeal on assessments of real property made under the provisions of this Code shall, in no case, suspend the collection of the corresponding realty taxes on the property involved as assessed by the provincial or city assessor, without prejudice to subsequent adjustment depending upon the final outcome of the appeal.
 
-CHAPTER IV
+#### CHAPTER IV
 
 Imposition of Real Property Tax
 
@@ -2354,7 +2356,7 @@ Section 234. Exemptions from Real Property Tax. - The following are exempted fro
 
 Except as provided herein, any exemption from payment of real property tax previously granted to, or presently enjoyed by, all persons, whether natural or juridical, including all government-owned or controlled corporations are hereby withdrawn upon the effectivity of this Code.
 
-CHAPTER V
+#### CHAPTER V
 
 Special Levies on Real Property
 
@@ -2490,7 +2492,7 @@ The period of prescription within which to collect shall be suspended for the ti
 
 (3) The owner of the property or the person having legal interest therein is out of the country or otherwise cannot be located.
 
-CHAPTER VII
+#### CHAPTER VII
 
 Disposition of Proceeds
 
@@ -2532,7 +2534,7 @@ Section 274. Proceeds of the Special Levy. - The proceeds of the special levy on
 
 fund of the local government unit which financed such public works, projects or other improvements.
 
-CHAPTER VIII
+#### CHAPTER VIII
 
 Special Provisions
 
@@ -2558,11 +2560,11 @@ Section 282. Real Property Assessment Notices or Owner's Copies of Tax Declarati
 
 Section 283. Sale and Forfeiture Before Effectivity of Code. - Tax delinquencies incurred, and sales and forfeitures of delinquent real property effected, before the effectivity of this Code shall be governed by the provisions of applicable laws then in force.
 
-TITLE III
+### TITLE III
 
 SHARES OF LOCAL GOVERNMENT UNITS IN THE PROCEEDS OF NATIONAL TAXES
 
-CHAPTER I
+#### CHAPTER I
 
 Allotment of Internal Revenue
 
@@ -2622,7 +2624,7 @@ Section 287. Local Development Projects. - Each local government unit shall appr
 
 Section 288. Rules and Regulations. - The Secretary of Finance, in consultation with the Secretary of Budget and Management, shall promulgate the necessary rules and regulations for a simplified disbursement scheme designed for the speedy and effective enforcement of the provisions of this Chapter.
 
-CHAPTER II
+#### CHAPTER II
 
 Share of Local Government Units in the National Wealth Section 289. Share in the Proceeds from the Development and Utilization of the National Wealth. - Local government units shall have an equitable share in the proceeds derived from the utilization and development of the national wealth within their respective areas, including sharing the same with the inhabitants by way of direct benefits.
 
@@ -2660,7 +2662,7 @@ Section 294. Development and Livelihood Projects. - The proceeds from the share 
 
 hydrothermal. geothermal, and other sources of energy shall be applied solely to lower the cost of electricity in the local government unit where such a source of energy is located.
 
-TITLE IV
+### TITLE IV
 
 Credit Financing
 
@@ -2728,11 +2730,11 @@ In case of land reclamation or construction of industrial estates, the repayment
 
 Section 303. Remedies and Sanctions. - Local government unit shall appropriate in their respective annual budgets such amounts as are sufficient to pay the loans and other indebtedness incurred or redeem or retire bonds, debentures, securities, notes and other obligations issued under this Title: Provided, That failure to provide the appropriations herein required shall render their annual budgets inoperative.
 
-TITLE V
+### TITLE V
 
 Local Fiscal Administration
 
-CHAPTER I
+#### CHAPTER I
 
 General Provisions
 
@@ -2778,7 +2780,7 @@ the fiscal year, including goods and services that will be used or consumed duri
 
 (m) "Revenue" refers to income derived from the regular system of taxation enforced under authority of law or ordinance, and, as such, accrue more or less regularly every year.
 
-CHAPTER II
+#### CHAPTER II
 
 Local and Other Special Funds
 
@@ -2816,7 +2818,7 @@ Receipts, transfers, and expenditures involving the foregoing special accounts s
 
 Profits or income derived the operation of public utilities and other economic enterprises, after deduction for the cost of improvement, repair and other related expenses of the public utility or economic enterprise concerned, shall first be applied for the return of the advances or loans made therefor. Any excess shall form part of the general fund of the local government unit concerned.
 
-CHAPTER III
+#### CHAPTER III
 
 Budgeting
 
@@ -2984,7 +2986,7 @@ Section 334. Barangay Financial Procedures. -
 
 (c) The financial records of the barangay shall be kept in the office of the city or municipal accountant in simplified manner as prescribed by the Commission on Audit. Representatives of the Commission on Audit shall audit such accounts annually or as often as may be necessary and make a report of the audit to the sangguniang panlungsod or sangguniang bayan, as the case may be. The Commission on Audit shall prescribe and put into effect simplified procedures for barangay finances within six (6) months following the effectivity of this Code.
 
-CHAPTER IV
+#### CHAPTER IV
 
 Expenditures, Disbursements, Accounting and Accountability Section 335. Prohibitions Against Expenditures for Religious or Private Purposes. - No public money or property shall be appropriated or applied for religious or private purposes.
 
@@ -3044,7 +3046,7 @@ Section 353. The Official Fiscal Year. - The official fiscal year of local gover
 
 Section 354. Administrative Issuances; Budget Operations Manual. - The Secretary of Budget and Management jointly with the Chairman of the Commission on Audit shall, within one (1) year from the effectivity of this Code, promulgate a Budget Operations Manual for local government units to improve and systematize methods, techniques, and procedures employed in budget preparation, authorization, execution, and accountability.
 
-TITLE VI
+### TITLE VI
 
 Property and Supply Management in the Local Government Units Section 355. Scope. - This Title shall govern the procurement, care, utilization, custody, and disposal of supplies, as defined herein, by local government units and the other aspects of supply management at the local levels.
 
@@ -3188,77 +3190,77 @@ provisions of this Title, including requirements as to testing, inspection, and 
 
 THE LOCAL GOVERNMENT CODE OF THE PHILIPPINES
 
-BOOK IV
+## BOOK IV
 
 MISCELLANEOUS AND FINAL PROVISIONS
 
-TITLE ONE. - PENAL PROVISIONS
+### TITLE ONE. - PENAL PROVISIONS
 
-SECTION 511. Posting and Publication of Ordinances with Penal Sanctions. - (a) ordinances with penal sanctions shall be posted at prominent places in the provincial capitol, city, municipal or Barangay hall, as the case may be, for a minimum period of three (3) consecutive weeks. Such ordinances shall also be published in a newspaper of general circulation, where available, within the territorial jurisdiction of the local government unit concerned, except in the case of Barangay ordinances. Unless otherwise provided therein, said ordinances shall take effect on the day following its publication, or at the end of the period of posting, whichever occurs later.
+Section 511. Posting and Publication of Ordinances with Penal Sanctions. - (a) ordinances with penal sanctions shall be posted at prominent places in the provincial capitol, city, municipal or Barangay hall, as the case may be, for a minimum period of three (3) consecutive weeks. Such ordinances shall also be published in a newspaper of general circulation, where available, within the territorial jurisdiction of the local government unit concerned, except in the case of Barangay ordinances. Unless otherwise provided therein, said ordinances shall take effect on the day following its publication, or at the end of the period of posting, whichever occurs later.
 
 (b) Any public officer or employee who violates an ordinance may be meted administrative disciplinary action, without prejudice to the filing of the appropriate civil or criminal action.
 
 (c) The secretary to the Sanggunian concerned shall transmit official copies of such ordinances to the chief executive officer of the Official Gazette within seven (7) days following the approval of the said ordinance for publication purposes. The Official Gazette may publish ordinances with penal sanctions for archival and reference purposes.
 
-SECTION 512. Withholding of Benefits Accorded to Barangay Officials. - Willful and malicious withholding of any of the benefits accorded to Barangay officials under Section 393 hereof shall be punished with suspension or dismissal from office of the official or employee responsible therefor.
+Section 512. Withholding of Benefits Accorded to Barangay Officials. - Willful and malicious withholding of any of the benefits accorded to Barangay officials under Section 393 hereof shall be punished with suspension or dismissal from office of the official or employee responsible therefor.
 
-SECTION 513. Failure to Post and Publish the Itemized Monthly Collections and Disbursements. - Failure by the local treasurer or the local chief accountant to post the itemized monthly collections and disbursements of the local government unit concerned within ten (10) days following the end of every month and for at least two (2) consecutive weeks at prominent places in the main office building of the local government unit concerned, its plaza and main street, and to publish said itemization in a newspaper of general circulation, where available, in the territorial jurisdiction of such unit, shall be punished by a fine not exceeding Five hundred pesos (Php500.00) or by imprisonment not exceeding one (1) month, or both such fine and imprisonment, at the discretion of the court.
+Section 513. Failure to Post and Publish the Itemized Monthly Collections and Disbursements. - Failure by the local treasurer or the local chief accountant to post the itemized monthly collections and disbursements of the local government unit concerned within ten (10) days following the end of every month and for at least two (2) consecutive weeks at prominent places in the main office building of the local government unit concerned, its plaza and main street, and to publish said itemization in a newspaper of general circulation, where available, in the territorial jurisdiction of such unit, shall be punished by a fine not exceeding Five hundred pesos (Php500.00) or by imprisonment not exceeding one (1) month, or both such fine and imprisonment, at the discretion of the court.
 
-SECTION 514. Engaging in Prohibited Business Transactions or Possessing Illegal Pecuniary Interest. - Any local official and any person or persons dealing with him who violate the prohibitions provided in Section 89 of Book I hereof, shall be punished with imprisonment for six months and one day to six years, or a fine of not less than Three thousand pesos (P=3,000.00) nor more than Ten thousand pesos (P=10,000.00), or both such imprisonment and fine, at the discretion of the court.
+Section 514. Engaging in Prohibited Business Transactions or Possessing Illegal Pecuniary Interest. - Any local official and any person or persons dealing with him who violate the prohibitions provided in Section 89 of Book I hereof, shall be punished with imprisonment for six months and one day to six years, or a fine of not less than Three thousand pesos (P=3,000.00) nor more than Ten thousand pesos (P=10,000.00), or both such imprisonment and fine, at the discretion of the court.
 
-SECTION 515. Refusal or Failure of Any Party or Witness to Appear before the Lupon or Pangkat. - Refusal or willful failure of any party or witness to appear before the lupon or pangkat in compliance with a summons issued pursuant to the provisions on theKatarungang PamBarangay under Chapter 7, Title One of Book III of this Code may be punished by the city or municipal court as for indirect contempt of court upon application filed therewith by the lupon chairman, the pangkat chairman, or by any of the contending parties. Such refusal or willful failure to appear shall be reflected in the records of the lupon secretary or in the minutes of the pangkat secretary and shall bar the complainant who fails to appear, from seeking judicial recourse for the same cause of action, and the respondent who refuses to appear, from filing any counterclaim arising out of, or necessarily connected with the complaint.
+Section 515. Refusal or Failure of Any Party or Witness to Appear before the Lupon or Pangkat. - Refusal or willful failure of any party or witness to appear before the lupon or pangkat in compliance with a summons issued pursuant to the provisions on theKatarungang PamBarangay under Chapter 7, Title One of Book III of this Code may be punished by the city or municipal court as for indirect contempt of court upon application filed therewith by the lupon chairman, the pangkat chairman, or by any of the contending parties. Such refusal or willful failure to appear shall be reflected in the records of the lupon secretary or in the minutes of the pangkat secretary and shall bar the complainant who fails to appear, from seeking judicial recourse for the same cause of action, and the respondent who refuses to appear, from filing any counterclaim arising out of, or necessarily connected with the complaint.
 
 A pangkat member who serves as such shall be entitled to an honorarium, the amount of which is to be determined by the Sanggunian concerned, subject to the provisions in this Code cited above.
 
-SECTION 516. Penalties for Violation of Tax ordinances. - The Sanggunian of a local government unit is authorized to prescribe fines or other penalties for violation of tax ordinances
+Section 516. Penalties for Violation of Tax ordinances. - The Sanggunian of a local government unit is authorized to prescribe fines or other penalties for violation of tax ordinances
 
 but in no case shall such fines be less than One thousand pesos (Php1,000.00) nor more than Five thousand pesos (Php5000.00), nor shall imprisonment be less than one (1) month nor more than six (6) months. Such fine or other penalty, or both, shall be imposed at the discretion of the court.
 
 The Sangguniang Barangay may prescribe a fine of not less than One hundred pesos (Php100.00) nor more than One thousand pesos (Php1,000.00).
 
-SECTION 517. Omission of Property from Assessment or Tax Rolls by Officers and Other Acts. - Any officer charged with the duty of assessing real property who willfully fails to assess, or who intentionally omits from the assessment or tax roll any real property which he knows to be taxable, or who willfully or negligently under assesses any real property, or who intentionally violates or fails to perform any duty imposed upon him by law relating to the assessment of taxable real property shall, upon conviction, be punished by a fine of not less than One thousand pesos (Php1,000.00) nor more than Five thousand pesos (Php5000.00), or by imprisonment of not less than one (1) month nor more than six (6) months, or both such fine and imprisonment, at the discretion of the court.
+Section 517. Omission of Property from Assessment or Tax Rolls by Officers and Other Acts. - Any officer charged with the duty of assessing real property who willfully fails to assess, or who intentionally omits from the assessment or tax roll any real property which he knows to be taxable, or who willfully or negligently under assesses any real property, or who intentionally violates or fails to perform any duty imposed upon him by law relating to the assessment of taxable real property shall, upon conviction, be punished by a fine of not less than One thousand pesos (Php1,000.00) nor more than Five thousand pesos (Php5000.00), or by imprisonment of not less than one (1) month nor more than six (6) months, or both such fine and imprisonment, at the discretion of the court.
 
 The same penalty shall be imposed upon any officer charged with the duty of collecting the tax due on real property who willfully or negligently fails to collect the tax and institute the necessary proceedings for the collection of the same.
 
 Any other officer required by this Code to perform acts relating to the administration of the real property tax or to assist the assessor or treasurer in such administration, who willfully fails to discharge such duties shall, upon conviction be punished by a fine of not less than Five hundred pesos (Php500.00) nor more than Five thousand pesos (Php5000.00) or imprisonment of not less than one (1) month nor more than six (6) months, or both such fine and imprisonment, at the discretion of the court.
 
-SECTION 518. Government Agents Delaying Assessment of Real Property and Assessment Appeals. - Any government official who intentionally and deliberately delays the assessment of real property or the filing of any appeal against its assessment shall, upon conviction, be punished by a fine of not less than Five hundred pesos (Php500.00) nor more than Five thousand pesos (Php5000.00), or by imprisonment of not less than one (1) month nor more than six (6) months, or both such fine and imprisonment, at the discretion of the court.
+Section 518. Government Agents Delaying Assessment of Real Property and Assessment Appeals. - Any government official who intentionally and deliberately delays the assessment of real property or the filing of any appeal against its assessment shall, upon conviction, be punished by a fine of not less than Five hundred pesos (Php500.00) nor more than Five thousand pesos (Php5000.00), or by imprisonment of not less than one (1) month nor more than six (6) months, or both such fine and imprisonment, at the discretion of the court.
 
-SECTION 519. Failure to Dispose of Delinquent Real Property at Public Auction. - The local treasurer concerned who fails to dispose of delinquent real property at public auction in compliance with the pertinent provisions of this Code, and any other local government official whose acts hinder the prompt disposition of delinquent real property at public auction shall, upon conviction, be subject to a fine of not less than One thousand pesos (Php1000.00) nor more than Five thousand pesos (Php5000.00), or imprisonment of not less than one (1) month nor more than six (6) months, or both such fine and imprisonment, at the discretion of the court.
+Section 519. Failure to Dispose of Delinquent Real Property at Public Auction. - The local treasurer concerned who fails to dispose of delinquent real property at public auction in compliance with the pertinent provisions of this Code, and any other local government official whose acts hinder the prompt disposition of delinquent real property at public auction shall, upon conviction, be subject to a fine of not less than One thousand pesos (Php1000.00) nor more than Five thousand pesos (Php5000.00), or imprisonment of not less than one (1) month nor more than six (6) months, or both such fine and imprisonment, at the discretion of the court.
 
-SECTION 520. Prohibited Acts Related to the Award of Contracts Under the Provisions on Credit Financing. - It shall be unlawful for any public official or employee in the provincial, city, or municipal government, or their relatives within the fourth civil degree of consanguinity or affinity, to enter into or have any pecuniary interest in any contract for the construction, acquisition, operation, or maintenance of any project awarded pursuant to the provisions of Title Four in Book II hereof, or for the procurement of any supplies, materials, or equipment of any kind to be used in the said project. Any person convicted for violation of the provisions of said Title shall be removed from office and shall be punishable by imprisonment of not less than one (1) month, nor more than two (2) years, at the discretion of the court, without prejudice to prosecution under other laws.
+Section 520. Prohibited Acts Related to the Award of Contracts Under the Provisions on Credit Financing. - It shall be unlawful for any public official or employee in the provincial, city, or municipal government, or their relatives within the fourth civil degree of consanguinity or affinity, to enter into or have any pecuniary interest in any contract for the construction, acquisition, operation, or maintenance of any project awarded pursuant to the provisions of Title Four in Book II hereof, or for the procurement of any supplies, materials, or equipment of any kind to be used in the said project. Any person convicted for violation of the provisions of said Title shall be removed from office and shall be punishable by imprisonment of not less than one (1) month, nor more than two (2) years, at the discretion of the court, without prejudice to prosecution under other laws.
 
-TITLE TWO. - PROVISIONS FOR IMPLEMENTATION
+### TITLE TWO. - PROVISIONS FOR IMPLEMENTATION
 
-SECTION 521. Mandatory Review Every Five Years. - Congress shall undertake a mandatory review of this Code at least once every five (5) years and as often as it may deem necessary, with the primary objective of providing a more responsive and accountable local government structure.
+Section 521. Mandatory Review Every Five Years. - Congress shall undertake a mandatory review of this Code at least once every five (5) years and as often as it may deem necessary, with the primary objective of providing a more responsive and accountable local government structure.
 
-SECTION 522. Insurance Coverage. - The Government Service Insurance System (GSIS) shall establish and administer an appropriate system under which the Punong Barangay, the members of the Sangguniang Barangay, the Barangay secretary, the Barangay treasurer, and the members of the Barangay tanod shall enjoy insurance coverage as provided in this Code and other pertinent laws. For this purpose, the GSIS is hereby directed to undertake an actuarial study, issue
+Section 522. Insurance Coverage. - The Government Service Insurance System (GSIS) shall establish and administer an appropriate system under which the Punong Barangay, the members of the Sangguniang Barangay, the Barangay secretary, the Barangay treasurer, and the members of the Barangay tanod shall enjoy insurance coverage as provided in this Code and other pertinent laws. For this purpose, the GSIS is hereby directed to undertake an actuarial study, issue
 
 rules and regulations, determine the premiums payable, and recommend to Congress the amount of appropriations needed to support the system. The amount needed for the implementation of the said insurance system shall be included in the annual General Appropriations Act.
 
-SECTION 523. Personnel Retirement and/or Benefits. - An official or employee of the national government or local government unit separated from the service as a result of reorganization effected under this Code shall, if entitled under the laws then in force, receive the retirement and other benefits accruing thereunder: Provided, however, That such benefits shall be given funding priority by the Department of Budget and Management in the case of national officials and employees, and the local government unit concerned in the case of local officials and employees.
+Section 523. Personnel Retirement and/or Benefits. - An official or employee of the national government or local government unit separated from the service as a result of reorganization effected under this Code shall, if entitled under the laws then in force, receive the retirement and other benefits accruing thereunder: Provided, however, That such benefits shall be given funding priority by the Department of Budget and Management in the case of national officials and employees, and the local government unit concerned in the case of local officials and employees.
 
 Where the employee concerned is not eligible for retirement, he shall be entitled to a gratuity from the national government or the local government unit concerned, as the case may be, equivalent to an amount not lower than one (1) month salary for every year of service over and above the monetary value of the leave credits said employee is entitled to receive pursuant to existing laws.
 
-SECTION 524. Inventory of Infrastructure and Other Community Facilities. - (a) Each local government unit shall conduct a periodic inventory of infrastructure and other community facilities and undertake the maintenance, repair, improvement, or reconstruction of these facilities through a closer cooperation among the various agencies of the national government operating within the province, city, or municipality concerned.
+Section 524. Inventory of Infrastructure and Other Community Facilities. - (a) Each local government unit shall conduct a periodic inventory of infrastructure and other community facilities and undertake the maintenance, repair, improvement, or reconstruction of these facilities through a closer cooperation among the various agencies of the national government operating within the province, city, or municipality concerned.
 
 (b) No infrastructure or community project within the territorial jurisdiction of any local government unit shall be undertaken without informing the local chief executive and the Sanggunian concerned.
 
-SECTION 525. Records and Properties. - All records, equipment, buildings, facilities, and other properties of any office or body of a local government unit abolished or reorganized under this Code shall be transferred to the office or body to which its powers, functions, and responsibilities are substantially devolved.
+Section 525. Records and Properties. - All records, equipment, buildings, facilities, and other properties of any office or body of a local government unit abolished or reorganized under this Code shall be transferred to the office or body to which its powers, functions, and responsibilities are substantially devolved.
 
-TITLE THREE. - TRANSITORY PROVISIONS
+### TITLE THREE. - TRANSITORY PROVISIONS
 
-SECTION 526. Application of this Code to Local Government Units in the Autonomous Regions. - This Code shall apply to all provinces, cities, municipalities and Barangays in the autonomous regions until such time as the regional government concerned shall have enacted its own local government code.
+Section 526. Application of this Code to Local Government Units in the Autonomous Regions. - This Code shall apply to all provinces, cities, municipalities and Barangays in the autonomous regions until such time as the regional government concerned shall have enacted its own local government code.
 
-SECTION 527. Prior Approval or Clearance on Regular and Recurring Transactions. - Six (6) months after effectivity of this Code, prior approval of or clearance from national agencies or offices shall no longer be required for regular and recurring transactions and activities of local government units.
+Section 527. Prior Approval or Clearance on Regular and Recurring Transactions. - Six (6) months after effectivity of this Code, prior approval of or clearance from national agencies or offices shall no longer be required for regular and recurring transactions and activities of local government units.
 
-SECTION 528. Deconcentration of Requisite Authority and Power. - The national government shall, six (6) months after the effectivity of this Code, effect the deconcentration of requisite authority and power to the appropriate regional offices or field offices of national agencies or offices whose major functions are not devolved to local government units.
+Section 528. Deconcentration of Requisite Authority and Power. - The national government shall, six (6) months after the effectivity of this Code, effect the deconcentration of requisite authority and power to the appropriate regional offices or field offices of national agencies or offices whose major functions are not devolved to local government units.
 
-SECTION 529. Tax Ordinances or Revenue Measures. - All existing tax ordinances or revenue measures of local government units shall continue to be in force and effect after the effectivity of this Code unless amended by the Sanggunian concerned, or inconsistent with, or in violation of, the provisions of this Code.
+Section 529. Tax Ordinances or Revenue Measures. - All existing tax ordinances or revenue measures of local government units shall continue to be in force and effect after the effectivity of this Code unless amended by the Sanggunian concerned, or inconsistent with, or in violation of, the provisions of this Code.
 
-SECTION 530. Local Water Districts. - All powers, functions, and attributes granted by Presidential Decree Numbered One hundred ninety-eight (P.D. No. 198), otherwise known as "The Provincial Water Utility Act of 1973," to the Local Water Utilities Administration (LWUA) may be devolved in toto to the existing local water districts should they opt or choose to exercise, in writing, such powers, functions and attributes: Provided, That all obligations of the local government unit concerned to the LWUA shall first be settled prior to said devolution.
+Section 530. Local Water Districts. - All powers, functions, and attributes granted by Presidential Decree Numbered One hundred ninety-eight (P.D. No. 198), otherwise known as "The Provincial Water Utility Act of 1973," to the Local Water Utilities Administration (LWUA) may be devolved in toto to the existing local water districts should they opt or choose to exercise, in writing, such powers, functions and attributes: Provided, That all obligations of the local government unit concerned to the LWUA shall first be settled prior to said devolution.
 
-SECTION 531. Debt Relief for Local Government Units. - (a) Unremitted national collections and statutory contributions. - All debts owed by local government units to the national government
+Section 531. Debt Relief for Local Government Units. - (a) Unremitted national collections and statutory contributions. - All debts owed by local government units to the national government
 
 in unremitted contributions to the Integrated National Police Fund, the Special Education Fund, and other statutory contributions as well as in unremitted national government shares of taxes, charges, and fees collected by the local government units, are hereby written off in full.
 
@@ -3288,7 +3290,7 @@ As incentive to debtor-local government units to increase the efficiency of thei
 
 (f) Appropriations. - Such amount as may be necessary to implement the provisions of this Section shall be included in the annual General Appropriations Act.
 
-SECTION 532. Elections for the Sangguniang Kabataan. - (a) The first elections for the Sangguniang kabataan to be conducted under this Code shall be held thirty (30) days after the next local elections: Provided, That, the regular elections for the Sangguniang kabataan shall be held one hundred twenty (120) days after the Barangay elections thereafter.
+Section 532. Elections for the Sangguniang Kabataan. - (a) The first elections for the Sangguniang kabataan to be conducted under this Code shall be held thirty (30) days after the next local elections: Provided, That, the regular elections for the Sangguniang kabataan shall be held one hundred twenty (120) days after the Barangay elections thereafter.
 
 (b) The amount pertaining to the ten percent (10%) allocation for the kabataang Barangay as provided for in Section 103 of Batas Pambansa Blg. 337 is hereby reappropriated for the purpose of funding the first elections mentioned above. The balance of said funds, if there be any after the said elections, shall be administered by the Presidential Council for Youth Affairs for the purpose of training the newly elected Sangguniang kabataan officials in the discharge of their functions.
 
@@ -3296,7 +3298,7 @@ SECTION 532. Elections for the Sangguniang Kabataan. - (a) The first elections f
 
 (d) All seats reserved for the pederasyon ng mga Sangguniang kabataan in the different Sanggunians shall be deemed vacant until such time that the Sangguniang kabataan chairmen shall have been elected and the respective pederasyon presidents have been selected: Provided, That, elections for the kabataang Barangay conducted under Batas Pambansa Blg. 337 at any time between January 1, 1988 and January 1, 1992 shall be considered as the first elections provided for in this Code. The term of office of the kabataang Barangay officials elected within the said period shall be extended correspondingly to coincide with the term of office of those elected under this Code.
 
-SECTION 533. Formulation of Implementing Rules and Regulations. - (a) Within one (1) month after the approval of this Code, the President shall convene the Oversight Committee as herein provided for. The said Committee shall formulate and issue the appropriate rules and regulations necessary for the efficient and effective implementation of any and all provisions of this Code, thereby ensuring compliance with the principles of local autonomy as defined under the Constitution.
+Section 533. Formulation of Implementing Rules and Regulations. - (a) Within one (1) month after the approval of this Code, the President shall convene the Oversight Committee as herein provided for. The said Committee shall formulate and issue the appropriate rules and regulations necessary for the efficient and effective implementation of any and all provisions of this Code, thereby ensuring compliance with the principles of local autonomy as defined under the Constitution.
 
 (b) The Committee shall be composed of the following:
 
@@ -3330,9 +3332,9 @@ For this purpose, the services of a technical staff shall be enlisted from among
 
 (e) The sum of Five million pesos (P5,000,000), which shall be charged against the Contingent Fund, is hereby allotted to the Committee to fund the undertaking of an information campaign on this Code. The Committee shall formulate the guidelines governing the conduct of said campaign, and shall determine the national agencies or offices to be involved for this purpose.
 
-TITLE FOUR. - FINAL PROVISIONS
+### TITLE FOUR. - FINAL PROVISIONS
 
-SECTION 534. Repealing Clause. - (a) Batas Pambansa Blg. 337, otherwise known as the Local Government Code, Executive Order No. 112 (1987), and Executive Order No. 319 (1988) are hereby repealed.
+Section 534. Repealing Clause. - (a) Batas Pambansa Blg. 337, otherwise known as the Local Government Code, Executive Order No. 112 (1987), and Executive Order No. 319 (1988) are hereby repealed.
 
 (b) Presidential Decrees Nos. 684, 1191, 1508 and such other decrees, orders, instructions, memoranda and issuances related to or concerning the Barangay are hereby repealed.
 
@@ -3344,59 +3346,6 @@ SECTION 534. Repealing Clause. - (a) Batas Pambansa Blg. 337, otherwise known as
 
 (f) All general and special laws, acts, city charters, decrees, executive orders, proclamations and administrative regulations, or part or parts thereof which are inconsistent with any of the provisions of this Code are hereby repealed or modified accordingly.
 
-SECTION 535. Separability Clause. - If, for any reason or reasons, any part or provision of this Code shall be held to be unconstitutional or invalid, other parts or provisions hereof which are not affected thereby shall continue to be in full force and effect.
+Section 535. Separability Clause. - If, for any reason or reasons, any part or provision of this Code shall be held to be unconstitutional or invalid, other parts or provisions hereof which are not affected thereby shall continue to be in full force and effect.
 
-SECTION 536. Effectivity Clause. - This Code shall take effect on January first, nineteen hundred ninety-two, unless otherwise provided herein, after its complete publication in at least one (1) newspaper of general circulation.
-
-Document Outline
-BOOK I
-
-CHAPTER 2. - GENERAL POWERS AND ATTRIBUTES OF LOCAL GOVERNMENT UNITS
-
-CHAPTER 3. - INTERGOVERNMENTAL RELATIONS
-
-Article One. - National Government and Local Government Units
-
-Article Two. - Relations with the Philippine National Police
-
-Article Three. - Inter-Local Government Relations
-
-CHAPTER 5. - LOCAL PREQUALIFICATION, BIDS AND AWARDS COMMITTEE
-
-TITLE TWO. - ELECTIVE OFFICIALS
-
-CHAPTER 1. - QALIFICATIONS AND ELECTION
-
-CHAPTER 2. - VACANCIES AND SUCCESSION
-
-CHAPTER 3. - LOCAL LEGISLATION
-
-CHAPTER 4. - DISCIPLINARY ACTIONS
-
-CHAPTER 5. - RECALL
-
-TITLE THREE. - HUMAN RESOURCES AND DEVELOPMENT
-
-TITLE FOUR. - LOCAL SCHOOL BOARDS
-
-TITLE FIVE. - LOCAL HEALTH BOARDS
-
-TITLE SIX. - LOCAL DEVELOPMENT COUNCILS
-
-TITLE SEVEN. -LOCAL PEACE AND ORDER COUNCIL
-
-TITLE EIGHT. - AUTONOMOUS SPECIAL ECONOMIC ZONE
-
-TITLE NINE. - OTHER PROVISIONS APPLICABLE TO LOCAL GOVERNMENT UNITS
-
-CHAPTER 1. - Settlement of Boundary Disputes
-
-CHAPTER 2. - LOCAL INITIATIVE AND REFERENDUM
-
-Insert from: "LGC_Book4_MiscProvisions.pdf" BOOK IV
-
-TITLE TWO. - PROVISIONS FOR IMPLEMENTATION
-
-TITLE THREE. - TRANSITORY PROVISIONS
-
-TITLE FOUR. - FINAL PROVISIONS
+Section 536. Effectivity Clause. - This Code shall take effect on January first, nineteen hundred ninety-two, unless otherwise provided herein, after its complete publication in at least one (1) newspaper of general circulation.
